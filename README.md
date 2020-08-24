@@ -1,5 +1,4 @@
-# LA BIFURCATION EN TANT QUE PROCESSUS DE SINGULARISATION DES PRATIQUES ARTISTIQUES
-Etienne Baron
+# LA BIFURCATION COMME PROCESSUS DE SINGULARISATION DES PRATIQUES ARTISTIQUES
 ## Carnet de recherche digressif et interactif en ligne
 ### école européenne supérieure de l'image
-2020
+Etienne Baron     2020
