@@ -1,4 +1,4 @@
-## Discussion autour de la Digression
+## Discussion autour de la Digression 20-04-08
 ### Durant le confinement, les rendez-vous pédagogique entre les étudiants et enseignants se sont poursuivi à distance, les échanges ont été réalisé grâce à des logiciels et plateformes de visioconférence.
 #### Le résumé qui suit est tiré d'un échange en live sur Discord (https://discord.com/) le 8 Avril 2020 et a été enregistré avec OBS (https://obsproject.com/fr)
 
@@ -13,14 +13,25 @@
 *Tu as des artistes qui emmènent au moyen de la digression des éléments qui n'étaient pas présent dans le monde de l'art, que ce soit par le médium ou par le biais discursif*
 
 *On avait parlé de l'artiste puis du spectateur, maintenant on pourrait parler du médium comme moyen de digression, on pourrait justement parler de l'interactivité comme une forme de digression.*
-Le fait de filmer en exterieur, de sortir du studio ont été permis par des innovations techniques qui ont déplacé le regard, le médium devient digressif, une caméra portable donne un nouveau degré de liberté par rapport à un rail
-On voit dans l'histoire des médium qu'il permettent pleins de possibilité, c'est la standardisation qui, réduisant le nombre de dispositif, réduit le champ, c'est le cas de la salle de cinéma frontal en lieu et place de la scène d'opéra oude la place circulaire
-D'un côté il y a l'effet de la digression, la parenthèse comme figure de style dans le discorurs, et son écriture comme langage, ce qui est très différent En quoi c'est intérresant d'en parler.
-La digression s'avère dans ce cas intéréssante, positive. Qu'est-ce que suppose l'expérience de la digression dans une ouevre interactive. Est-ce toujours le cas lorsque le spectatu est conscient de cette posture ? On touche à la représentation de cette digression. Est-ce qu'elle est renouvellés par l'interactivité, la virtualité dans mes travaux personnels.
-Il faut poser un certain nombre d'hypothèse, de faire un schéma expérimental : s'agit-il de faire perdre le spectateur, dde capter son attention ? A la manière de Alex dans Orange Mécanique ? La démarche de travail doit épauler un dicours dans les arts plastiques à partir du médium.
-Les éléments les plus importants seront développés dans un certain nombre de pièce mettant en exergue ces différents concepts afin de définir ce que je raconte.
-Filme de Godard ou on le suit et qui se barre, fait de hasard, c'est ce qu'on appelle la contingence. Sinon c'est de l'eschatologie, le monde est tracé, "c'est écrit", le monde serait téléologique et irait vers sa propre fin.
-Les mythes font partis de l'hisroire des hommes, elle les formatent en quelque sorte, nottamment d'une manière linéaire, donc souvent les procédés de digressions cassent la linéarité (développer sur la narratologie).
+
+*Le fait de filmer en extérieur, de sortir du studio grâce à la miniaturisation des dispositifs de captation ont **déplacé le regard** vers de nouveaux champs inexplorés, une caméra portable donne un degré de liberté que ne permet pas un rail.*
+
+*Lorsqu'on explore l'histoire des média depuis leurs création, on voit qu'ils ouvrent tous de multiples possibilités ; **c'est la standardisation des procédés et usages qui réduit le champs des possibles** en réduisant le nombre de dispositif.*
+
+*Il y a quelque chose de la digression qui relève d'un langage, d'une écriture et non plus d'une figure rhétorique au sein d'un discours - tu te souviens de la parenthèse ? - et je trouve que c'est intéressant d'en parler ! Qu'est-ce que supposerait **l'expérience de la digression dans une œuvre interactive** ? Est-ce qu'elle en renouvelle sa représentation ?*
+
+*Il faut maintenant poser un certain nombre d'hypothèse, **se faire un schéma expérimental** : s'agit-il de faire perdre le spectateur, de capter son attention voir carrément de l'empêcher de digresser : tu vois bien dans la scène de torture d'Alex dans Orange Mécanique avec quelle violence on peut aller dans l'impossibilité de faire perdre l'attention !*
+
+*Ce que l'on raconte par le médium découle de la démarche de travail, **ce que l'on choisi de montrer**, c'est pour ça qu'il faudrait développer un certain nombre de pièce où tu mettrais en exergue ces différents concept*
+
+*Je penses notamment dans certains films de Godard à ces rencontres au coin de la rue qui commencent et finissent sans crier gare, c'est parce que **l'imprévisibilité est une composante du monde réel, c'est ce qu'on appelle la contingence**. Sinon on serait dans l'eschatologie où on supposerait de la destiné du monde par les signes et les coïncidences.*
+
+*Les mythes font partis de l'histoire des Hommes et, par le biais du récit, les formatent en quelque sorte, d'une manière principalement linéaire. mais la téléologie, l'idée de la fin des temps n'est pas séparé de celle du hasard : c'est que ces mythes, qui racontent des récits de formations, en donnant une finalité à l'incertitude de la destiné humaine, permet à l'humanité de se saisir et d'investir le champs de l'information, infiniment extensible et continuellement définissable*
+
+*Et c'est aussi pour ça qu'Internet et l'hypertexte font peur car, de par sa nature délinéarisé, on sous-entend la digression en tant que médium, c'est de la perte d'attention et de l'affaiblissement de la mémoire en tant que structure nous préservant de toute perte de sens que les psychologue nous mettent en garde*
+
+*
+
 Le Nouveau Cinéma et le Nouveau Roman cassaient de ce fait la structure du récit de son inéluctable linéarité.
 Internet et l'hypertexte sous-entend la digression en tant que médium, les psychologue mettent en garde sur la perte d'attention, le danger serait qu'elle affaiblirait la mémoire en tant que structure qui nous garderait de toute perte de sens
 LA digression est cependant salutaire quand elle redonne la possibilité d'eplorer, comme un moyen d'étendre les limites de l'art, donc faire de l'art.
