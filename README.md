@@ -20,7 +20,7 @@
 
 *Il y a quelque chose de la digression qui relève d'un langage, d'une écriture et non plus d'une figure rhétorique au sein d'un discours - tu te souviens de la parenthèse ? - et je trouve que c'est intéressant d'en parler ! Qu'est-ce que supposerait **l'expérience de la digression dans une œuvre interactive** ? Est-ce qu'elle en renouvelle sa représentation ?*
 
-*Il faut maintenant poser un certain nombre d'hypothèse, **se faire un schéma expérimental** : s'agit-il de faire perdre le spectateur, de capter son attention voir carrément de l'empêcher de digresser : tu vois bien dans la scène de torture d'Alex dans Orange Mécanique avec quelle violence on peut aller dans l'impossibilité de faire perdre l'attention !*
+*Il faut maintenant poser un certain nombre d'hypothèse, **se faire un schéma expérimental** : s'agit-il de faire perdre le spectateur, de capter son attention voir carrément de l'empêcher de digresser : tu vois bien dans la scène de torture d'Alex dans Orange Mécanique avec quelle violence on peut aller dans l'impossibilité de son perdre l'attention !*
 
 *Ce que l'on raconte par le médium découle de la démarche de travail, **ce que l'on choisi de montrer**, c'est pour ça qu'il faudrait développer un certain nombre de pièce où tu mettrais en exergue ces différents concept*
 
