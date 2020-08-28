@@ -1,31 +1,210 @@
-## Discussion autour de la Digression
-### Durant le confinement, les rendez-vous pédagogique entre les étudiants et enseignants se sont poursuivi à distance, les échanges ont été réalisé grâce à des logiciels et plateformes de visioconférence.
-#### Le résumé qui suit est tiré d'un échange en live sur Discord (https://discord.com/) le 8 Avril 2020 et a été enregistré avec OBS (https://obsproject.com/fr)
+-3cm
 
+\
 
+![image](gfx/EESI_logo-rougePDF.pdf){width="6cm"}\
 
-*La digression devient une fin en soi en ce qu'elle provoque une **effraction** dans le domaine de l'art sans y en être autorisé.*
+Carnet de recherche digressif et interactif en ligne\
+École Européenne Supérieur de l'Image\
 
-*C'est important de le mentionner car ça pourrait être le moyen de **casser des systèmes linéaire**, à sens unique, qui finissent par emmener aux mêmes endroits.*
+2020 -- version 0.1
 
-*Il s'agirait d'**étendre les limites** de l'art, d'échapper aux chemins tracés.*
+Etienne Baron: *La bifurcation en en tant que processus de
+singularisation des pratiques artistiques,* Carnet de recherche
+digressif et interactif en ligne,  2020
 
-*Tu as des artistes qui emmènent au moyen de la digression des éléments qui n'étaient pas présent dans le monde de l'art, que ce soit par le médium ou par le biais discursif*
+[Chemins qui ne mènent nulle part]{.smallcaps}\
+\
+--- [@rilke_les_2005]
 
-*On avait parlé de l'artiste puis du spectateur, maintenant on pourrait parler du médium comme moyen de digression, on pourrait justement parler de l'interactivité comme une forme de digression.*
-Le fait de filmer en exterieur, de sortir du studio ont été permis par des innovations techniques qui ont déplacé le regard, le médium devient digressif, une caméra portable donne un nouveau degré de liberté par rapport à un rail
-On voit dans l'histoire des médium qu'il permettent pleins de possibilité, c'est la standardisation qui, réduisant le nombre de dispositif, réduit le champ, c'est le cas de la salle de cinéma frontal en lieu et place de la scène d'opéra oude la place circulaire
-D'un côté il y a l'effet de la digression, la parenthèse comme figure de style dans le discorurs, et son écriture comme langage, ce qui est très différent En quoi c'est intérresant d'en parler.
-La digression s'avère dans ce cas intéréssante, positive. Qu'est-ce que suppose l'expérience de la digression dans une ouevre interactive. Est-ce toujours le cas lorsque le spectatu est conscient de cette posture ? On touche à la représentation de cette digression. Est-ce qu'elle est renouvellés par l'interactivité, la virtualité dans mes travaux personnels.
-Il faut poser un certain nombre d'hypothèse, de faire un schéma expérimental : s'agit-il de faire perdre le spectateur, dde capter son attention ? A la manière de Alex dans Orange Mécanique ? La démarche de travail doit épauler un dicours dans les arts plastiques à partir du médium.
-Les éléments les plus importants seront développés dans un certain nombre de pièce mettant en exergue ces différents concepts afin de définir ce que je raconte.
-Filme de Godard ou on le suit et qui se barre, fait de hasard, c'est ce qu'on appelle la contingence. Sinon c'est de l'eschatologie, le monde est tracé, "c'est écrit", le monde serait téléologique et irait vers sa propre fin.
-Les mythes font partis de l'hisroire des hommes, elle les formatent en quelque sorte, nottamment d'une manière linéaire, donc souvent les procédés de digressions cassent la linéarité (développer sur la narratologie).
-Le Nouveau Cinéma et le Nouveau Roman cassaient de ce fait la structure du récit de son inéluctable linéarité.
-Internet et l'hypertexte sous-entend la digression en tant que médium, les psychologue mettent en garde sur la perte d'attention, le danger serait qu'elle affaiblirait la mémoire en tant que structure qui nous garderait de toute perte de sens
-LA digression est cependant salutaire quand elle redonne la possibilité d'eplorer, comme un moyen d'étendre les limites de l'art, donc faire de l'art.
-UL Y A DES ARTISTES QUI EXPLORENTY TOUT LE POTENTIEL D4UN médium quand d'autre démontent des système, mais tout système est amené à rencontrer des cassure, des formes hyperspécialisée à des formes plus brutes, l'art fait société et communique des choses à son propos, elle s'actualisent par rapport à ces transformations, ce sont ces forces qui permettent de développer de nouveaux média, de nouvelles formes et de nouveau language.
-On en revient à l'épistémé de Foucault, la pensée et nos formes d'expressions évoluent en continu.
-Immobilité/Mouvement et ses multiples variations
-Mais qu'elle est la finalité de cette digression ? Est-ce qu'elle renforce le But. En ce sens est-ce que le labyrinthe est une forme ultime de digression ? Est-ce volontaire ? IL n'y a de multiple manière de se perdre et de se retrouver, comment ne pas tourner en rond ? C'est une image à exploiter, il faut normalement sortir d'un labyrinthe dans lequel on est entré.
-Le fil d'Ariane et le Minotaure, le labyrinthe a été construit par Dédale, le père d'Icare
+Remerciements {#remerciements .unnumbered}
+-------------
+
+Je remercie toutes les personnes ayant été présente lors de la rédaction
+de ce mémoire\
+Document en cours de construction\
+
+Avant-Propos {#avant-propos .unnumbered}
+------------
+
+En préambule de mon travail de mémoire, il était pour moi nécessaire de
+m'entretenir sur les raisons m'ayant amené à bifurquer durant ma
+recherche.\
+Document en cours de construction\
+
+Introduction
+============
+
+Espace de la Bifurcation
+========================
+
+La Carte : dimension heuristique de la Bifurcation {#ch:chap_one}
+--------------------------------------------------
+
+Document en cours de construction\
+
+Logique et sémantique de la Bifurcation {#ch:chap_two}
+---------------------------------------
+
+Document en cours de construction\
+
+Questionner le paradigme de la singularité
+==========================================
+
+État et passage au sein d'une Bifurcation {#ch:chap_three}
+-----------------------------------------
+
+Document en cours de construction\
+
+Détour sans détour, paradoxe de la singularité {#ch:chap_four}
+----------------------------------------------
+
+Document en cours de construction\
+
+Étre différent mais relié
+=========================
+
+Complexe et décentralisation {#ch:chap_five}
+----------------------------
+
+Document en cours de construction\
+
+Comment ne pas suivre le chemin {#ch:chap_six}
+-------------------------------
+
+Document en cours de construction\
+
+Conclusion
+==========
+
+Appendix
+========
+
+Documents Annexe
+----------------
+
+### Mille Plateau [@deleuze_mille_1980] {#a_plateau}
+
+<https://cequisecret.net/sites/secret/public/pdf/Mille-Plateaux-Gilles_Deleuze.pdf>Mille
+Plateau
+
+### Proust et la digression [@bayard_hors-sujet_1996] {#a_proust}
+
+<http://excerpts.numilog.com/books/9782707315779.pdf>Proust et la
+digression
+
+### La Relation comme forme [@boissier_relation_2008] {#a_forme}
+
+<https://www.lespressesdureel.com/file/ouvrage/1407/extrait_pdf_1407.pdf>La
+Relation comme forme
+
+### Les carnets de recherche en ligne [@dacos_les_2010] {#a_carnet}
+
+<https://archivesic.ccsd.cnrs.fr/sic_00439849/document>Les carnets de
+recherche en ligne
+
+### Balzac et la digression [@deruelle_balzac_2004] {#a_balzac}
+
+<https://www.cairn.info/revue-l-annee-balzacienne-2006-1-page-379.htm?contenu=article>Balzac
+et la digression
+
+### Les Gommes [@robbe-grillet_les_2010] {#a_gomme}
+
+<http://www.leseditionsdeminuit.fr/images/extrait_1795.pdf>Les Gommes
+
+### Enseigner et Apprendre [@filliou_enseigner_1998] {#a_filliou}
+
+<https://monoskop.org/images/5/59/Filliou_Robert_Enseigner_et_apprendre_arts_vivants_1998.pdf>Enseigner
+et Apprendre
+
+### Generative Adversarial Network[@goodfellow_generative_2014] {#a_gan}
+
+<https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf>Generative
+Adversarial Network
+
+### Esthétique post-média[@manovich_esthetique_2017] {#a_post}
+
+<https://journals.openedition.org/appareil/2394>Esthétique post-média
+
+### Le langage des nouveaux média[@manovitch_langage_2015] {#a_new}
+
+<https://journals.openedition.org/questionsdecommunication/5949>Le
+langage des nouveaux média
+
+### L'écriture digressive d'Éric Chevillard [@maziarczyk_les_2018] {#a_non}
+
+<http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.desklight-eb629089-7564-446f-bdca-a06aa638aa88>L'écriture
+digressive d'Éric Chevillard
+
+### L'Hypothèse de Robert Pinget [@patron_hypothese_1995] {#a_pinget}
+
+<https://www.persee.fr/doc/litt_0047-4800_1995_num_97_1_2360>L'Hypothèse
+de Robert Pinget
+
+### Stratégies discursives [@sabry_strategies_1992] {#a_pinget}
+
+<https://www.persee.fr/doc/mots_0243-6450_1994_num_39_1_1901?q=balzac+et+la+digression>Stratégies
+discursives
+
+### Théorie de la Communication [@shannon_mathematical_1998] {#a_shannon}
+
+<http://capesdocte.wdfiles.com/local--files/fiches/Watzlawick_P_logique_communication.pdf>Théorie
+de la Communication
+
+### Sortir de l'Anthropocène [@stiegler_sortir_2015] {#a_sortir}
+
+<https://www.cairn.info/revue-multitudes-2015-3-page-137.htm>Sortir de
+l'Anthropocène
+
+### Qu'appelle-t-on panser ? [@stiegler_quappelle-t-panser_2018] {#a_panser}
+
+<https://excerpts.numilog.com/books/9791020905505.pdf>Qu'appelle-t-on
+panser ?
+
+### abstractmachine.net [@noauthor_abstractmachine_nodate] {#a_panser}
+
+<https://www.abstractmachine.net/>abstractmachine.net
+
+### La Déviation - Moebius [@moebius_deviation_1980] {#a_moebius}
+
+![image](gfx/Arzach-8_big.jpg) ![image](gfx/Arzach-10_big.jpg)
+
+### Budapest ou presque [@nine_budapest_2019] {#a_nine}
+
+![image](gfx/Nine et Ramirez - 2019 - Budapest ou presque.pdf)
+![image](gfx/Nine et Ramirez - 2019 - Budapest ou presque.pdf)
+![image](gfx/Nine et Ramirez - 2019 - Budapest ou presque.pdf)
+![image](gfx/Nine et Ramirez - 2019 - Budapest ou presque.pdf)
+![image](gfx/Nine et Ramirez - 2019 - Budapest ou presque.pdf)
+![image](gfx/Nine et Ramirez - 2019 - Budapest ou presque.pdf)
+![image](gfx/Nine et Ramirez - 2019 - Budapest ou presque.pdf)
+![image](gfx/Nine et Ramirez - 2019 - Budapest ou presque.pdf)
+![image](gfx/Nine et Ramirez - 2019 - Budapest ou presque.pdf)
+![image](gfx/Nine et Ramirez - 2019 - Budapest ou presque.pdf)
+![image](gfx/Nine et Ramirez - 2019 - Budapest ou presque.pdf)
+![image](gfx/Nine et Ramirez - 2019 - Budapest ou presque.pdf)
+![image](gfx/Nine et Ramirez - 2019 - Budapest ou presque.pdf)
+![image](gfx/Nine et Ramirez - 2019 - Budapest ou presque.pdf)
+![image](gfx/Nine et Ramirez - 2019 - Budapest ou presque.pdf)
+![image](gfx/Nine et Ramirez - 2019 - Budapest ou presque.pdf)
+![image](gfx/Nine et Ramirez - 2019 - Budapest ou presque.pdf)
+
+Document en cours de construction\
+
+[\[app:bibliography\]]{#app:bibliography label="app:bibliography"}
+
+### Colophon {#colophon .unnumbered}
+
+Ce document a été composé grâce à la feuille de style typographique
+`classicthesis` conçue by André Miede. L'aspect visuel est inspiré du
+très estimé Robert Bringhurst dans son livre de typographie : "*The
+Elements of Typographic Style*". `classicthesis` est disponible pour
+tout les éditeurs et les distributions LaTeX et également pour le
+programme L-.1667em.25emY-.125emX:
+
+<https://bitbucket.org/amiede/classicthesis/>
+
+Certains utilsateurs de `classicthesis` ont déjà envoyé une carte
+postale à l'auteur, nombre de ces exemplaires sont compilés ici:
+
+<http://postcards.miede.de/>
