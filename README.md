@@ -1,11 +1,13 @@
 ---
-Title: La Bifurcation en tant que moyen de singularisation des pratiques artistiques
-Subtitle: Carnet de recherche digressif et interactif en ligne
+title: La Bifurcation en tant que moyen de singularisation des pratiques artistiques
+subtitle: Carnet de recherche digressif et interactif en ligne
 author: Etienne Baron
 date: 2020-2021
 lang: fr
+bibliography: Bibliographie.bib
+csl: ieee.csl
 ---
-![image](gfx/EESI_logo-rouge.svg)
+![image](gfx/EESI_logo-rougePDF.pdf)
 
 [Chemins qui ne mènent nulle part]{.smallcaps}\
 \
@@ -18,29 +20,18 @@ Je remercie toutes les personnes ayant été présente lors de la rédaction
 de ce mémoire\
 Document en cours de construction\
 
-Avant-Propos {#avant-propos .unnumbered}
-------------
+# [Avant-Propos](FrontBackMatter\AvantPropos.md)
 
-En préambule de mon travail de mémoire, il était pour moi nécessaire de
-m'entretenir sur les raisons m'ayant amené à bifurquer durant ma
-recherche.\
-Document en cours de construction\
+# Index
 
-Introduction
-============
+## Introduction
 
-Espace de la Bifurcation
-========================
+## Espace de la Bifurcation
 
-La Carte : dimension heuristique de la Bifurcation {#ch:chap_one}
---------------------------------------------------
 
-Document en cours de construction\
+- #### [La carte : dimension heuristique de la Bifurcation](Chapters\Chapter01.md)
 
-Logique et sémantique de la Bifurcation {#ch:chap_two}
----------------------------------------
-
-Document en cours de construction\
+- #### [Logique et sémantique de la Bifurcation](Chapters\Chapter02.md)
 
 Questionner le paradigme de la singularité
 ==========================================
