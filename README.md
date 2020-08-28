@@ -1,17 +1,11 @@
--3cm
-
-\
-
-![image](gfx/EESI_logo-rougePDF.pdf){width="6cm"}\
-
-Carnet de recherche digressif et interactif en ligne\
-École Européenne Supérieur de l'Image\
-
-2020 -- version 0.1
-
-Etienne Baron: *La bifurcation en en tant que processus de
-singularisation des pratiques artistiques,* Carnet de recherche
-digressif et interactif en ligne,  2020
+---
+Title: La Bifurcation en tant que moyen de singularisation des pratiques artistiques
+Subtitle: Carnet de recherche digressif et interactif en ligne
+author: Etienne Baron
+date: 2020-2021
+lang: fr
+---
+![image](gfx/EESI_logo-rouge.svg)
 
 [Chemins qui ne mènent nulle part]{.smallcaps}\
 \
