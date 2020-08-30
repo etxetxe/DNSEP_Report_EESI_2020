@@ -7,18 +7,9 @@ lang: fr
 bibliography: Bibliographie.bib
 csl: ieee.csl
 ---
-![image](gfx/EESI_logo-rougePDF.pdf)
+![Ecole Européenne Supérieure de l'Image](gfx/EESI_logo-rougePDF.pdf)
 
-[Chemins qui ne mènent nulle part]{.smallcaps}\
-\
---- [@rilke_les_2005]
-
-Remerciements {#remerciements .unnumbered}
--------------
-
-Je remercie toutes les personnes ayant été présente lors de la rédaction
-de ce mémoire\
-Document en cours de construction\
+# [Remerciements](FrontBackMatter\Citations.md)
 
 # [Avant-Propos](FrontBackMatter\AvantPropos.md)
 
@@ -26,43 +17,27 @@ Document en cours de construction\
 
 ## Introduction
 
-## Espace de la Bifurcation
-
+### 1. Espace de la Bifurcation
 
 - #### [La carte : dimension heuristique de la Bifurcation](Chapters\Chapter01.md)
 
 - #### [Logique et sémantique de la Bifurcation](Chapters\Chapter02.md)
 
-Questionner le paradigme de la singularité
-==========================================
+### 2. Questionner le paradigme de la singularité
 
-État et passage au sein d'une Bifurcation {#ch:chap_three}
------------------------------------------
+- #### [État et passage au sein d'une Bifurcation](Chapters\Chapter03.md)
 
-Document en cours de construction\
+- #### [Détour sans détour, paradoxe de la singularité](Chapters\Chapter04.md)
 
-Détour sans détour, paradoxe de la singularité {#ch:chap_four}
-----------------------------------------------
+### 3. Étre différent mais relié
 
-Document en cours de construction\
+- #### [Complexe et décentralisation](Chapters\Chapter05.md)
 
-Étre différent mais relié
-=========================
+- #### [Comment ne pas suivre le chemin](Chapters\Chapter06.md)
 
-Complexe et décentralisation {#ch:chap_five}
-----------------------------
+## Conclusion
 
-Document en cours de construction\
-
-Comment ne pas suivre le chemin {#ch:chap_six}
--------------------------------
-
-Document en cours de construction\
-
-Conclusion
-==========
-
-Appendix
+# Appendix
 ========
 
 Documents Annexe
@@ -177,19 +152,3 @@ panser ?
 Document en cours de construction\
 
 [\[app:bibliography\]]{#app:bibliography label="app:bibliography"}
-
-### Colophon {#colophon .unnumbered}
-
-Ce document a été composé grâce à la feuille de style typographique
-`classicthesis` conçue by André Miede. L'aspect visuel est inspiré du
-très estimé Robert Bringhurst dans son livre de typographie : "*The
-Elements of Typographic Style*". `classicthesis` est disponible pour
-tout les éditeurs et les distributions LaTeX et également pour le
-programme L-.1667em.25emY-.125emX:
-
-<https://bitbucket.org/amiede/classicthesis/>
-
-Certains utilsateurs de `classicthesis` ont déjà envoyé une carte
-postale à l'auteur, nombre de ces exemplaires sont compilés ici:
-
-<http://postcards.miede.de/>
