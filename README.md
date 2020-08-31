@@ -25,7 +25,7 @@ csl: ieee.csl
 
 ### 2. Questionner le paradigme de la singularité
 
-- #### [État et passage au sein d'une Bifurcation](Chapters\Chapter03.md)
+- #### [État et passage au sein d'une Bifurcation](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/preview/Chapters/Chapter03.md)
 
 - #### [Détour sans détour, paradoxe de la singularité](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/preview/Chapters/Chapter04.md)
 
