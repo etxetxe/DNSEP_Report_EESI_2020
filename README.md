@@ -31,7 +31,7 @@ csl: ieee.csl
 
 ### 3. Être différent mais relié
 
-- #### [Complexe et décentralisation](Chapters\Chapter05.md)
+- #### [Complexe et décentralisation](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/preview/Chapters/Chapter05.md)
 
 - #### [Comment ne pas suivre le chemin](Chapters\Chapter06.md)
 
