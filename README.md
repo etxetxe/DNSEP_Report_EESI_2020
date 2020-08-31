@@ -27,7 +27,7 @@ csl: ieee.csl
 
 - #### [État et passage au sein d'une Bifurcation](Chapters\Chapter03.md)
 
-- #### [Détour sans détour, paradoxe de la singularité](Chapters\Chapter04.md)
+- #### [Détour sans détour, paradoxe de la singularité](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/preview/Chapters/Chapter04.md)
 
 ### 3. Être différent mais relié
 
