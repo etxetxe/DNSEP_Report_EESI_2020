@@ -37,4 +37,4 @@ csl: ieee.csl
 
 ## [Conclusion](Chapters\Chapter07.md)
 
-# [Appendix](Bibliography.bib)
+# [Appendix](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/preview/Bibliographie.bib)
