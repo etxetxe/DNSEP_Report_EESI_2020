@@ -15,7 +15,7 @@ csl: ieee.csl
 
 # Index
 
-## Introduction
+## [Introduction](Chapters\Chapter00.md)
 
 ### 1. Espace de la Bifurcation
 
@@ -35,6 +35,6 @@ csl: ieee.csl
 
 - #### [Comment ne pas suivre le chemin](Chapters\Chapter06.md)
 
-## Conclusion
+## [Conclusion](Chapters\Chapter07.md)
 
 # [Appendix](Bibliography.bib)
