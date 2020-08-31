@@ -9,7 +9,7 @@ csl: ieee.csl
 ---
 ![École Européenne Supérieure de l'Image](gfx/EESI_logo-rouge.svg)
 
-# [Remerciements](FrontBackMatter\Citations.md)
+# [Remerciements](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/preview/FrontBackMatter/AvantPropos.md)
 
 # [Avant-Propos](FrontBackMatter\AvantPropos.md)
 
