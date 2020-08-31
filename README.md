@@ -35,6 +35,6 @@ csl: ieee.csl
 
 - #### [Comment ne pas suivre le chemin](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/preview/Chapters/Chapter06.md)
 
-## [Conclusion](Chapters\Chapter07.md)
+## [Conclusion](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/preview/Chapters/Chapter07.md)
 
 # [Appendix](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/preview/Bibliographie.bib)
