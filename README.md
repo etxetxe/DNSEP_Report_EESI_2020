@@ -11,7 +11,7 @@ csl: ieee.csl
 
 # [Remerciements](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/preview/FrontBackMatter/AvantPropos.md)
 
-# [Avant-Propos](FrontBackMatter\AvantPropos.md)
+# [Avant-Propos](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/preview/FrontBackMatter/Citation.md)
 
 # Index
 
