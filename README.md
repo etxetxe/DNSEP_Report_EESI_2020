@@ -21,7 +21,7 @@ csl: ieee.csl
 
 - #### [La carte : dimension heuristique de la Bifurcation](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/preview/Chapters/Chapter01.md)
 
-- #### [Logique et sémantique de la Bifurcation](Chapters\Chapter02.md)
+- #### [Logique et sémantique de la Bifurcation](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/preview/Chapters/Chapter02.md)
 
 ### 2. Questionner le paradigme de la singularité
 
