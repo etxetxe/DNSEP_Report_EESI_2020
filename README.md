@@ -15,7 +15,7 @@ csl: ieee.csl
 
 # Index
 
-## [Introduction](Chapters\Chapter00.md)
+## [Introduction](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/preview/Chapters/Chapter00.md)
 
 ### 1. Espace de la Bifurcation
 
