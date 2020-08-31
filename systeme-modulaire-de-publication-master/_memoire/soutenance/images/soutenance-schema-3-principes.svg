@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="191px" preserveAspectRatio="none" style="width:571px;height:191px;" version="1.1" viewBox="0 0 571 191" width="571px" zoomAndPan="magnify"><defs/><g><ellipse cx="144.6907" cy="150.1381" fill="#F8F8F8" rx="138.6907" ry="30.1381" style="stroke: #383838; stroke-width: 1.5;"/><text fill="#000000" font-family="Fira Mono Medium" font-size="28" lengthAdjust="spacingAndGlyphs" textLength="217" x="36.1907" y="162.935">Interopérabilité</text><ellipse cx="291.566" cy="34.0473" fill="#F8F8F8" rx="109.066" ry="26.0473" style="stroke: #383838; stroke-width: 1.5;"/><text fill="#000000" font-family="Fira Mono Medium" font-size="28" lengthAdjust="spacingAndGlyphs" textLength="150" x="216.566" y="46.8441">Modularité</text><ellipse cx="439.6099" cy="150.122" fill="#F8F8F8" rx="121.1099" ry="26.622" style="stroke: #383838; stroke-width: 1.5;"/><text fill="#000000" font-family="Fira Mono Medium" font-size="28" lengthAdjust="spacingAndGlyphs" textLength="171" x="354.1099" y="162.9189">Multiformité</text><!--link Modularité to Interopérabilité--><path d="M260.325,59.176 C237.064,77.215 205.224,101.9079 180.814,120.8385 " fill="none" id="Modularité-Interopérabilité" style="stroke: #383838; stroke-width: 1.0;"/><!--link Modularité to Multiformité--><path d="M322.887,59.176 C347.749,78.327 382.345,104.9749 407.392,124.2681 " fill="none" id="Modularité-Multiformité" style="stroke: #383838; stroke-width: 1.0;"/><!--link Interopérabilité to Multiformité--><path d="M283.069,150 C294.781,150 306.493,150 318.205,150 " fill="none" id="Interopérabilité-Multiformité" style="stroke: #383838; stroke-width: 1.0;"/><!--
+@startuml
+skinparam monochrome true
+skinparam defaultFontSize 28
+skinparam defaultFontName Fira Mono Medium
+skinparam shadowing false
+
+(Interopérabilité) -up- (Modularité)
+(Modularité) -down- (Multiformité)
+(Multiformité) -left- (Interopérabilité)
+@enduml
+
+PlantUML version 1.2018.11(Sat Sep 22 16:43:53 UTC 2018)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.7.0_25-b15
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
