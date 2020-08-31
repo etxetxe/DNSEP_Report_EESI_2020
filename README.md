@@ -19,7 +19,7 @@ csl: ieee.csl
 
 ### 1. Espace de la Bifurcation
 
-- #### [La carte : dimension heuristique de la Bifurcation](blob\preview\tree\Chapters\Chapter01.md)
+- #### [La carte : dimension heuristique de la Bifurcation](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/preview/Chapters/Chapter01.md)
 
 - #### [Logique et sémantique de la Bifurcation](Chapters\Chapter02.md)
 
