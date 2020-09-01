@@ -1,0 +1,12 @@
+[plantuml, 3-principes, svg]
+....
+skinparam monochrome true
+skinparam defaultFontSize 28
+skinparam defaultFontName Fira Mono Medium
+skinparam shadowing false
+
+(Interopérabilité) -up- (Modularité)
+(Modularité) -down- (Multiformité)
+(Multiformité) -left- (Interopérabilité)
+
+....
