@@ -1,4 +1,4 @@
-Ne pas manipuler, ouvrir et lire un livre sont des actes qui engendrent des sensations et des expériences multiples.
+Manipuler, ouvrir et lire un livre sont des actes qui engendrent des sensations et des expériences multiples.
 L'une d'entre elles, probablement la plus inconsciente, concerne la matérialité du livre, qu'il soit imprimé ou numérique : le codex ou l'_ebook_ renferme l'aboutissement de plusieurs dizaines de siècles de recherche et de développement.
 Ouvrir un livre est donc l'occasion de prendre la mesure de cette prouesse technologique que sont quelques cahiers reliés ou quelques fichiers compressés.
 Le livre est un moyen d'interroger le rapport que nous entretenons avec la technique, la façon de concevoir et de fabriquer une publication est révélatrice de notre positionnement avec les machines et les programmes.
