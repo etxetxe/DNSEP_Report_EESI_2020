@@ -1,0 +1,123 @@
+# ----
+# Site
+
+title:                  Vers un système modulaire de publication
+tagline:                "Vers un système modulaire de publication : éditer avec le numérique"
+url: https://memoire.quaternum.net
+baseurl:
+google_analytics_key:
+show_full_navigation:   true
+
+resume: "Le domaine du livre, et plus particulièrement l'édition, connaît des mutations profondes au contact du numérique.
+Après des phases successives d'informatisation, l'une des manifestations les plus visibles de ces bouleversements est probablement l'ebook.
+Si le livre numérique est une approche inédite de l'écrit tant dans sa diffusion que dans sa réception, il y a en filigrane des transformations plus essentielles dans la manière de faire des livres.
+Des structures d'édition imaginent des nouvelles chaînes de publication originales et non conventionnelles pour générer des versions imprimée et numériques d'ouvrages et de documents, remplaçant les traditionnels traitements de texte et logiciels de publication par des méthodes et des technologies issues du développement web.
+Ainsi un système modulaire de publication peut se substituer à des chaînes linéaires, repositionnant l'humain au cœur des machines ou des programmes.
+À travers des commentaires de textes et des analyses de cas nous étudions les évolutions du livre avec un regard plus global sur notre rapport à la technique, et nous exposons les principes fondateurs d'un nouveau modèle."
+mots-cles: "édition, livre, chaîne d'édition, chaîne de publication, traitement de texte, logiciel de publication assistée par ordinateur, livre numérique"
+
+abstract: "The book industry, and more specifically the publishing sector, is undergoing profound changes in contact with digital.
+After some computerization phases, one of the most visible manifestations of these disruptions is probably the ebook.
+If the electronic book is a unique approach to the written word, both in its distribution and its reception, there are deeper transformations in the way books are made.
+Publishing organisations imagine new original and unconventional publication chains to generate printed copy as well as multiple digital versions of books and documents, replacing traditional word processors and desktop publishing softwares with methods and technologies from web development.
+So a modular publishing system can replace sequential chains, repositioning the human at the core of machines or programs.
+Through text commentaries and case analyses we study the book's evolution with a more global view of our relationship to technique, and we expose the founding principles of a new model."
+keywords: "publishing, book, publishing chain, word processor, desktop publishin software, ebook"
+
+locale:                 fr_FR
+
+encoding:               UTF-8
+
+date:                   2018
+# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
+logo:                   /siteicon.png
+description:            "Vers un système modulaire de publication : éditer avec le numérique. Mémoire d'Antoine Fauchié sur les chaînes de publication."
+author:
+  name:                 Antoine Fauchié
+  email:                antoine@quaternum.net
+  twitter:              antoinentl
+social:
+  name:                 Vers un système modulaire de publication
+  links:
+    - https://gitlab.com/antoinentl/systeme-modulaire-de-publication/
+
+version: v1.1
+versiondate: mardi 26 mars 2019
+
+# -----
+# Build
+
+timezone:               Etc/UTC
+
+permalink:              pretty
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-scholar
+  - jekyll-microtypo
+  - jekyll-redirect-from
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENCE
+  - materiaux
+
+collections:
+  memoire:
+    title: Documentation
+    permalink: /:path/
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+  -
+    scope:
+      path: ""
+      type: "memoire"
+    values:
+      seo:
+        type: Article
+      _comments:
+        category: Group navigation links with this field
+        order: Used to sort links in the navigation
+      _options:
+        content:
+          width: 800
+          height: 2000
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      _comments:
+        type: Marks the impact of this release
+
+# -----------
+# CloudCannon
+
+types:
+  - minor
+  - major
+
+# --------------
+# Jekyll Scholar
+scholar:
+  style: apa
+  locale: fr
+  source: _bibliographie
+  bibliography: bibliographie.bib
+  relative: "/6-annexes/bibliographie/"
+  sort_by: author
+  bibliography_list_tag: ul
+
+microtypo:
+  median: true
+
+repo_url:             https://gitlab.com/antoinentl/systeme-modulaire-de-publication
+repo_branch:          master

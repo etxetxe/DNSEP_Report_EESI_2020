@@ -1,0 +1,56 @@
+---
+layout: microtypo
+---
+<!DOCTYPE html>
+{% include head.html %}
+
+<body>
+  <header>
+    <h1>
+      <span class="button-cover">Menu</span>
+      <button type="button" class="open-nav" id="open-nav"></button>
+    </h1>
+
+    <nav {% if site.show_full_navigation %}class="full-navigation"{% endif %}>
+      <ul>
+        <li class="nav-item top-level {% if page.url == '/' %}current{% endif %}">
+          {% assign home = site.html_pages | where: 'url', '/' | first %}
+          <a href="{{ site.baseurl }}/">{{ home.title }}</a>
+        </li>
+      </ul>
+
+      <ul>
+        {% assign grouped = site.memoire | group_by: 'category' %}
+        {% for group in grouped %}
+          <li class="nav-item top-level {% if group.name == page.category %}current{% endif %}">
+            {% assign items = group.items | sort: 'order' %}
+            <a href="{{ site.baseurl }}{{ items.first.url }}">{{ group.name }}</a>
+            <ul>
+              {% for item in items %}
+                <li class="nav-item {% if item.url == page.url %}current{% endif %}"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+              {% endfor %}
+            </ul>
+          </li>
+        {% endfor %}
+      </ul>
+
+    </nav>
+  </header>
+		<section class="main">
+			<div class="page-cover">
+				<h2>{{ site.tagline }}</h2>
+        <h3>{{ site.author.name }}</h3>
+        <p><a href="/0-introduction/introduction/">Lire le mémoire</a></p>
+			</div>
+			<article class="content cover-content">
+        <h2>{{ page.title }}</h2>
+				{{ content }}
+			</article>
+		</section>
+    <script>
+    document.getElementById("open-nav").addEventListener("click", function () {
+    document.body.classList.toggle("nav-open");
+    });
+    </script>
+	</body>
+</html>
