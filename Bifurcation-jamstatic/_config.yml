@@ -3,7 +3,7 @@
 
 title:                  LA BIFURCATION COMME PROCESSUS DE SINGULARISATION DES PRATIQUES ARTISTIQUES
 tagline:                "LA BIFURCATION COMME PROCESSUS DE SINGULARISATION DES PRATIQUES ARTISTIQUES Carnet de recherche digressif et interactif en ligne"
-url:
+url: https://memoire.quaternum.net
 baseurl:
 google_analytics_key:
 show_full_navigation:   true
@@ -101,7 +101,7 @@ scholar:
   style: apa
   locale: fr
   source: _bibliographie
-  bibliography: Bibliographie (2).bib
+  bibliography: bibliographie.bib
   relative: "/6-annexes/bibliographie/"
   sort_by: author
   bibliography_list_tag: ul
@@ -109,5 +109,5 @@ scholar:
 microtypo:
   median: true
 
-repo_url:
-repo_branch:          preview3
+repo_url:             https://gitlab.com/antoinentl/systeme-modulaire-de-publication
+repo_branch:          master
