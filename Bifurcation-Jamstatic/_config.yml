@@ -2,18 +2,13 @@
 # Site
 
 title:                  La Bifurcation en tant que processus de singularisation des pratiques artistiques
-tagline:                "Vers un système modulaire de publication : éditer avec le numérique"
+tagline:                "La Bifurcation en tant que processus de singularisation des pratiques artistiques : Carnet de recherche digressif et interactif en ligne"
 url: https://memoire.quaternum.net
 baseurl:
 google_analytics_key:
 show_full_navigation:   true
 
-resume: "Le domaine du livre, et plus particulièrement l'édition, connaît des mutations profondes au contact du numérique.
-Après des phases successives d'informatisation, l'une des manifestations les plus visibles de ces bouleversements est probablement l'ebook.
-Si le livre numérique est une approche inédite de l'écrit tant dans sa diffusion que dans sa réception, il y a en filigrane des transformations plus essentielles dans la manière de faire des livres.
-Des structures d'édition imaginent des nouvelles chaînes de publication originales et non conventionnelles pour générer des versions imprimée et numériques d'ouvrages et de documents, remplaçant les traditionnels traitements de texte et logiciels de publication par des méthodes et des technologies issues du développement web.
-Ainsi un système modulaire de publication peut se substituer à des chaînes linéaires, repositionnant l'humain au cœur des machines ou des programmes.
-À travers des commentaires de textes et des analyses de cas nous étudions les évolutions du livre avec un regard plus global sur notre rapport à la technique, et nous exposons les principes fondateurs d'un nouveau modèle."
+resume: "Mémoire soutenu à l'EESI de Poitiers-Angoulême sur la question de la Bifurcation comme manière de singulariser des pratiques artistiques - Il sera question de faire un focus spécifiquement sur les pratiques numériques en art (développement, installation, création, ...). "
 mots-cles: "édition, livre, chaîne d'édition, chaîne de publication, traitement de texte, logiciel de publication assistée par ordinateur, livre numérique"
 
 abstract: "The book industry, and more specifically the publishing sector, is undergoing profound changes in contact with digital.
@@ -31,13 +26,13 @@ encoding:               UTF-8
 date:                   2018
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo:                   /siteicon.png
-description:            "Vers un système modulaire de publication : éditer avec le numérique. Mémoire d'Antoine Fauchié sur les chaînes de publication."
+description:            "La Bifurcation en tant que processus de singularisation des pratiques artistiques : Carnet de recherche digressif et interactif en ligne. Mémoire d'Etienne Baron sur les pratiques numériques en art"
 author:
   name:                 Antoine Fauchié
   email:                antoine@quaternum.net
   twitter:              antoinentl
 social:
-  name:                 Vers un système modulaire de publication
+  name:                 La Bifurcation en tant que processus de singularisation des pratiques artistiques
   links:
     - https://gitlab.com/antoinentl/systeme-modulaire-de-publication/
 
