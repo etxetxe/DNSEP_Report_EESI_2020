@@ -23,7 +23,7 @@ locale:                 fr_FR
 
 encoding:               UTF-8
 
-date:                   2018
+date:                   2020-2021
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo:                   /siteicon.png
 description:            "La Bifurcation en tant que processus de singularisation des pratiques artistiques : Carnet de recherche digressif et interactif en ligne. Mémoire d'Etienne Baron sur les pratiques numériques en art"
