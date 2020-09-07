@@ -29,7 +29,7 @@ author:
 social:
   name:                 La Bifurcation en tant que processus de singularisation des pratiques artistiques
   links:
-    - https://gitlab.com/antoinentl/systeme-modulaire-de-publication/
+    - https://github.com/etxetxe/DNSEP_Report_EESI_2020
 
 version: v0.1
 versiondate: dimanche 6 Septembre 2020
@@ -109,5 +109,5 @@ scholar:
 microtypo:
   median: true
 
-repo_url:             https://gitlab.com/antoinentl/systeme-modulaire-de-publication
+repo_url:             https://github.com/etxetxe/DNSEP_Report_EESI_2020
 repo_branch:          master
