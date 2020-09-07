@@ -3,7 +3,7 @@
 
 title:                  La Bifurcation en tant que processus de singularisation des pratiques artistiques
 tagline:                "La Bifurcation en tant que processus de singularisation des pratiques artistiques : Carnet de recherche digressif et interactif en ligne"
-url: https://memoire.quaternum.net
+url: 
 baseurl:
 google_analytics_key:
 show_full_navigation:   true
@@ -23,9 +23,8 @@ date:                   2020-2021
 logo:                   /siteicon.png
 description:            "La Bifurcation en tant que processus de singularisation des pratiques artistiques : Carnet de recherche digressif et interactif en ligne. Mémoire d'Etienne Baron sur les pratiques numériques en art"
 author:
-  name:                 Antoine Fauchié
-  email:                antoine@quaternum.net
-  twitter:              antoinentl
+  name:                 Etienne Baron
+  email:                e.baron@eesi.eu
 social:
   name:                 La Bifurcation en tant que processus de singularisation des pratiques artistiques
   links:
