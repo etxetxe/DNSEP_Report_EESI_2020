@@ -1,11 +1,18 @@
->Chemins qui ne mènent nulle part/
-Chemins qui ne mènent nulle part/
-entre deux prés,que l’on dirait avec art/
-de leur but détournés,chemins qui souvent n’ont/
-devant eux rien d’autre en face/
-que le pur espace/
-et la saison./
->{% cite simondon_du_2012 %}
+>Chemins qui ne mènent nulle part
+
+>Chemins qui ne mènent nulle part
+
+>entre deux prés,que l’on dirait avec art
+
+>de leur but détournés,chemins qui souvent n’ont
+
+>devant eux rien d’autre en face
+
+>que le pur espace
+
+>et la saison.
+
+>{% cite rilke_les_2005 %}
 
 Je remercie Frédéric Curien et Désiré Laurenz pour avoir accepté la co-direction de ce mémoire, et pour m'avoir apporté des retours précieux, rapides, exigeants et enthousiasmants.
 
