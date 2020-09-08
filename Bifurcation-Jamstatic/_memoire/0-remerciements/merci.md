@@ -4,7 +4,7 @@ title: "Merci"
 category: Remerciements
 order: 1
 redirect_from:
-  - /7-remerciements/
-repo: _memoire/7-remercients/-merci.md
+  - /0-remerciements/
+repo: _memoire/0-remerciements/-merci.md
 ---
 {% include_relative -merci.md %}
