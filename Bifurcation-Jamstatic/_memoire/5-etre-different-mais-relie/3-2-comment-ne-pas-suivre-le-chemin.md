@@ -1,9 +1,9 @@
 ---
-title: "3.2. Les principes d'un nouveau modèle"
-category: 3. Un système modulaire
+title: "3.2. Comment ne pas suivre le chemin"
+category: 3. Être différent mais relié
 order: 3
-partiep_link: /3-un-systeme-modulaire/3-1-les-etapes-d-une-chaine-de-publication/
-parties_link: /5-conclusion/
-repo: _memoire/3-un-systeme-modulaire/-3-2-les-principes-d-un-nouveau-modele-de-publication.md
+partiep_link: /5-etre-different-mais-relie/3-1-complexe-et-decentralisation/
+parties_link: /6-conclusion/conclusion/
+repo: _memoire/5-etre-different-mais-relie/-3-2-comment-ne-pas-suivre-le-chemin.md
 ---
-{% include_relative -3-2-les-principes-d-un-nouveau-modele-de-publication.md %}
+{% include_relative -3-2-comment-ne-pas-suivre-le-chemin.md %}

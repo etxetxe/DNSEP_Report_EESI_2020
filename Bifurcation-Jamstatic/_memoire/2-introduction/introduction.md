@@ -1,6 +1,6 @@
 ---
 layout: defaultn
-title: "Partir d'une digression"
+title: "D'une digression à l'autre..."
 category: Introduction
 order: 1
 redirect_from:

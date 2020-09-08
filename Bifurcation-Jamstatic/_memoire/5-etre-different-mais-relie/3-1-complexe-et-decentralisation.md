@@ -1,9 +1,9 @@
 ---
-title: "3.1. Les étapes d'une chaîne de publication"
-category: 3. Un système modulaire
+title: "3.1. Complexe et décentralisation"
+category: 3. Être différent mais relié
 order: 2
-partiep_link: /3-un-systeme-modulaire/3-0-introduction/
-parties_link: /3-un-systeme-modulaire/3-2-les-principes-d-un-nouveau-modele-de-publication/
-repo: _memoire/3-un-systeme-modulaire/-3-1-les-etapes-d-une-chaine-de-publication.md
+partiep_link: /5-etre-different-mais-relie/3-0-introduction/
+parties_link: /5-etre-different-mais-relie/3-2-comment-ne-pas-suivre-le-chemin/
+repo: _memoire/5-etre-different-mais-relie/-3-1-complexe-et-decentralisation.md
 ---
-{% include_relative -3-1-les-etapes-d-une-chaine-de-publication.md %}
+{% include_relative -3-1-complexe-et-decentralisation.md %}
