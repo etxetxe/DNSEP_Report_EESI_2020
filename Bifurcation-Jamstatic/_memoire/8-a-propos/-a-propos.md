@@ -1,8 +1,8 @@
-Ce document, que vous lisiez la version web, la version PDF ou la version imprimée, est le mémoire d'Antoine Fauchié sous la direction d'Anthony Masure et de Marcello Vitali-Rosati.
-Il s'agit d'un travail de recherche réalisé dans le cadre d'une Validation des acquis de l'expérience (VAE) en Master Sciences de l'information et des bibliothèques, spécialité Publication numérique à l'[Enssib](http://www.enssib.fr/).
+Ce document, que vous lisiez la version web, la version PDF ou la version imprimée, est le mémoire d'Etienne Baron sous la direction de Frédéric Curien et de Désirée Laurenz.
+Il s'agit d'un travail de recherche réalisé dans le cadre du Diplôme National Supérieure d'Expression Plastique à l'[EESI Angoulême-Poitiers](https://www.eesi.eu/site/index.php).
 
 ## Soutenance
-La soutenance de ce mémoire a eu lieu vendredi 28 septembre 2018 à l'Enssib.
+La soutenance de ce mémoire a eu lieu vendredi 28 février 2021 à l'EESI Angoulême-Poitiers.
 Ouverte au public, elle a réuni une quinzaine de personnes, que les participant·e·s soient ici remercié·e·s.
 
 ## Version
@@ -30,19 +30,3 @@ Ce mémoire est fabriqué avec les langages, composants, programmes et logiciels
 * éditeur de texte et IDE : [Atom](https://atom.io/) ;
 * navigateur web : [Mozilla Firefox](https://www.mozilla.org/fr/firefox/) ;
 * logiciel de gestion de références bibliographiques : [Zotero](https://www.zotero.org/).
-
-Ce mémoire a été écrit avec ♥ et quelques gouttes de sueur en écoutant la playlist suivante :
-
-- [Lebanon Hanover - Gallowdance](https://www.youtube.com/watch?v=WPw7nlluRdc)
-- [Shannon Wright - With Closed Eyes](https://www.youtube.com/watch?v=hfCYG0Jkq1Y)
-- [Human Tetris - Things I Don't Need](https://www.youtube.com/watch?v=ALk3o7m5Jt8)
-- [Battles - Futura](https://www.youtube.com/watch?v=9zAJ0R9zHFY)
-- [girlpool - Soup](https://girlpoool.bandcamp.com/track/soup)
-- [Swans - Bring the Sun](https://www.youtube.com/watch?v=vlONStHIBUA)
-- [Franz Schubert - La mort et la jeune fille](https://www.youtube.com/watch?v=qXhxi4z0bLs)
-- [Cigarettes After Sex - Dreaming of You](https://www.youtube.com/watch?v=ZuIDh4XIzxU)
-- [Shellac - Cooper](https://www.youtube.com/watch?v=t_et94mhU9s)
-- [Andy Shauf - Wendell Walker (Live at The Drake Hotel)](https://www.youtube.com/watch?v=3dThrMKG4r4)
-- [Mogwai - Olds Poisons](https://www.youtube.com/watch?v=DK6yw2xQ4y4)
-- [Mix - Modular ambient](https://www.youtube.com/watch?v=gOqCXuUtsbg&start_radio=1&list=RDgOqCXuUtsbg)
-- [r beny - Spring in Blue](https://www.youtube.com/watch?v=0we7tkr-jh4)

@@ -3,21 +3,20 @@
 
 title:                  La Bifurcation en tant que processus de singularisation des pratiques artistiques
 tagline:                "La Bifurcation en tant que processus de singularisation des pratiques artistiques : Carnet de recherche digressif et interactif en ligne"
-url: 
+url:
 baseurl:
 google_analytics_key:
 show_full_navigation:   true
 
+
 resume: "Mémoire soutenu à l'EESI de Poitiers-Angoulême sur la question de la Bifurcation comme manière de singulariser des pratiques artistiques - Il sera question de faire un focus spécifiquement sur les pratiques numériques en art (développement, installation, création, ...)."
 mots-cles: "art numérique, édition numérique, "
-
+  
 abstract: "Mémoire soutenu à l'EESI de Poitiers-Angoulême sur la question de la Bifurcation comme manière de singulariser des pratiques artistiques - Il sera question de faire un focus spécifiquement sur les pratiques numériques en art (développement, installation, création, ...)."
 keywords: "digital art, digital publishing"
-
 locale:                 fr_FR
 
 encoding:               UTF-8
-
 date:                   2020-2021
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo:                   /siteicon.png
