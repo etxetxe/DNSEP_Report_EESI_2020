@@ -1,5 +1,4 @@
 ---
-layout: defaultn
 title: "Merci"
 category: Remerciements
 order: 1
