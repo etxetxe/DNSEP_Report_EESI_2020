@@ -1,5 +1,4 @@
 ---
-layout: defaultn
 title: "D'une digression à l'autre..."
 category: Introduction
 order: 1
