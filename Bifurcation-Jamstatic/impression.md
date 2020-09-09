@@ -62,10 +62,6 @@ layout: print
 
 {% include_relative _memoire/7-annexes/-bibliographie.md %}
 
-<h1 class="sub-annexes" id="n-a-3">Autour du mémoire</h1>
-
-{% include_relative _memoire/7-annexes/-autour-du-memoire.md %}
-
 <h1 class="chapter">À propos</h1>
 
 {% include_relative _memoire/1-a-propos/-a-propos.md %}
