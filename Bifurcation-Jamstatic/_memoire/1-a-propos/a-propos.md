@@ -1,5 +1,4 @@
 ---
-layout: defaultn
 title: "Version, licence, fabrication"
 category: À propos
 order: 1
