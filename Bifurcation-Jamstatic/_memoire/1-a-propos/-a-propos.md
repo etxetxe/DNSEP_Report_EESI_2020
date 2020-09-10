@@ -2,8 +2,7 @@ Ce document, que vous lisiez la version web, la version PDF ou la version imprim
 Il s'agit d'un travail de recherche réalisé dans le cadre du Diplôme National Supérieure d'Expression Plastique à l'[EESI Angoulême-Poitiers](https://www.eesi.eu/site/index.php).
 
 ## Soutenance
-La soutenance de ce mémoire a eu lieu vendredi 28 février 2021 à l'EESI Angoulême-Poitiers.
-Ouverte au public, elle a réuni une quinzaine de personnes, que les participant·e·s soient ici remercié·e·s.
+La soutenance de ce mémoire aura lieu en février 2021 à l'EESI Angoulême-Poitiers.
 
 ## Version
 Version {{ site.version }}, datée du {{ site.versiondate }}.
@@ -15,7 +14,8 @@ Site web : [https://memoire.quaternum.net](https://memoire.quaternum.net)
 
 ## Licence
 Licence Creative Commons BY-NC-SA, Attribution-NonCommercial-ShareAlike 4.0 International.
-Vous êtes libre d'utiliser et de modifier les textes de ce mémoire à condition de me citer systématiquement, de ne pas faire d'usage commercial de votre utilisation, et de partager votre version dans les mêmes conditions indiquées ici, donc avec la même licence.
+Ce mémoire, dans son système, est un fork du travail de thèse mené par [Antoine Fouchié](https://www.quaternum.net/) à l'[Enssib](http://www.enssib.fr/) sur les systèmes de publication et l'impact du numérique sur ses chaînes actuelles.
+[https://memoire.quaternum.net](https://memoire.quaternum.net).
 
 ## Fabrication
 Ce mémoire est fabriqué avec les langages, composants, programmes et logiciels suivants :
