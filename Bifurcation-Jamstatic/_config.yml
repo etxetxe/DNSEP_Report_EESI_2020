@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title:                  La Bifurcation en tant que processus de singularisation des pratiques artistiques
+title:                  Menu
 tagline:                "La Bifurcation en tant que processus de singularisation des pratiques artistiques : Carnet de recherche digressif et interactif en ligne"
 url:
 baseurl:
@@ -25,7 +25,7 @@ author:
   name:                 Etienne Baron
   email:                e.baron@eesi.eu
 social:
-  name:                 Menu
+  name:                 La Bifurcation en tant que processus de singularisation des pratiques artistiques
   links:
     - https://github.com/etxetxe/DNSEP_Report_EESI_2020
 
