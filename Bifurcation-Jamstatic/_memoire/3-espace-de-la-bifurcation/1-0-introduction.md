@@ -1,7 +1,7 @@
 ---
 title: "1.0 Introduction"
 category: 1. Espace de La bifurcation
-order: 3
+order: 1
 redirect_from:
   - /3-espace-de-la-bifurcation/
 partiep_link: /2-introduction/introduction/
