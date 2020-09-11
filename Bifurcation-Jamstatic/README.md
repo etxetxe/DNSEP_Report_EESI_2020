@@ -1,5 +1,5 @@
 # Un mémoire sur la Bifurcation
-Ceci est le dépôt du mémoire sur la Bifurcation d'[Etienne Baron](https://urltr.ee/etxetxe) : *Vers un système modulaire de publication : éditer avec le numérique*.
+Ceci est le dépôt du mémoire sur la Bifurcation d'[Etienne Baron](https://urltr.ee/etxetxe) : *La Bifurcation en tant que processus de singularisation des pratiques artistiques : Carnet de recherche digressif et interactif en ligne*.
 
 Ce mémoire, sous la direction de Frédéric Curien et de Désirée Lorenz, est réalisé dans le cadre du Diplôme National Supérieur d'Expression Plastique à l'[EESI Angoulême-Poitiers](https://www.eesi.eu/site/index.php).
 
