@@ -63,7 +63,7 @@ defaults:
     scope:
       path: ""
     values:
-      layout: defaultn
+      layout:
   -
     scope:
       path: ""
