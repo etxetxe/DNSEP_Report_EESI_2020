@@ -7,7 +7,7 @@ layout: print
 </section>
 {% include_relative _memoire/2-introduction/-introduction.md %}
 
-<h1 class="chapter" id="n1">1.0 Introduction</h1>
+<h1 class="sub-chapter" id="n1">1.0 Introduction</h1>
 
 {% include_relative _memoire/3-espace-de-la-bifurcation/-1-0-introduction.md %}
 
