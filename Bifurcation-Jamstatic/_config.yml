@@ -29,8 +29,8 @@ social:
   links:
     - https://github.com/etxetxe/DNSEP_Report_EESI_2020
 
-version: v0.1
-versiondate: dimanche 6 Septembre 2020
+version: v0.2
+versiondate: Vendredi 11 Septembre 2020
 
 # -----
 # Build
@@ -63,7 +63,7 @@ defaults:
     scope:
       path: ""
     values:
-      layout: default
+      layout: print
   -
     scope:
       path: ""

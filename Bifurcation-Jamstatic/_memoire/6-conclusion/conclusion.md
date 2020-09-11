@@ -1,5 +1,5 @@
 ---
-title: "...Pour finir par une bifurcation"
+title: "... Pour finir par une bifurcation"
 category: Conclusion
 order: 1
 redirect_from:

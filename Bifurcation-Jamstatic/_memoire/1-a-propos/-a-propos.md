@@ -7,8 +7,6 @@ La soutenance de ce mémoire aura lieu en février 2021 à l'EESI Angoulême-Poi
 ## Version
 Version {{ site.version }}, datée du {{ site.versiondate }}.
 
-Site web : [https://memoire.quaternum.net](https://memoire.quaternum.net)
-
 [Version PDF imprimable](https://memoire.quaternum.net/telechargement/fauchie-antoine-vers-un-systeme-modulaire-de-publication-cc-by-nc-sa.pdf).
 
 
@@ -24,7 +22,7 @@ Ce mémoire est fabriqué avec les langages, composants, programmes et logiciels
 * générateur de site statique [Jekyll](https://jekyllrb.com/) ;
 * extensions pour Jekyll : [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) et [jekyll-microtypo](https://github.com/borisschapira/jekyll-microtypo/) ;
 * système de gestion de versions [Git](https://git-scm.com/) ;
-* plate-forme d'hébergement de dépôt Git [GitLab](https://gitlab.com/) ;
+* plate-forme d'hébergement de dépôt Git [GitHub](https://github.com/) ;
 * déploiement continu, hébergement et CDN : [Netlify](https://www.netlify.com/) ;
 * script [paged.js](https://gitlab.pagedmedia.org/tools/pagedjs) pour la conversion HTML > PDF ;
 * éditeur de texte et IDE : [Atom](https://atom.io/) ;

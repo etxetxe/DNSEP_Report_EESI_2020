@@ -1,5 +1,5 @@
 ---
-title: "D'une digression à l'autre..."
+title: "D'une digression à l'autre ..."
 category: Introduction
 order: 1
 redirect_from:
