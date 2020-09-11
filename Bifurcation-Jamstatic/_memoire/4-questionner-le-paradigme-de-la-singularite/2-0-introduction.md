@@ -1,6 +1,6 @@
 ---
 title: "2.0 Introduction"
-category: 1. Mutations du livre
+category: 2. Questionner le paradigme de la singularité
 order: 1
 redirect_from:
   - /4-questionner-le-paradigme-de-la-singularite/

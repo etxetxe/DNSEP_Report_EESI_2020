@@ -1,7 +1,7 @@
-# Un mémoire sur les chaînes de publication
-Ceci est le dépôt du mémoire sur les chaînes de publication d'[Antoine Fauchié](https://www.quaternum.net/) : *Vers un système modulaire de publication : éditer avec le numérique*.
+# Un mémoire sur la Bifurcation
+Ceci est le dépôt du mémoire sur la Bifurcation d'[Etienne Baron](https://bit.ly/link_pebp/) : *Vers un système modulaire de publication : éditer avec le numérique*.
 
-Ce mémoire, sous la direction d'[Anthony Masure](http://www.anthonymasure.com/) et de [Marcello Vitali-Rosati](http://vitalirosati.com/), est réalisé dans le cadre d'une Validation des acquis de l'expérience (VAE) en Master 2 Publication numérique à l'[enssib](http://www.enssib.fr/).
+Ce mémoire, sous la direction de [Frédéric Curien](http://www.anthonymasure.com/) et de [Désirée Lorenz](http://vitalirosati.com/), est réalisé dans le cadre du Diplôme National Supérieur d'Expression Plastique à l'[EESI Angoulême-Poitiers](https://www.eesi.eu/site/index.php).
 
 Ce dépôt a vocation à donner à voir un travail de recherche et d'écriture en cours, plutôt qu'à rassembler des contributions – même si celles-ci sont possibles et bienvenues.
 Vous pouvez suivre les évolutions ([activity](https://gitlab.com/antoinentl/systeme-modulaire-de-publication/activity)), les phases d'écriture ([commits](https://gitlab.com/antoinentl/systeme-modulaire-de-publication/commits/master) et [branches](https://gitlab.com/antoinentl/systeme-modulaire-de-publication/branches)) et les échanges ([issues](https://gitlab.com/antoinentl/systeme-modulaire-de-publication/issues)) sur ce dépôt.
@@ -28,7 +28,7 @@ Ce mémoire s'articule autour de quatre piliers :
 Ce mémoire a comme point de départ ce billet écrit en mars 2017 : [Une chaîne de publication inspirée du web](https://www.quaternum.net/2017/03/13/une-chaine-de-publication-inspiree-du-web/)
 
 ## Bibliographie
-Une bibliographie, sous forme de Groupe Zotero, est disponible par ici : [https://www.zotero.org/groups/2191614/](https://www.zotero.org/groups/2191614/).
+Une bibliographie, sous forme de Groupe Zotero, est disponible par ici : [https://www.zotero.org/groups/2191614/](https://www.zotero.org/groups/2559522/bifurcation_eesi_memoire).
 
 
 ## Un dépôt ?
