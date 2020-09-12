@@ -7,7 +7,7 @@ La soutenance de ce mémoire aura lieu en février 2021 à l'EESI Angoulême-Poi
 ## Version
 Version {{ site.version }}, datée du {{ site.versiondate }}.
 
-[Version PDF imprimable](https://memoire.quaternum.net/telechargement/fauchie-antoine-vers-un-systeme-modulaire-de-publication-cc-by-nc-sa.pdf).
+[Version PDF imprimable](/telechargement/baron-etienne-bifurcation-carnet-de-recherche-cc-by-nc-sa.pdf).
 
 
 ## Licence

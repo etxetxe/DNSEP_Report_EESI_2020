@@ -8,7 +8,7 @@ Au sein du système de gestion de versions Git, un _commit_ est un enregistremen
 #### Générateur de site statique
 Un générateur de site statique, _static site generator_ ou SSG en anglais, est un programme permettant de transformer des fichiers écrits dans un format de langage de balisage léger en fichiers HTML organisés constituant un site web.
 Contrairement au système de gestion de contenu classique comme le CMS Wordpress, les générateurs de site statique n'utilisent pas de bases de données.
-Plus d'informations via le site de la communauté française Jamstatic : https://jamstatic.fr/.
+Plus d'informations via le site de la communauté française [Jamstatic](https://jamstatic.fr/).
 
 #### Markdown
 "Inventé par John Gruber au début des années 2000, Markdown est un langage sémantique qui permet d'écrire du HTML — Hyper Text Markup Language — avec un système de balisage bien plus léger.
