@@ -20,7 +20,7 @@ Mémoire d'[Etienne Baron](https://urltr.ee/etxetxe) dans le cadre du Diplôme N
 
 
 ### Imprimer ce site web
-[Version PDF imprimable](/telechargement/fauchie-antoine-vers-un-systeme-modulaire-de-publication-cc-by-nc-sa.pdf).
+[Version PDF imprimable](/telechargement/baron-etienne-bifurcation-carnet-de-recherche-cc-by-nc-sa.pdf).
 
 ### Contexte
 Ce travail de recherche est réalisé dans le cadre du Diplôme National Supérieur d'Expression Plastique à l'[EESI Angoulême-Poitiers](https://www.eesi.eu/site/index.php).
