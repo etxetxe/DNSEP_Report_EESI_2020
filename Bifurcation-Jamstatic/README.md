@@ -12,7 +12,19 @@ Une bibliographie, sous forme de Groupe Zotero, est disponible par ici : [https:
 ## Un générateur de site statique
 Pour produire les différentes versions du mémoire, le générateur de site statique [Jekyll](https://jekyllrb.com/) est utilisé, ainsi que différentes briques.
 
+## Travailler depuis des sources
+
+Ce mémoire, dans son système, est un fork du travail de thèse {% cite antoine_publi_num %} mené par [Antoine Fouchié](https://www.quaternum.net/) à l'[Enssib](http://www.enssib.fr/) sur les systèmes de publication et l'impact du numérique sur ses chaînes actuelles.[https://memoire.quaternum.net](https://memoire.quaternum.net).
+On retrouve dans l'open-source l'idée de mutualiser les ressources et les champs de compétences afin de trouver de nouvelles idées et de nouvelles formes, ce qui amène à penser d'autres manières de collaborer, souvent asymétriques et itératives.
+Dans le cadre de mon mémoire, je souhaite faire en sorte de garder en tête la structuration générale d'un mémoire universitaire (citations, bibliographies, ...) afin de pouvoir mieux penser les nouvelles formes plastiques que je souhaiterais développer, notamment avec les outils de la [XR](https://blogs.icrc.org/inspired/wp-content/uploads/sites/107/2019/10/Extended-Reality-Report-BRIEF.pdf)
+
 ## Conventions
+
+### Feuille de Route
+Déploiement de la version 0.2 du site : mi-Septembre 2020
+Établissement des protocoles de communication et de collaboration sur le dépôt GitHub : jusqu'à fin Septembre
+FAQ sur le fonctionnement du système de la source : Octobre 2020
+D'autres infos prochainement ! :smile:
 
 ### Écriture
 Pour faciliter le travail de commentaire et de validation : une phrase par ligne.
