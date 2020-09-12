@@ -3,7 +3,7 @@ title: "Version imprimée"
 layout: print
 ---
 <section class="intro">
-<h1 class="chapter" id="n0">Introduction : D'une digression à l'autre...</h1>
+<h1 class="chapter" id="n0">Introduction : D'une digression à l'autre ...</h1>
 </section>
 {% include_relative _memoire/2-introduction/-introduction.md %}
 
@@ -43,7 +43,7 @@ layout: print
 
 {% include_relative _memoire/5-etre-different-mais-relie/-3-2-comment-ne-pas-suivre-le-chemin.md %}
 
-<h1 class="chapter" id="n-c">Conclusion : ...Pour finir par une bifurcation</h1>
+<h1 class="chapter" id="n-c">Conclusion : ... Pour finir par une bifurcation</h1>
 
 {% include_relative _memoire/6-conclusion/-conclusion.md %}
 
