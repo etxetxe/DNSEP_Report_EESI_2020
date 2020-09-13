@@ -1,0 +1,42 @@
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link href="https://gmpg.org/xfn/11" rel="profile">
+		<meta name="generator" content="Jekyll https://jekyllrb.com/">
+		<meta name="description" content="{{ site.description }}" />
+		<meta name="keywords" content="art numérique, édition numérique" />
+		<!-- DC -->
+		<link rel="schema.dc" href="https://purl.org/dc/elements/1.1/">
+		<meta property="DC.creator" content="Baron, Etienne" />
+		<meta property="DC.publisher" content="Baron, Etienne" />
+		<meta property="DC.language" content="fr" />
+		<meta property="DC.title" content="{{ page.title }} – {{ site.title }}" />
+		<meta property="DC.description" content="{{ site.description }}" />
+		<meta property="DC.rights" content="CC BY-NC-SA" />
+		<meta property="DC.date" content="{{ site.date }}" />
+		<!-- OG -->
+		<meta property="og:title" content="{{ page.title }} – {{ site.title }}"/>
+		<meta property="og:url" content="{{ site.baseurl }}{{ page.url }}">
+		<meta property="og:description" content="{{ site.description }}"/>
+		<meta property="og:site_name" content="{{ site.title }}"/>
+		<meta property="og:type" content="book"/>
+		<!--  https://schema.org/Article -->
+		<meta property="description" itemprop="description" content="{{ site.description }}">
+		<meta property="article:published" itemprop="datePublished" content="{{ site.date }}">
+		<meta property="article:created" itemprop="dateCreated" content="{{ site.date }}">
+		<meta property="article:author" content="Baron, Etienne">
+		<!--  Twitter Card -->
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:domain" content="memoire.quaternum.net" />
+	<meta name="twitter:creator" content="@antoinentl"/>
+	<meta name="twitter:site" content="@antoinentl" />
+	<meta name="twitter:title" content="{{ page.title }} – {{ site.title }}" />
+	<meta name="twitter:description" content="{{ site.description }}">
+	<meta name="twitter:url" content="{{ site.baseurl }}{{ page.url }}"/>
+	{% if page.layout == "cover" %}<title>{{ site.tagline }} – {{ site.author.name }}</title>{% else %}<title>{{ page.title }} – {{ site.title }}</title>{% endif %}
+	<link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+	<link rel="apple-touch-icon" href="{{ site.baseurl }}/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="{{ site.baseurl }}/touch-icon.png" sizes="192x192">
+	<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicon.png">
+</head>
