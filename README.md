@@ -14,9 +14,9 @@ Pour produire les différentes versions du mémoire, le générateur de site sta
 
 ## Travailler depuis des sources
 
-Ce mémoire, dans son système, est un fork du travail de thèse {% cite antoine_publi_num %} mené par [Antoine Fouchié](https://www.quaternum.net/) à l'[Enssib](http://www.enssib.fr/) sur les systèmes de publication et l'impact du numérique sur ses chaînes actuelles.[https://memoire.quaternum.net](https://memoire.quaternum.net).
+Ce mémoire, dans son système, est un fork du travail de thèse mené par [Antoine Fouchié](https://www.quaternum.net/) à l'[Enssib](http://www.enssib.fr/) sur les systèmes de publication et l'impact du numérique sur ses chaînes actuelles [https://memoire.quaternum.net](https://memoire.quaternum.net).
 On retrouve dans l'open-source l'idée de mutualiser les ressources et les champs de compétences afin de trouver de nouvelles idées et de nouvelles formes, ce qui amène à penser d'autres manières de collaborer, souvent asymétriques et itératives.
-Dans le cadre de mon mémoire, je souhaite faire en sorte de garder en tête la structuration générale d'un mémoire universitaire (citations, bibliographies, ...) afin de pouvoir mieux penser les nouvelles formes plastiques que je souhaiterais développer, notamment avec les outils de la [XR](https://blogs.icrc.org/inspired/wp-content/uploads/sites/107/2019/10/Extended-Reality-Report-BRIEF.pdf)
+Dans le cadre de mon mémoire, je souhaite faire en sorte de garder en tête la structuration générale d'un mémoire universitaire (citations, bibliographies, ...) afin de pouvoir mieux penser les nouvelles formes plastiques que je souhaiterais développer, notamment avec les outils de la [XR](https://github.com/etxetxe/VR_Bifurcation/tree/master)
 
 ## Conventions
 
