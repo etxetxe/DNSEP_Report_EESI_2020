@@ -24,22 +24,11 @@ Dans le cadre de mon mémoire, je souhaite faire en sorte de garder en tête la 
 Déploiement de la version 0.2 du site : mi-Septembre 2020
 Établissement des protocoles de communication et de collaboration sur le dépôt GitHub : jusqu'à fin Septembre
 FAQ sur le fonctionnement du système de la source : Octobre 2020
-D'autres infos prochainement ! :smile:
+Rédaction des Wiki sur le fork et le fonctionnement de la chaîne d'édition : Novembre 2020
 
 ### Écriture
 Pour faciliter le travail de commentaire et de validation : une phrase par ligne.
 Les langages de balisage léger comme Markdown ou AsciiDoc n'interprètent pas le _saut de ligne_.
-
-### Usages de Git
-Pour rendre l'utilisation de Git plus compréhensible, voici une liste de conventions pour la rédaction des _commits_ :
-
-- `admin` : gestion technique du dépôts ou du site
-- `style` : mise en forme
-- `edit` : édition de contenus
-- `fix` : correction, modification suite à une remarque
-- `org` : organisation des fichiers, du dépôt, du site
-- `gen` : automatisation de la génération des différentes formes et formats
-- `test` : essai (mais normalement cela est signalé dans une branche spécifique)
 
 ## Licence
 Pour les contenus du site, licence CC BY-NC-SA : [Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions](https://creativecommons.org/licenses/by-nc-sa/4.0/).
