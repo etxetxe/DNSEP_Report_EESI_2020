@@ -1,16 +1,26 @@
 # Travailler depuis les sources : guide pas-à-pas
 
-Ce guide vous explique comment créer un fork de mon projet de mémoire afin de pouvoir étudier son fonctionnement, soumettre des modifications et proposer une version alternative de ce dernier.
+Ce wiki constitue une manière d'illustrer ma démarche de conception, de création et d'apprentissage au sein des pratiques numériques, à travers des processus d'auto-apprentissage, de partage et de redirections.
 
-Emprunté au monde de la piraterie, un [fork](https://fr.wikipedia.org/wiki/Fork_(d%C3%A9veloppement_logiciel)) désigne une bifurcation au sein d'un projet afin de lui donner une nouvelle direction, de nouvelles entités indépendantes et autonomes sont crées mais conservent des similitudes avec le projet-mère.
+Ainsi, ce guide vous explique comment crée un fork de mon projet de mémoire afin de pouvoir étudier son fonctionnement, soumettre des modifications et proposer une version alternative de ce dernier.
 
-***
-
-> Le tutoriel qui suit est amené à utiliser un jargon informatique qui n'est pas directement référencé dans le lexique de mon mémoire, je souhaite m'adresser ici aux néophytes dans le vocabulaire le plus accessible possible afin que les opérations décrites plus bas puissent être exécutés en explicitant chaque étape, soit par une mise au point ou soit par une redirection vers une ressource annexe.
+Emprunté au monde de la piraterie, un [fork](https://fr.wikipedia.org/wiki/Fork_(d%C3%A9veloppement_logiciel)) désigne une bifurcation au sein d'un projet afin de lui donner une nouvelle direction, de nouvelles entités indépendantes et autonomes sont créées mais conservent des similitudes avec le projet-mère.
 
 ***
 
-> Les images présentés dans cette page de tutoriel sont uniquement à but illustratif et, pour des raisons de multiplicités de versions et de type de système, ne sont pas représentatifs de l'aspect visuel final de votre projet et dépendances.
+> AVERTISSEMENT : Le tutoriel qui suit est amené à utiliser un jargon informatique qui n'est pas directement référencé dans le lexique de mon [mémoire](https://www.bifurcation.etxetxe.fr/7-annexes/lexique/).
+
+***
+
+La raison est que je souhaite m'adresser ici aux néophytes, dans le vocabulaire le plus accessible possible, en explicitant chaque étape nécessaire à l'exécution des opérations décrites plus bas, soit par une mise au point soit par une redirection vers une ressource annexe.
+
+Je ne prétends pas réaliser un tutoriel de vulgarisation informatique, je n'aurais ni le recul ni le niveau de compétence nécessaire pour parvenir à une parfaite synthèse.
+
+Je cherche avant tout à poser des briques à peu près correcte pour pouvoir faire en sorte que des points spécifiques puissent être discutés, reformulés et corrigés.
+
+***
+
+> Les images présentées dans cette page de tutoriel sont uniquement à but illustratif et, pour des raisons de multiplicités de versions et type de système, ne sont pas représentatifs de l'aspect visuel final de votre projet et dépendances.
 
 ***
 
@@ -18,7 +28,7 @@ Emprunté au monde de la piraterie, un [fork](https://fr.wikipedia.org/wiki/Fork
 
 ***
 
-## Requis :
+## Liste des outils :
 
 * [Windows Powershell](https://docs.microsoft.com/fr-fr/powershell)
 * [Chocolatey](https://chocolatey.org)
@@ -48,7 +58,7 @@ Emprunté au monde de la piraterie, un [fork](https://fr.wikipedia.org/wiki/Fork
 
 ### [Avant toutes choses ...](https://github.com/etxetxe/DNSEP_Report_EESI_2020/wiki/Fork-Windows#sommaire-)
 
->Imaginez que vous soyez la proie de vils raptors et autres sauriens des Temps Perdus, enfermé dans un parc zoologique avec des failles de sécurité importante (la faute à un.e administrateur.ice négligeant.e) et que vous étiez face au poste de contrôle du système de gestion du lieu, seul personne capable de remettre les compteurs en place afin de pouvoir sauver vos amis et votre famille d'une mort certaine, que serait votre première réaction face à la situation ?
+>Imaginez que vous soyez la proie de vils raptors et autres sauriens des Temps Perdus, enfermé dans un parc zoologique avec des failles de sécurité importante (la faute à un.e administrateur.ice négligent.e) et que, face au poste de contrôle du système de gestion du lieu, vous soyez la seule personne capable de remettre les compteurs en place afin de pouvoir sauver vos amis et votre famille d'une mort certaine, que serait votre première réaction ?
 
 ***
 
@@ -96,7 +106,7 @@ Pour la suite, il sera nécessaire d'utiliser le **Powershell** en _**mode admin
 
 ***
 
-> Contrairement aux systèmes UNIX, Windows ne défini pas spécifiquement de niveau de privilège d'accès aux données, n'importe qui peut, muni du mot de passe de session, écrire, modifier, dupliquer ou supprimer des fichiers et dossiers, ce qui rend la gestion de la sécurité générale délicate.
+> Contrairement aux systèmes UNIX, Windows ne définit pas spécifiquement de niveau de privilège d'accès aux données, n'importe qui peut, muni du mot de passe de session, écrire, modifier, dupliquer ou supprimer des fichiers et dossiers, ce qui rend la gestion de la sécurité générale délicate.
 
 ***
 
@@ -114,7 +124,7 @@ Un paquet est une archive - _fichier compressé_ - comprenant les fichiers infor
 
 ***
 
-> C'est en effet au niveau de la racine `C:\WINDOWS\System32` où vont se placer les fichiers d'exécution des programme qui seront référencés dans la base de donnée, il est donc important que leurs chemins d'accès soient correctement établis dès l'installation, d'où le choix d'un gestionnaire de paquet à la place d'un [assistant d'installation](https://fr.wikipedia.org/wiki/Assistant_(logiciel)).
+> C'est en effet au niveau de la racine `C:\WINDOWS\System32` où vont se placer les fichiers d'exécution des programmes qui seront référencés dans la base de données, il est donc important que leurs chemins d'accès soient correctement établis dès l'installation, d'où le choix d'un gestionnaire de paquet à la place d'un [assistant d'installation](https://fr.wikipedia.org/wiki/Assistant_(logiciel)).
 
 ***
 
@@ -202,7 +212,7 @@ Si vous ne voyez aucune erreur, vous êtes prêt à utiliser Atom! Tapez `atom` 
 
 ***
 
-> Le projet à forker est composé de nombreux fichiers reliés par un ensemble de dépendances qui en assurent la structure, la description des différents modules et leurs interactions seront décrit ultérieurement dans un autre wiki.
+> Le projet à forker est composé de nombreux fichiers reliés par un ensemble de dépendances qui en assurent la structure, la description des différents modules et leurs interactions sont décrits [ici](https://github.com/etxetxe/DNSEP_Report_EESI_2020/wiki/Cha%C3%AEne-d'%C3%A9dition).
 
 ***
 
@@ -300,8 +310,8 @@ Voilà, vous êtes prêt à utiliser Jekyll!
 
 Avant toute chose, il convient de rappeler que, malgré leurs affinités et la manière dont ils sont amenés à être utilisé, ces deux logiciels restent utilisable de manière indépendante :
 
-* [_**Git**_](https://fr.wikipedia.org/wiki/Git) est un logiciel libre, open-source, en local et décentralisé de _versioning_ c'est à dire que tout le monde héberge sa propre instance de fichiers ou de programme source, il est ainsi possible de travailler sur une version propre d'une instance et d'en partager les sources sans impacter les versions des autres développeu.r.e.s
-* [_**GitHub**_](https://github.com/) est un ensemble de services comprenant un système de dépôt au sein d'une base de donnée référencé, un gestionnaire et éditeur de fichier sous forme d'application web et bien d'autres, basé sur Git mais sous forme d'un système centralisé ou les développeurs travaillent et uploadent leurs instances modifiées sur le même dépôt.
+* [_**Git**_](https://fr.wikipedia.org/wiki/Git) est un logiciel libre, open-source, en local et décentralisé de _versioning_ c'est à dire que tout le monde héberge sa propre instance de fichiers ou de programme source, qui signifie en informatique une réplique d'un ensemble d'éléments de base, il est ainsi possible de travailler sur une version propre d'une instance et d'en partager les sources sans impacter les versions des autres développeurs et développeuses.
+* [_**GitHub**_](https://github.com/) est un ensemble de services comprenant un système de dépôt au sein d'une base de données référencée, un gestionnaire et éditeur de fichier sous forme d'application web et bien d'autres, basé sur Git mais sous forme d'un système centralisé ou les développeurs travaillent et uploadent leurs instances modifiées sur le même dépôt.
 
 Exécutons _**Git Bash**_ pour pouvoir commencer à utiliser les commandes _UNIX_ sur _Windows_.
 
@@ -319,7 +329,7 @@ On va supposer que l'on souhaite travailler à la racine du disque système au s
 
 ***
 
-> Cette commande permet de se déplacer sur le répertoire `Documents` puis d'utiliser la fonction `clone` de git pour récupérer une copie du dépôt de fichiers à l'adresse indiqué pour l'installer au niveau du répertoire actuel `Documents` puis de créer une nouvelle instance appellé `Start` avant d'avant d'afficher un `status` ou un rapport du dépôt enregistré en local.
+> Cette commande permet de se déplacer sur le répertoire `Documents` puis d'utiliser la fonction `clone` de git pour récupérer une copie du dépôt de fichiers à l'adresse indiqué pour l'installer au niveau du répertoire actuel `Documents` puis de créer une nouvelle instance appelé `Start` avant d'avant d'afficher un `status` ou un rapport du dépôt enregistré en local.
 
 ***
 

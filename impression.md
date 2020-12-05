@@ -65,3 +65,7 @@ layout: print
 <h1 class="chapter">À propos</h1>
 
 {% include_relative _memoire/1-a-propos/-a-propos.md %}
+
+<h1 class="chapter">Fork-Windows</h1>
+
+{% include_relative _memoire/7-annexes/-Fork-Windows.md %}
