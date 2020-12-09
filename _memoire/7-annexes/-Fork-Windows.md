@@ -90,15 +90,48 @@ Pour ouvrir le programme, appuyez sur le bouton Démarrer de votre clavier puis 
 
 Il est maintenant temps de se familiariser avec l'interface en ligne de commande :
 
-* `PS C:\Users\'SESSION'>` : `PS` désigne ici **Powershell** tandis que `C:\Users\'SESSION'` désigne le niveau de profondeur de la racine du système _ici au niveau session d'utilisateur avec_ `'SESSION'` _comme nom de session_ et `>` indique qu'une commande est prête à être tapée.
+```powershell
+# |PS| désigne ici Powershell
+# |C:\Users\'SESSION'| désigne le niveau de profondeur de la racine du système avec |'SESSION'| comme nom de session
+# |>| indique qu'une commande est prête à être tapée.
 
-* Pour commencer, la commande `pwd` vous indiquera le chemin de votre niveau de racine actuel, _ici_ `C:\Users\'SESSION'`.
+Windows PowerShell
+Copyright (C) Microsoft Corporation. Tous droits réservés.
 
-* Entrer `ls` vous indiquera l'ensemble des fichiers et dossiers de votre racine système.
+Testez le nouveau système multiplateforme PowerShell https://aka.ms/pscore6
 
-* `cd` permet de se déplacer à travers les dossiers de la racine, pour descendre sur le Bureau, _ou_ `Desktop`, exécutez `cd Desktop`, vous obtiendrez `PS C:\Users\'SESSION'\Desktop>` en retour de commande, pour remonter à la racine des dossiers, exécutez `cd ..`.
+PS C:\Users\'SESSION'>
 
-Pour la suite, il sera nécessaire d'utiliser le **Powershell** en _**mode administrateur**_, recherchez le programme dans la barre de recherche comme précédemment décrit - _voir au-dessus_ - et clic-droit sur l'icône correspondante pour sélectionner `Exécuter en mode administrateur`, la racine du système s'affichera sur `C:\WINDOWS\System32`.
+# 'pwd' indique le chemin du niveau de racine actuel
+
+PS C:\Users\'SESSION'>pwd
+
+Path
+----
+C:\Users\msi
+
+# 'ls' indique l'ensemble des fichiers et dossiers la votre racine actuelle.
+
+PS C:\Users\'SESSION'>ls
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-r---       05/12/2020     11:31                Desktop
+
+# 'cd' permet de se déplacer à travers les dossiers de la racine
+
+PS C:\Users\'SESSION'>cd Desktop
+
+PS C:\Users\'SESSION'\Desktop>
+
+PS C:\Users\'SESSION'\Desktop>cd ..
+
+PS C:\Users\'SESSION'>
+
+# Pour la suite, il sera nécessaire d'utiliser le Powershell en mode administrateur, recherchez le programme dans la barre de recherche comme précédemment décrit voir et clic-droit sur l'icône correspondante pour sélectionner 'Exécuter en mode administrateur'
+
+PS C:\WINDOWS\System32>
+```
 
 ***
 
@@ -140,23 +173,21 @@ Un paquet est une archive - _fichier compressé_ - comprenant les fichiers infor
 
 >**REMARQUE:** veuillez inspecter https://chocolatey.org/install.ps1 avant d'exécuter l'un de ces scripts pour garantir la sécurité. Nous savons déjà que c'est sûr, mais vous devez vérifier la sécurité et le contenu de _**tout**_ script d'Internet avec lequel vous n'êtes pas familier. Tous ces scripts téléchargent un script PowerShell distant et l'exécutent sur votre ordinateur. Nous prenons la sécurité très au sérieux.  [Learn more about our security protocols](https://chocolatey.org/security).
 
-Avec PowerShell, vous devez vous assurer que **Get-ExecutionPolicy** n'est pas restreint. Nous vous suggérons d'utiliser `Bypass` pour contourner la politique pour installer les choses ou `AllSigned` pour un peu plus de sécurité.
+```powershell
+# Avec PowerShell, vous devez vous assurer que 'Get-ExecutionPolicy' n'est pas restreint. Nous vous suggérons d'utiliser 'Bypass -Scope Process' pour contourner la politique pour installer les choses ou 'AllSigned' pour un peu plus de sécurité
 
-* Exécutez `Get-ExecutionPolicy`. s'il retourne `Restricted`, exécutez `Set-ExecutionPolicy AllSigned` ou `Set-ExecutionPolicy Bypass -Scope Process`.
+PS C:\Users\'SESSION'>Set-ExecutionPolicy AllSigned
 
-3. Exécutez maintenant la commande suivante:
+# Exécutez maintenant la commande suivante:
 
-* `Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))`.
+# Nous avons affaire ici à un script spécifique au terminal Powershell, cas particulier qui ne sera pas commenté pour ne pas complexifier l'affaire puisque les prochaines action feront spécifiquement appel à des interpréteurs de commande de type [Shell Unix](https://fr.wikipedia.org/wiki/Shell_Unix).
 
-***
+PS C:\Users\'SESSION'>Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+```
 
-> Nous avons affaire ici à un script spécifique au terminal **Powershell**, cas particulier qui ne sera pas commenté pour ne pas complexifier l'affaire puisque les prochaines action feront spécifiquement appel à des interpréteurs de commande de type [Shell Unix](https://fr.wikipedia.org/wiki/Shell_Unix).
+3. Attendez quelques secondes que la commande se termine.
 
-***
-
-4. Attendez quelques secondes que la commande se termine.
-
-5. Si vous ne voyez aucune erreur, vous êtes prêt à utiliser Chocolatey! Tapez `choco` ou `choco -?` maintenant, ou consultez [Getting Started](https://chocolatey.org/docs/getting-started) pour les instructions d'utilisation.
+4. Si vous ne voyez aucune erreur, vous êtes prêt à utiliser Chocolatey! Tapez `choco` ou `choco -?` maintenant, ou consultez [Getting Started](https://chocolatey.org/docs/getting-started) pour les instructions d'utilisation.
 
 ***
 
@@ -166,11 +197,17 @@ Avec PowerShell, vous devez vous assurer que **Get-ExecutionPolicy** n'est pas r
 
 Il est possible d'utiliser une interface graphique pour faciliter l'interaction avec les différents éléments du gestionnaire de paquet, néanmoins, cela n'enlève pas la nécessité de connaître les opérations en ligne de commande.
 
+***
+
 ![image](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/master/_wiki/screenshots/choco_mainscreen.png)
 
-Pour installer Chocolatey GUI, exécutez la commande suivante à partir de la ligne de commande ou de PowerShell:
+***
 
-* `choco install chocolateygui`
+```bash
+# Pour installer Chocolatey GUI, exécutez la commande suivante à partir de la ligne de commande ou de PowerShell
+
+C:\Users\'SESSION'>choco install chocolateygui
+```
 
 ***
 
@@ -206,7 +243,11 @@ Doté de nombreuses aides à la lecture et à l'écriture, le logiciel est égal
 
 Pour installer _**Atom**_, exécutez la commande suivante à partir de l'_**Invité de Commande**_ ou du _**PowerShell**_:
 
-* `choco install atom`
+```bash
+# Pour installer Atom, exécutez la commande suivante à partir de l'Invité de Commande ou du PowerShell
+
+C:\Users\'SESSION'>choco install atom
+```
 
 Si vous ne voyez aucune erreur, vous êtes prêt à utiliser Atom! Tapez `atom` ou `atom -v` avec l'_**Invité de Commande**_, ou consultez [Flight-Manual](https://flight-manual.atom.io/) pour les instructions d'utilisation.
 
@@ -224,7 +265,11 @@ Si vous ne voyez aucune erreur, vous êtes prêt à utiliser Atom! Tapez `atom` 
 
 Pour installer la bibliothèque _**MinGW-W64**_, exécutez la commande suivante à partir de l'_**Invité de Commande**_ ou _**PowerShell**_:
 
-* `choco install mingw`
+```bash
+# Pour installer la bibliothèque MinGW-W64, exécutez la commande suivante à partir de l'Invité de Commande ou PowerShell
+
+C:\Users\'SESSION'>choco install mingw
+```
 
 Si vous ne voyez aucune erreur, vérifiez que la bibliothèque est correctement installée en exécutant `gcc -v` ou `g++ -v` avec l'_**Invité de Commande**_, ou consultez [Documentation](http://mingw-w64.org/doku.php/documentation) pour les instructions d'utilisation.
 
@@ -247,8 +292,14 @@ Si vous ne voyez aucune erreur, vérifiez que la bibliothèque est correctement 
 
 Pour installer _**Git**_, exécutez les commande suivantes à partir de l'_**Invité de Commande**_ ou du _**PowerShell**_:
 
-* `choco install git`.
-* `choco install git.install`.
+```bash
+# Pour installer Git, exécutez les commande suivantes à partir de l'Invité de Commande ou du PowerShell
+
+C:\Users\'SESSION'>choco install git
+```
+```bash
+C:\Users\'SESSION'>choco install git.install
+```
 
 Si vous ne voyez aucune erreur, vous êtes prêt à utiliser Git! Tapez `git version` avec l'_**Invité de Commande**_, ou consultez [Documentation](https://git-scm.com/doc) pour les instructions d'utilisation.
 
@@ -296,7 +347,13 @@ _**RubyInstaller**_ est un programme d'installation autonome basé sur Windows q
 
 ***
 
-3. Ouvrez une nouvelle fenêtre d'invite de commande à partir du menu Démarrer, afin que les modifications apportées à la variable d'environnement `PATH` deviennent effectives. Installez Jekyll et Bundler en utilisant `gem install jekyll bundler`.
+3. Ouvrez une nouvelle fenêtre d'invite de commande à partir du menu Démarrer, afin que les modifications apportées à la variable d'environnement `PATH` deviennent effectives.
+
+```bash
+# Installez Jekyll et Bundler
+
+C:\Users\'SESSION'>gem install jekyll bundler
+```
 
 4. Vérifiez si Jekyll a été correctement installé: `jekyll -v`.
 
@@ -317,31 +374,25 @@ Exécutons _**Git Bash**_ pour pouvoir commencer à utiliser les commandes _UNIX
 
 Pour ouvrir le programme, appuyez sur le bouton Démarrer de votre clavier puis entrez la recherche correspondante.
 
-Par défaut le terminal s'ouvre à la racine du disque sur lequel le système d'exploitation est installé. Pour plus d'information concernant les [commandes de base](http://devernay.free.fr/cours/unix/unixref.pdf).
+```bash
+# Par défaut le terminal s'ouvre à la racine du disque sur lequel le système d'exploitation est installé.
 
-***
+'SESSION'@'NOM_ORDI' MINGW64 ~
+$
 
-On va supposer que l'on souhaite travailler à la racine du disque système au sein du répertoire `Documents` dans l'arborescence de fichiers :
+# On va supposer que l'on souhaite travailler à la racine du disque système au sein du répertoire 'Documents' dans l'arborescence de fichiers
 
-***
+'SESSION'@'NOM_ORDI' MINGW64 ~
+$ cd Documents && git clone https://github.com/etxetxe/DNSEP_Report_EESI_2020.git && cd DNSEP_Report_EESI_2020 && git commit -m "Start" && git status
 
-1. Exécutez la commande `cd Documents && git clone https://github.com/etxetxe/DNSEP_Report_EESI_2020.git && cd DNSEP_Report_EESI_2020 && git commit -m "Start" && git status`.
+# Cette commande permet de se déplacer sur le répertoire 'Documents' puis d'utiliser la fonction 'clone' de git pour récupérer une copie du dépôt de fichiers à l'adresse indiqué pour l'installer au niveau du répertoire actuel 'Documents' puis de créer une nouvelle instance appelé 'Start' avant d'avant d'afficher un 'status' ou un rapport du dépôt enregistré en local
 
-***
+'SESSION'@'NOM_ORDI' MINGW64 ~/Documents/DNSEP_Report_EESI_2020
+$ bundle exec jekyll serve
 
-> Cette commande permet de se déplacer sur le répertoire `Documents` puis d'utiliser la fonction `clone` de git pour récupérer une copie du dépôt de fichiers à l'adresse indiqué pour l'installer au niveau du répertoire actuel `Documents` puis de créer une nouvelle instance appelé `Start` avant d'avant d'afficher un `status` ou un rapport du dépôt enregistré en local.
+# La commande suivante permet d'exécuter sur un port réseau local à l'adresse 'localhost:4000' un déploiement du site généré.
+```
 
-***
-
-2. Exécutez maintenant `bundle exec jekyll serve`.
-
-***
-> La commande suivante permet d'exécuter sur un port réseau local - _à l'adresse `localhost:4000` - un déploiement du site généré.
-
-***
-
-3. Ouvrez votre navigateur favoris et entrez l'url : `localhost:4000`.
-
-4. Si votre navigateur affiche fièrement le site, vous avez passé avec succès la phase de fork !
+Ouvrez votre navigateur favoris et entrez l'url : `localhost:4000`. Si votre navigateur affiche fièrement le site, vous avez passé avec succès la phase de fork !
 
 Vous êtes maintenant prêt à développer sur votre nouveau projet ! Exécutez `atom .` pour débuter sur l'éditeur de code _**Atom**_.

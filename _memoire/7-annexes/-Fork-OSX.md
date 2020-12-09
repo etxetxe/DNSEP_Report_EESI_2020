@@ -1,16 +1,26 @@
 # Travailler depuis les sources : guide pas-à-pas
 
-Ce guide vous explique comment créer un fork de mon projet de mémoire afin de pouvoir étudier son fonctionnement, soumettre des modifications et proposer une version alternative de ce dernier.
+Ce wiki constitue une manière d'illustrer ma démarche de conception, de création et d'apprentissage au sein des pratiques numériques, à travers des processus d'auto-apprentissage, de partage et de redirections.
 
-Emprunté au monde de la piraterie, un [fork](https://fr.wikipedia.org/wiki/Fork_(d%C3%A9veloppement_logiciel)) désigne une bifurcation au sein d'un projet afin de lui donner une nouvelle direction, de nouvelles entités indépendantes et autonomes sont crées mais conservent des similitudes avec le projet-mère.
+Ainsi, ce guide vous explique comment crée un fork de mon projet de mémoire afin de pouvoir étudier son fonctionnement, soumettre des modifications et proposer une version alternative de ce dernier.
 
-***
-
-> Le tutoriel qui suit est amené à utiliser un jargon informatique qui n'est pas directement référencé dans le lexique de mon mémoire, je souhaite m'adresser ici aux néophytes dans le vocabulaire le plus accessible possible afin que les opérations décrites plus bas puissent être exécutés en explicitant chaque étape, soit par une mise au point ou soit par une redirection vers une ressource annexe.
+Emprunté au monde de la piraterie, un [fork](https://fr.wikipedia.org/wiki/Fork_(d%C3%A9veloppement_logiciel)) désigne une bifurcation au sein d'un projet afin de lui donner une nouvelle direction, de nouvelles entités indépendantes et autonomes sont créées mais conservent des similitudes avec le projet-mère.
 
 ***
 
-> Les images présentés dans cette page de tutoriel sont uniquement à but illustratif et, pour des raisons de multiplicités de versions et de type de système, ne sont pas représentatifs de l'aspect visuel final de votre projet et dépendances.
+> AVERTISSEMENT : Le tutoriel qui suit est amené à utiliser un jargon informatique qui n'est pas directement référencé dans le lexique de mon [mémoire](https://www.bifurcation.etxetxe.fr/7-annexes/lexique/).
+
+***
+
+La raison est que je souhaite m'adresser ici aux néophytes, dans le vocabulaire le plus accessible possible, en explicitant chaque étape nécessaire à l'exécution des opérations décrites plus bas, soit par une mise au point soit par une redirection vers une ressource annexe.
+
+Je ne prétends pas réaliser un tutoriel de vulgarisation informatique, je n'aurais ni le recul ni le niveau de compétence nécessaire pour parvenir à une parfaite synthèse.
+
+Je cherche avant tout à poser des briques à peu près correcte pour pouvoir faire en sorte que des points spécifiques puissent être discutés, reformulés et corrigés.
+
+***
+
+> Les images présentées dans cette page de tutoriel sont uniquement à but illustratif et, pour des raisons de multiplicités de versions et type de système, ne sont pas représentatifs de l'aspect visuel final de votre projet et dépendances.
 
 ***
 
@@ -18,7 +28,7 @@ Emprunté au monde de la piraterie, un [fork](https://fr.wikipedia.org/wiki/Fork
 
 ---
 
-## Requis :
+## Liste des outils :
 * [Terminal pour Mac](https://support.apple.com/fr-fr/guide/terminal/welcome/mac)
 * [Homebrew](https://brew.sh/index_fr)
 * [Git](https://git-scm.com)
@@ -44,7 +54,7 @@ Emprunté au monde de la piraterie, un [fork](https://fr.wikipedia.org/wiki/Fork
 
 ***
 
->Imaginez que vous soyez la proie de vils raptors et autres sauriens des Temps Perdus, enfermé dans un parc zoologique avec des failles de sécurité importante (la faute à un.e administrateur.ice négligeant.e) et que vous étiez face au poste de contrôle du système de gestion du lieu, seul personne capable de remettre les compteurs en place afin de pouvoir sauver vos amis et votre famille d'une mort certaine, que serait votre première réaction face à la situation ?
+>Imaginez que vous soyez la proie de vils raptors et autres sauriens des Temps Perdus, enfermé dans un parc zoologique avec des failles de sécurité importante (la faute à un.e administrateur.ice négligent.e) et que, face au poste de contrôle du système de gestion du lieu, vous soyez la seule personne capable de remettre les compteurs en place afin de pouvoir sauver vos amis et votre famille d'une mort certaine, que serait votre première réaction ?
 
 ***
 
@@ -76,13 +86,31 @@ Toute les commandes UNIX sont disponibles dès le départ, pour plus d'informati
 
 Il est maintenant temps de se familiariser avec l'interface en ligne de commande :
 
-`'NOM_DE_SESSION'@'NOM_ORDI' ~ %` : `'NOM_DE_SESSION'@'NOM_ORDI'` désigne ici votre session suivi du nom de votre ordinateur tandis que `~` désigne le niveau de profondeur de la racine du système _ici au niveau session d'utilisateur avec_ `'NOM_DE_SESSION'` _comme nom de session_ et `%` indique qu'une commande est prête à être tapée.
+```sh
+# 'NOM_DE_SESSION'@'NOM_ORDI' désigne ici votre session suivi du nom de votre ordinateur.
+# '~' désigne le niveau de profondeur de la racine du système ici au niveau session d'utilisateur avec 'NOM_DE_SESSION' comme nom de session
+# '%' indique qu'une commande est prête à être tapée.
 
-* Pour commencer, la commande `pwd` vous indiquera le chemin de votre niveau de racine actuel, _ici_ `/Users/'NOM_DE_SESSION'`.
+Last login: 'Day' 'Month' 'Y34r' 'H0urs':'M1nutes':'S3conds' on ttys'00*'
+'NOM_DE_SESSION'@'NOM_ORDI' ~ %
 
-* Entrer `ls` vous indiquera l'ensemble des fichiers et dossiers de votre racine système.
+# Pour commencer, la commande 'pwd' vous indiquera le chemin de votre niveau de racine actuel
 
-* `cd` permet de se déplacer à travers les dossiers de la racine, pour descendre sur le Bureau, _ou_ `Desktop`, exécutez `cd Desktop`, vous obtiendrez `NOM_DE_SESSION'@'NOM_ORDI' Desktop %` en retour de commande, pour remonter à la racine des dossiers, exécutez `cd ..`.
+'NOM_DE_SESSION'@'NOM_ORDI' ~ % pwd
+/Users/'NOM_DE_SESSION'
+
+# Entrer 'ls' vous indiquera l'ensemble des fichiers et dossiers de votre racine système
+
+'NOM_DE_SESSION'@'NOM_ORDI' ~ % ls
+Desktops
+
+# 'cd' permet de se déplacer à travers les dossiers de la racine
+
+'NOM_DE_SESSION'@'NOM_ORDI' ~ % cd Desktops
+'NOM_DE_SESSION'@'NOM_ORDI' Desktop %
+'NOM_DE_SESSION'@'NOM_ORDI' Desktop % cd ..
+'NOM_DE_SESSION'@'NOM_ORDI' ~ %
+```
 
 ***
 
@@ -94,7 +122,7 @@ Un paquet est une archive - _fichier compressé_ - comprenant les fichiers infor
 
 ***
 
-> C'est en effet au niveau de la racine `/usr/bin` où vont se placer les fichiers d'exécution des programme qui seront référencés dans la base de donnée, il est donc important que leurs chemins d'accès soient correctement établis dès l'installation, d'où le choix d'un gestionnaire de paquet à la place d'un [assistant d'installation](https://fr.wikipedia.org/wiki/Assistant_(logiciel)).
+> C'est en effet au niveau de la racine `/usr/bin` où vont se placer les fichiers d'exécution des programmes qui seront référencés dans la base de données, il est donc important que leurs chemins d'accès soient correctement établis dès l'installation, d'où le choix d'un gestionnaire de paquet à la place d'un [assistant d'installation](https://fr.wikipedia.org/wiki/Assistant_(logiciel)).
 
 ***
 
@@ -104,9 +132,14 @@ Un paquet est une archive - _fichier compressé_ - comprenant les fichiers infor
 
 Pour installer le gestionnaire de paquet _**Brew**_ :
 
-1. Ouvrez le _**Terminal pour Mac**_ en utilisant la barre de recherche _**Spotligth**_ (raccourcis `cmd + espace`) et tapez le nom du programme.
+Ouvrez le _**Terminal pour Mac**_ en utilisant la barre de recherche _**Spotligth**_ (raccourcis `cmd + espace`) et tapez le nom du programme.
 
-2. Exécutez `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"` puis entrez le mot de passe d'administrateur de votre système (en général votre mot de passe de session) pour installer les paquets.
+```sh
+# Exécutez la commande puis entrez le mot de passe d'administrateur de votre système (en général votre mot de passe de session) pour installer les paquets.
+
+Last login: 'Day' 'Month' 'Y34r' 'H0urs':'M1nutes':'S3conds' on ttys'00*'
+'NOM_DE_SESSION'@'NOM_ORDI' ~ % /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+```
 
 ***
 
@@ -138,13 +171,16 @@ Doté de nombreuses aides à la lecture et à l'écriture, le logiciel est égal
 
 Pour installer Atom, exécutez la commande suivante à partir du _**Terminal pour Mac**_ :
 
-* `brew cask install atom`
+```sh
+
+'NOM_DE_SESSION'@'NOM_ORDI' ~ % brew cask install atom
+```
 
 Si vous ne voyez aucune erreur, vous êtes prêt à utiliser Atom! Tapez atom ou `atom -v` avec le _**Terminal pour Mac**_, ou consultez Flight-Manual pour les instructions d'utilisation.
 
 ***
 
-> Le projet à forker est composé de nombreux fichiers reliés par un ensemble de dépendances qui en assurent la structure, la description des différents modules et leurs interactions seront décrit ultérieurement dans un autre wiki.
+> Le projet à forker est composé de nombreux fichiers reliés par un ensemble de dépendances qui en assurent la structure, la description des différents modules et leurs interactions sont décrits [ici](https://github.com/etxetxe/DNSEP_Report_EESI_2020/wiki/Cha%C3%AEne-d'%C3%A9dition).
 
 ***
 
@@ -172,21 +208,30 @@ Par défaut, le langage Ruby est installé sur les systèmes OSX, cependant il e
 
 L'outil RVM est un outil entièrement dédié à la gestion des versions du langage Ruby sur votre ordinateur. Il s'agit en effet de l'acronyme de Ruby Version Manager.
 
-1. Pour installer RVM, ouvrez votre terminal et exécutez la commande suivante :
+```sh
+# Pour installer RVM, ouvrez votre terminal et exécutez la commande suivante :
 
-* `curl -sSL https://get.rvm.io | bash -s stable`
+'NOM_DE_SESSION'@'NOM_ORDI' ~ % curl -sSL https://get.rvm.io | bash -s stable
 
-2. Vous devrez ensuite redémarrer le terminal. La commande `rvm` sera alors disponible. La commande `rvm list known` va lister les différentes versions de Ruby. Lisez le résultat pour déterminer la version la plus récente et utilisez la commande `rvm install` suivi du numéro de version pour lancer l'installation :
+# Vous devrez ensuite redémarrer le terminal. La commande 'rvm' sera alors disponible
+# a commande 'rvm list known' va lister les différentes versions de Ruby. Lisez le résultat pour déterminer la version la plus récente et utilisez la commande 'rvm install' suivi du numéro de version pour lancer l'installation.
 
-* `rvm install ruby-2.6.1`
+'NOM_DE_SESSION'@'NOM_ORDI' ~ % rvm list know
+ruby-2.6.1
+'NOM_DE_SESSION'@'NOM_ORDI' ~ % rvm install ruby-2.6.1
 
-3. Vous pouvez vérifier que la dernière version de Ruby est bien prise en compte par votre système avec la commande `ruby -v`. Si jamais le numéro de version n'a pas changé, c'est que la plateforme Ruby n'a pas modifié le réglage qui indique la version à utiliser. Utilisez la commande suivante pour signaler à Ruby la nouvelle version :
+# Vous pouvez vérifier que la dernière version de Ruby est bien prise en compte par votre système avec la commande 'ruby -v'. Si jamais le numéro de version n'a pas changé, c'est que la plateforme Ruby n'a pas modifié le réglage qui indique la version à utiliser. Utilisez la commande suivante pour signaler à Ruby la nouvelle version :
 
-* `rvm use ruby-2.6.1 --default`
+'NOM_DE_SESSION'@'NOM_ORDI' ~ % rvm use ruby-2.6.1 --default
 
-4. Ouvrez une nouvelle fenêtre d'invite de commande à partir du menu Démarrer, afin que les modifications apportées à la variable d'environnement PATH deviennent effectives. Installez Jekyll et Bundler en utilisant `gem install jekyll bundler`
+4. Ouvrez une nouvelle fenêtre d'invite de commande à partir du menu Démarrer, afin que les modifications apportées à la variable d'environnement PATH deviennent effectives puis Installez Jekyll et Bundler.
 
-5. Vérifiez si Jekyll a été correctement installé: `jekyll -v`
+'NOM_DE_SESSION'@'NOM_ORDI' ~ % gem install jekyll bundler
+
+# Vérifiez si Jekyll a été correctement installé
+
+'NOM_DE_SESSION'@'NOM_ORDI' ~ % jekyll -v
+```
 
 Voilà, vous êtes prêt à utiliser Jekyll!
 
@@ -198,38 +243,28 @@ Voilà, vous êtes prêt à utiliser Jekyll!
 
 Avant toute chose, il convient de rappeler que, malgré leurs affinités et la manière dont ils sont amenés à être utilisé, ces deux logiciels restent utilisable de manière indépendante :
 
-* [_**Git**_](https://git-scm.com/) est un logiciel libre, open-source, en local et décentralisé de _versioning_ c'est à dire que tout le monde héberge sa propre instance de fichiers ou de programme source, il est ainsi possible de travailler sur une version propre d'une instance et d'en partager les sources sans impacter les versions des autres développeu.r.e.s
+* [_**Git**_](https://fr.wikipedia.org/wiki/Git) est un logiciel libre, open-source, en local et décentralisé de _versioning_ c'est à dire que tout le monde héberge sa propre instance de fichiers ou de programme source, qui signifie en informatique une réplique d'un ensemble d'éléments de base, il est ainsi possible de travailler sur une version propre d'une instance et d'en partager les sources sans impacter les versions des autres développeurs et développeuses.
 * [_**GitHub**_](https://github.com/) est un ensemble de services comprenant un système de dépôt au sein d'une base de donnée référencé, un gestionnaire et éditeur de fichier sous forme d'application web et bien d'autres, basé sur Git mais sous forme d'un système centralisé ou les développeurs travaillent et uploadent leurs instances modifiées sur le même dépôt.
 
 Ouvrez le _**Terminal pour Mac**_ en utilisant la barre de recherche _**Spotligth**_ (raccourcis `cmd + espace`) et tapez le nom du programme correspondant, un invité de commande devrait s'ouvrir ...
 
 Toute les commandes UNIX sont disponibles dès le départ, pour plus d'information concernant les [commandes de base](http://devernay.free.fr/cours/unix/unixref.pdf)
 
-1. Vérifiez si Git a été correctement installé: `git -v`
+```sh
+# Vérifiez si Git a été correctement installé.
 
-***
+'NOM_DE_SESSION'@'NOM_ORDI' ~ % git -v
 
-On va supposer que l'on souhaite travailler à la racine du disque système au sein du répertoire `Documents` dans l'arborescence de fichiers :
+# On va supposer que l'on souhaite travailler à la racine du disque système au sein du répertoire 'Documents' dans l'arborescence de fichiers
+# Cette commande permet de se déplacer sur le répertoire 'Documents' puis d'utiliser la fonction 'clone' de git pour récupérer une copie du dépôt de fichiers à l'adresse indiqué pour l'installer au niveau du répertoire actuel 'Documents' puis de créer une nouvelle instance appelé 'Start' avant d'avant d'afficher un 'status' ou un rapport du dépôt enregistré en local.
 
-***
+'NOM_DE_SESSION'@'NOM_ORDI' ~ % cd Documents && git clone https://github.com/etxetxe/DNSEP_Report_EESI_2020.git && cd DNSEP_Report_EESI_2020 && git commit -m "Start" && git status
 
-2. Exécutez la commande `cd Documents && git clone https://github.com/etxetxe/DNSEP_Report_EESI_2020.git && cd DNSEP_Report_EESI_2020 && git commit -m "Start" && git status`.
+# La commande suivante permet d'exécuter sur un port réseau local à l'adresse 'localhost:4000' un déploiement du site généré.
 
-***
+'NOM_DE_SESSION'@'NOM_ORDI' ~ % bundle exec jekyll serve
 
-> Cette commande permet de se déplacer sur le répertoire `Documents` puis d'utiliser la fonction `clone` de git pour récupérer une copie du dépôt de fichiers à l'adresse indiqué pour l'installer au niveau du répertoire actuel `Documents` puis de créer une nouvelle instance appellé `Start` avant d'avant d'afficher un `status` ou un rapport du dépôt enregistré en local.
-
-***
-
-3. Exécutez maintenant `bundle exec jekyll serve`.
-
-***
-> La commande suivante permet d'exécuter sur un port réseau local - _à l'adresse `localhost:4000` - un déploiement du site généré.
-
-***
-
-4. Ouvrez votre navigateur favoris et entrez l'url : `localhost:4000`.
-
-5. Si votre navigateur affiche fièrement le site, vous avez passé avec succès la phase de fork !
+# Ouvrez votre navigateur favoris et entrez l'url : `localhost:4000`. Si votre navigateur affiche fièrement le site, vous avez passé avec succès la phase de fork !
+```
 
 Vous êtes maintenant prêt à développer sur votre nouveau projet ! Exécutez `atom .` pour débuter sur l'éditeur de code _**Atom**_.

@@ -20,6 +20,7 @@ Mémoire d'[Etienne Baron](https://urltr.ee/etxetxe) dans le cadre du Diplôme N
 
 
 ### Imprimer ce site web
+[Générer le PDF imprimable]({{ site.print }})
 [Version PDF imprimable](/telechargement/baron-etienne-bifurcation-carnet-de-recherche-cc-by-nc-sa.pdf).
 
 ### Contexte
