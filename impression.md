@@ -66,6 +66,6 @@ layout: print
 
 {% include_relative _memoire/1-a-propos/-a-propos.md %}
 
-<h1 class="chapter">Fork-Windows</h1>
+<h1 class="annexes">Fork-Windows</h1>
 
 {% include_relative _memoire/7-annexes/-Fork-Windows.md %}
