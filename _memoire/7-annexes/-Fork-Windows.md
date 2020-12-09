@@ -56,7 +56,7 @@ Je cherche avant tout à poser des briques à peu près correcte pour pouvoir fa
 
 ***
 
-### [Avant toutes choses ...](https://github.com/etxetxe/DNSEP_Report_EESI_2020/wiki/Fork-Windows#sommaire-)
+### [Avant toutes choses ...](https://bifurcation.etxetxe.fr/-memoire/7-annexes/Fork-Windows#sommaire-)
 
 >Imaginez que vous soyez la proie de vils raptors et autres sauriens des Temps Perdus, enfermé dans un parc zoologique avec des failles de sécurité importante (la faute à un.e administrateur.ice négligent.e) et que, face au poste de contrôle du système de gestion du lieu, vous soyez la seule personne capable de remettre les compteurs en place afin de pouvoir sauver vos amis et votre famille d'une mort certaine, que serait votre première réaction ?
 
@@ -199,7 +199,7 @@ Il est possible d'utiliser une interface graphique pour faciliter l'interaction 
 
 ***
 
-![image](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/master/_wiki/screenshots/choco_mainscreen.png)
+![image](https://bifurcation.etxetxe.fr/_wiki/screenshots/choco_mainscreen.png)
 
 ***
 
