@@ -123,7 +123,7 @@ L'affichage de la bibliographie se fait avec la formule : `{& bibliography --que
 
 ***
 
-![image](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/master/_wiki/bibliographie.png)
+![image](https://bifurcation.etxetxe.fr/images/bibliographie.png)
 
 ***
 
@@ -145,7 +145,7 @@ Ce fichier HTML correspond à l'organisation du menu vertical déroulant constit
 
 ***
 
-![image](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/master/_wiki/includes.png)
+![image](https://bifurcation.etxetxe.fr/images/includes.png)
 
 ***
 
@@ -175,7 +175,7 @@ Ce fichier HTML correspond à une feuille de style attribuant la structure séma
 
 ***
 
-![image](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/master/_wiki/default.png)
+![image](https://bifurcation.etxetxe.fr/images/default.png)
 
 ***
 
@@ -195,7 +195,7 @@ Ce fichier Markdown contient un appel de fonction en [YAML](https://fr.wikipedia
 
 ***
 
-![image](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/master/_wiki/memoire.png)
+![image](https://bifurcation.etxetxe.fr/images/memoire.png)
 
 ***
 
@@ -207,7 +207,7 @@ Ce greffon permet entre autre de remplacer les chaînes de caractère entre pare
 
 ***
 
-![image](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/master/_wiki/replace_regex.png)
+![image](https://bifurcation.etxetxe.fr/images/replace_regex.png)
 
 ***
 
@@ -245,7 +245,7 @@ Ce fichier SCSS permet de référencer l'ensemble des paramètres liés à la ty
 
 ***
 
-![image](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/master/_wiki/scss.png)
+![image](https://bifurcation.etxetxe.fr/images/scss.png)
 
 ***
 
@@ -267,7 +267,7 @@ Ce fichier SCSS constitue la feuille de style utilisée sur la version PDF du m�
 
 ***
 
-![image](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/master/_wiki/css_js.png)
+![image](https://bifurcation.etxetxe.fr/images/css_js.png)
 
 ***
 
@@ -317,7 +317,7 @@ Ceci est le fichier de configuration écrit en [YAML](https://fr.wikipedia.org/w
 
 ***
 
-![image](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/master/_wiki/config_yml.png)
+![image](https://bifurcation.etxetxe.fr/images/config_yml.png)
 
 ***
 
@@ -331,7 +331,7 @@ Ce fichier MarkDown permet de rédiger la page d'Erreur [404](https://fr.wikiped
 
 ***
 
-![image](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/master/_wiki/404_index_readme_gitignore_gemfile_license_impression_license.png)
+![image](https://bifurcation.etxetxe.fr/images/404_index_readme_gitignore_gemfile_license_impression_license.png)
 
 ***
 
@@ -379,7 +379,7 @@ Ce fichier permet de créer une page de navigation pour faire défiler des reche
 
 ***
 
-![image](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/master/_wiki/site_touch_apple_recherche_search.png)
+![image](https://bifurcation.etxetxe.fr/images/site_touch_apple_recherche_search.png)
 
 ***
 
@@ -472,7 +472,7 @@ Choisissez le dépôt ou se trouve le site à faire héberger pour ensuite accé
 
 ***
 
-![image](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/master/_wiki/netlify.png)
+![image](https://bifurcation.etxetxe.fr/images/netlify.png)
 
 ***
 
@@ -480,7 +480,7 @@ Choisissez le dépôt ou se trouve le site à faire héberger pour ensuite accé
 
 ***
 
-![image](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/master/_wiki/dns.jpg)
+![image](https://bifurcation.etxetxe.fr/images/dns.jpg)
 
 ***
 
@@ -488,8 +488,8 @@ Choisissez le dépôt ou se trouve le site à faire héberger pour ensuite accé
 
 ***
 
-![image](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/master/_wiki/pagedjsA.png)
+![image](https://bifurcation.etxetxe.fr/images/pagedjsA.png)
 
 ***
 
-![image](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/master/_wiki/pagedjsB.png)
+![image](https://bifurcation.etxetxe.fr/images/pagedjsB.png)
