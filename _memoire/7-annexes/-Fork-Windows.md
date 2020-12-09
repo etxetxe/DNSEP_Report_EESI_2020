@@ -56,7 +56,7 @@ Je cherche avant tout à poser des briques à peu près correcte pour pouvoir fa
 
 ***
 
-### [Avant toutes choses ...](https://bifurcation.etxetxe.fr/_memoire/7-annexes/fork-windows/#sommaire-)
+### [Avant toutes choses ...](https://github.com/etxetxe/DNSEP_Report_EESI_2020/wiki/fork-windows/#sommaire-)
 
 >Imaginez que vous soyez la proie de vils raptors et autres sauriens des Temps Perdus, enfermé dans un parc zoologique avec des failles de sécurité importante (la faute à un.e administrateur.ice négligent.e) et que, face au poste de contrôle du système de gestion du lieu, vous soyez la seule personne capable de remettre les compteurs en place afin de pouvoir sauver vos amis et votre famille d'une mort certaine, que serait votre première réaction ?
 
@@ -239,7 +239,7 @@ Doté de nombreuses aides à la lecture et à l'écriture, le logiciel est égal
 
 ![image](https://atom-ide-community.github.io/assets/images/screenshot-linter.png)
 
-![image](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/master/_wiki/screenshots/choco_atom.png)
+![image](https://bifurcation.etxetxe.fr/images/screenshots/choco_atom.png)
 
 Pour installer _**Atom**_, exécutez la commande suivante à partir de l'_**Invité de Commande**_ ou du _**PowerShell**_:
 
@@ -261,7 +261,7 @@ Si vous ne voyez aucune erreur, vous êtes prêt à utiliser Atom! Tapez `atom` 
 
 [MinGW-w64](https://en.wikipedia.org/wiki/Mingw-w64) est une adaptation de l'environnement de développement du projet [GNU GCC](https://fr.wikipedia.org/wiki/GNU_Compiler_Collection) pour Windows et permet l'utilisation des fonctions de Linux sur ce système, dont les commandes UNIX usuels.
 
-![image](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/master/_wiki/screenshots/choco_MinGW64.png)
+![image](https://bifurcation.etxetxe.fr/images/screenshots/choco_MinGW64.png)
 
 Pour installer la bibliothèque _**MinGW-W64**_, exécutez la commande suivante à partir de l'_**Invité de Commande**_ ou _**PowerShell**_:
 
@@ -287,8 +287,8 @@ Si vous ne voyez aucune erreur, vérifiez que la bibliothèque est correctement 
 
 ***
 
-![image](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/master/_wiki/screenshots/choco_git_install.png)
-![image](https://github.com/etxetxe/DNSEP_Report_EESI_2020/blob/master/_wiki/screenshots/choco_git.png)
+![image](https://bifurcation.etxetxe.fr/images/screenshots/choco_git_install.png)
+![image](https://bifurcation.etxetxe.fr/images/screenshots/choco_git.png)
 
 Pour installer _**Git**_, exécutez les commande suivantes à partir de l'_**Invité de Commande**_ ou du _**PowerShell**_:
 
