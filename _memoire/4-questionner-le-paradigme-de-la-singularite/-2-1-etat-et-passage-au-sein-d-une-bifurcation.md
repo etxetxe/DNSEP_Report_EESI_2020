@@ -1,3 +1,11 @@
+*Pour interroger au sein de la bifurcation la question du paradigme de la singularité : il convient de se demander à quoi est-il fait référence dans cet enchainement ? Existe-il une tendance de pensée qui permette de se singulariser ? De quelle manière le détour en constitue-t-il le marqueur qui souligne la bifurcation ?*
+
+*Le Paradigme est un terme d'épisthémologie qui défini des modèles de représentation du monde décrit par Samuel Thomas Kuhn dans "La Structure des Révolutions Scientifiques" publié en 1962 où il décrit celui-ci comme :*
+
+>"(...) ensembles des croyances et techniques communes à un groupe donnée (...) ensemble de solutions données d'énigmes concrètes qui peuvent remplacer les regles explicites en tant que base de solution (...)"
+
+*Samuel Kuhn considère l'histoire de la recherche scientifique comme la succession d'un ensemble de modèles réactualisant les éléments des objets d'études et devenant de fait un standard.*
+
 *La création d'un **[site web personnel pour compiler mes travaux](https://monsite.etxetxe.fr)** m'a posé un certains nombre de problèmes : certains travaux pris individuellement pouvaient prendre sens tandis que d'autre étaient le fruit de suivi, de mission ou de collaboration à des projets collectifs.*
 
 **Certaines branches restent ouverte** *et continuent à se déployer tandis que d'autres sont des **survivances d'états passés à un instant T**, il arrive également que j'accrédite la personne qui a fait un tel projet sur lequel je n'ai été qu'assistant et il me semble important que* **je raccorde nos deux milieux respectifs.**
