@@ -1,3 +1,29 @@
+*Pour creuser en profondeur la Logique et la Sémantique qui découle de la Bifurcation, nous allons voir en quoi l'approche analytique qui découle de la Cybernétique de Wiener et auquelles se rattachent les théories de l'Information de Claude Shannon ainsi que de celles de la Communication, issu des compilations de travaux de recherche en science sociale de l'Université de Palo Alto dans les années 1960, permet de penser les relations et interactions au sein d'un système.*
+
+*Selon Bernard Stiegler, il est aujourd'hui important de relire Norbert Wiener afin de repenser une nouvelle théorie de l'informatique aupravant trop verouillée par Claude Shannon*
+
+*Pour comprendre cette affirmation, nous allons nous pencher sur une nouvelle dialectique : celle de l'Ordre et du Désordre. Plus précisément selon Stiegler, de l'Entropie, une forme de propension au Chaos et à la dispersion dans un milieu auquel il opposerait une force inverse, celle de la Néguentropie, qui catalisera ce mouvement dans une direction, un espace ou un flux donnée.*
+
+*C'est notamment pour répondre à cette problématique que la Théorie Cybernétique propose un modèle qui prend pour cadre la question des interactions, de sa nature de son réseau ainsi que de ses modes de diffusions : qu'est ce qui entre ou qui sort, y-a-t'il réciprocité dans les échanges et quelles transformations produisent ces échanges ?*
+
+*On répondra à ces questions en étudiant d'abord les interactions de manière logique : en définissant l'ensemble du système donnée par ses connecteurs, balises, fonctions, objets, classes, ce qui permet de décrire un langage en son sein et la sémantique qui lui est associée.*
+
+*Dans une carte, on a ainsi la représentation, la localisation, un code visuel et l'ensemble de ces éléments sont liés. Dans cet exemple, les signes graphiques sont des objets intégrées dans des classes qui interagissent entre-elles : on considère une représentation des fréquences de précipitations au sein d'une zone donnée qui fluctue en fonction du relief montagneux.*
+
+*Les pages du web sémantique ont des formats de représentation de données sous forme de tables dont le code est lisible par des machines qui ont pour tâche de les indexer, de les référencer et d'actualiser la base de données.*
+
+*Et c'est toute la question de l'Ontologie que de définir un ensemble d'élément par une série de représentation afin de s'accorder sur un sens commun : cet élément essentiel de la chaîne de transmission du savoir se concrétise dans les dictionnaires et l'ensemble des [lexiques](https://bifurcation.etxetxe.fr/7-annexes/lexique/) qui présentent des ontologies dans des index ou des bases de données.*
+
+*La conservation et la transmission de caractéristiques au cours du temps peut-être une manière de lutter contre l'entropie, mais cette dernière peut être prise de cours par des limites structurelles, comme les lois de la Thermodynamique, ainsi que dans l'énonciation même de base de ces caractéristiques.*
+
+*D'une part, la crise du capitalisme actuel, directement corrélée à la question de l'urgence climatique, est liée en outre à l'incapacité de résoudre les contradictons, au sein du libre marché en expansion permanente, entre les désirs infinis de l'humanité et les limite physiques de la planète Terre. Tandis que, d'autre part, l'application des méthodes d'organisation sociales dérivées des travaux de Robert Malthus au XIXème, a abouti à l'Eugénisme, qui justifie le pathogène comme un risque pour l'homéostasie d'un corps social, justifiant ainsi des dérives sécuritaires et liberticides.*
+
+*Pour Ivan Illich, plus un système va chercher à s'ordonner, plus il créera du désordre, autrement dit à une force concentrique s'oppose une force de dispersion qui réduit son mouvement : c'est ce qu'il théorise sous le nom de Mnémozyne, en référence à la divinité grecque du chaos.*
+
+*Et c'est par un verbe du vocabulaire de Jacques Derrida, "Panser", que Bernard Stiegler nous invite à prendre en compte ces tensions qui existent dans les relations qui existent entre les systèmes et leurs structures, afin de préserver notre capacité de création et de changement.*
+
+*Mais si on a pu constater qu'observer les systèmes afin d'en comprendre les relations afin de proposer des manières de dépasser les tensions inhérentes à ces structures permettaient de proposer des formes de bifurcation, il sera fait état de la difficultée de souligner la singularité d'une proposition de ce type.*
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras massa lorem, malesuada non sodales ut, condimentum in massa. Quisque sit amet lorem neque. Phasellus rhoncus leo risus, ut ultrices odio accumsan eget. Mauris ac urna nec risus dictum pretium. Duis sit amet enim sed odio dapibus sollicitudin. Phasellus iaculis ullamcorper enim ut porttitor. Pellentesque sit amet turpis felis. Duis eget {% cite stiegler_sortir_2015 %} sagittis massa. Sed laoreet quam neque, vitae pharetra tortor interdum et. Pellentesque fermentum sapien massa, non rhoncus turpis lacinia ut. Proin ut venenatis dui.
 
 Vestibulum rutrum ante at rhoncus porta. Donec vestibulum vulputate magna, a fermentum felis vestibulum in. Suspendisse potenti. Nam semper {% cite stiegler_quappelle-t-panser_2018 %}, ipsum nec pellentesque accumsan, arcu arcu pellentesque nisi, nec aliquam ante est in magna. Vivamus lacinia elementum purus. Mauris dignissim pulvinar eros, ut ullamcorper dolor pretium non. Nullam tempus dictum est a pharetra. Maecenas ut lorem velit. Nullam dapibus ligula est, nec interdum felis faucibus et. Mauris at felis purus. Curabitur malesuada ipsum metus, nec imperdiet purus congue quis. Suspendisse ornare accumsan eros at pharetra.
