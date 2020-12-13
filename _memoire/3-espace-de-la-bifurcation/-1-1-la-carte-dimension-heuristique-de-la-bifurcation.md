@@ -12,6 +12,18 @@
 
 * *Robert Smithson, Spiral Jetty, 1970*
 
+*On va considérer l'Outil selon l'angle retenu par Gilbert Simondon comme une extension des capacités humaines : c'est à dire l'ensemble des **moyens technique manipulable** pour penser, communiquer ou agir sur son environnement et ses pairs ainsi que les types de* **rapports entretenu avec ces dispositifs dans cette relation au monde.**
+
+*La notation est un Outil en ce sens qu'elle permet **d'inscrire un signe sur un support**, et par extension de **transformer ce signe en objet physique**, celui-ci peut **devenir un symbole** qui peut se transmettre, se dupliquer, mais surtout **communiquer un sens** entre deux récepteurs, sans forcément toutefois commenter dans cet exemple une étude de la Communication.*
+
+*Platon racontait que Socrate critiquait le dispositif de l'écriture en un sens ou celui-ci ne répondait pas à la question de la perte de l'expérience pure : au travers d'un canal tel que celui de la littérature et de la fiction entre autre, la nature du message changait du fait de la nature de la relation entre l'émetteur du message et son destinataire.*
+
+**Comment évoquer une expérience de la manière la plus précise et éloquente possible tout en la transmettant de manière à ce que son interprétation ne fasse pas ou peu l'objet d'une perte d'information ?** *Socrate trouvait normal de considérer l'apprentissage oral par coeur comme une condition de la stricte conservation du Savoir.*
+
+>The medium is the message
+
+* *Marshall McLuahnn*
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras massa lorem, malesuada non sodales ut, condimentum in massa. Quisque sit amet lorem neque. Phasellus rhoncus leo risus, ut ultrices odio accumsan eget. Mauris ac urna nec risus dictum pretium. Duis sit amet enim sed odio dapibus sollicitudin. Phasellus iaculis ullamcorper enim ut porttitor. Pellentesque {% cite nine_budapest_2019 %} sit amet turpis felis. Duis eget sagittis massa. Sed laoreet quam neque, vitae pharetra tortor interdum et. Pellentesque fermentum sapien massa, non rhoncus turpis lacinia ut. Proin ut venenatis dui.
 
 Vestibulum rutrum ante at rhoncus porta. Donec vestibulum vulputate magna, a fermentum felis vestibulum in. Suspendisse potenti. Nam semper, ipsum nec pellentesque accumsan, arcu arcu pellentesque nisi, nec aliquam ante est in magna. Vivamus lacinia elementum purus. Mauris dignissim pulvinar eros, ut ullamcorper {% cite patron_hypothese_1995 %} dolor pretium non. Nullam tempus dictum est a pharetra. Maecenas ut lorem velit. Nullam dapibus ligula est, nec interdum felis faucibus et. Mauris at felis purus. Curabitur malesuada ipsum metus, nec imperdiet purus congue quis. Suspendisse ornare accumsan eros at pharetra.
