@@ -14,6 +14,8 @@
 
 *Et c'est toute la question de l'Ontologie que de définir un ensemble d'élément par une série de représentation afin de s'accorder sur un sens commun : cet élément essentiel de la chaîne de transmission du savoir se concrétise dans les dictionnaires et l'ensemble des [lexiques](https://bifurcation.etxetxe.fr/7-annexes/lexique/) qui présentent des ontologies dans des index ou des bases de données.*
 
+*Dans un modèle théorique idéal, une information peut ne pas être associée à une valeur énergétique, mais il est intéressant de la considérer comme un état de l'énergie si on veut en étudier ses relations avec le medium et le destinataire : en effet, cette valeur change au cours du processus de concrétisation des outils puisque la transmission de signaux de fumées n'a pas la même dépense énergétique qu'un télétype.*
+
 *La conservation et la transmission de caractéristiques au cours du temps peut-être une manière de lutter contre l'entropie, mais cette dernière peut être prise de cours par des limites structurelles, comme les lois de la Thermodynamique, ainsi que dans l'énonciation même de base de ces caractéristiques.*
 
 *D'une part, la crise du capitalisme actuel, directement corrélée à la question de l'urgence climatique, est liée en outre à l'incapacité de résoudre les contradictons, au sein du libre marché en expansion permanente, entre les désirs infinis de l'humanité et les limite physiques de la planète Terre. Tandis que, d'autre part, l'application des méthodes d'organisation sociales dérivées des travaux de Robert Malthus au XIXème, a abouti à l'Eugénisme, qui justifie le pathogène comme un risque pour l'homéostasie d'un corps social, justifiant ainsi des dérives sécuritaires et liberticides.*

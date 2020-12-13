@@ -16,6 +16,8 @@
 
 *La notation est un Outil en ce sens qu'elle permet **d'inscrire un signe sur un support**, et par extension de **transformer ce signe en objet physique**, celui-ci peut **devenir un symbole** qui peut se transmettre, se dupliquer, mais surtout **communiquer un sens** entre deux récepteurs, sans forcément toutefois commenter dans cet exemple une étude de la Communication.*
 
+*La théorie de l'énaction, conceptualisé par Fransisco Varela et Gregory Bateson à l'Université de Palo Alto, parle de l'expérience sous l'angle de l'interaction d'un individu avec son milieu de l'interaction d'un individu avec un milieu. En considérant le dispositif artistique comme une carte, on peut dès lors parler de cette expérience du point de vue du spectateur : comment peut-on le solliciter et peut-il échapper à ce qu'il lui est proposé ?*
+
 *Platon racontait que Socrate critiquait le dispositif de l'écriture en un sens ou celui-ci ne répondait pas à la question de la perte de l'expérience pure : au travers d'un canal tel que celui de la littérature et de la fiction entre autre, la nature du message changait du fait de la nature de la relation entre l'émetteur du message et son destinataire.*
 
 **Comment évoquer une expérience de la manière la plus précise et éloquente possible tout en la transmettant de manière à ce que son interprétation ne fasse pas ou peu l'objet d'une perte d'information ?** *Socrate trouvait normal de considérer l'apprentissage oral par coeur comme une condition de la stricte conservation du Savoir.*
