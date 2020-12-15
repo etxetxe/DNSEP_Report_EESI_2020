@@ -6,7 +6,7 @@ Détour sans retour
 
 S'égarer volontairement suppose de baliser son chemin pour mieux ce perdre, et ce dans le but de commettre une effraction, de briser la barrière pour arriver quelque part sans y avoir été attendu.
 
-Et c'est précisément parce que les tendances de conceptions des intelligences artificielles à concevoir des modes de traitement des données sous l'angle des similarité en privilégiant les solutions établies les plus efficaces qu'elles ne parviennent pas, selon Lev Manovich, à véritablement se singulariser alors que La question de la spécificité des nouveaux média, que développait déjà Walter Benjamin dans "L'Oeuvre d'Art à l'époque de sa reproductibilité technique", posaient justement comme postulat la remise en question du caractère singulier de l'objet d'art en tant que présupposée de sa valeur pour en privilégier les processus et les interactions.
+Et c'est précisément parce que les tendances de conceptions des intelligences artificielles à concevoir des modes de traitement des données sous l'angle des similarité en privilégiant les solutions établies les plus efficaces qu'elles ne parviennent pas, selon Lev Manovich{% cite manovich_esthetique_2017 %}, à véritablement se singulariser alors que La question de la spécificité des nouveaux média, que développait déjà Walter Benjamin dans "L'Oeuvre d'Art à l'époque de sa reproductibilité technique"{% cite benjamin_loeuvre_2018 %}, posaient justement comme postulat la remise en question du caractère singulier de l'objet d'art en tant que présupposée de sa valeur pour en privilégier les processus et les interactions.
 
 Penser via l'optique de la Technique peut constituer une voie possible pour véritablement se singulariser : définir des chemins non pas sous l'angle de la possibilité mais celles de la potentialité. les modèles virtuels proposés par le numérique, notamment la simulation, permettent d'échapper à la résistance qu'oppose la matière physique dans ses manipulations et ainsi étendre d'une certaine manière l'exploration de nouveaux territoires de l'imaginaire.
 
@@ -26,17 +26,17 @@ Les mythes font partis de l'histoire des Hommes et, par le biais du récit, les 
 
 Et c'est aussi pour ça qu'Internet et l'hypertexte font peur car, de par sa nature délinéarisé, on sous-entend **la digression en tant que médium**, c'est de la perte d'attention et de l'affaiblissement de la mémoire en tant que structure nous préservant de toute perte de sens que les psychologue nous mettent en garde
 
-D'une certaine manière, le Nouveau Roman s'est attelé à casser la structure du récit romanesque et de ce fait la certitude de son inéluctable linéarité à la même époque où l'on cherchait à remplacer l'écriture musicale par de nouveaux systèmes, atonales ou dodécaphoniques, car ils étaient en quelque sorte dans une **impasse formelle** qu'il était nécessaire de briser ou dépasser.
+D'une certaine manière, le Nouveau Roman{% cite robbe-grillet_les_2010 %} s'est attelé à casser la structure du récit romanesque et de ce fait la certitude de son inéluctable linéarité à la même époque où l'on cherchait à remplacer l'écriture musicale par de nouveaux systèmes, atonales ou dodécaphoniques, car ils étaient en quelque sorte dans une **impasse formelle** qu'il était nécessaire de briser ou dépasser.
 
 Mais c'est justement là où la digression est salutaire, quand elle redonne la possibilité d'explorer, lorsque elle devient un moyen d'étendre les limites de l'art, donc de faire de l'art
 
 Il y a des artistes qui explorent tout le potentiel d'un médium quand d'autre démontent des systèmes mais, que l'on casse, que l'on développe des formes hyperspécialisées ou plus brutes, l'Art fait société et communique sur ses moyens et ses acteurs, **elle s'actualise par rapport à ces transformations** car ce sont ces mêmes forces qui permettent de développer de nouveaux média, de nouvelles formes et de nouveaux langages.
 
-On en revient à ce que Michel Foucault définissait dans sa notion d'Epistémè, que les **conditions qui définissent nos pensées et nos modes d'expressions changent en permanence** et que chaque époque doit en définir les termes.
+On en revient à ce que Michel Foucault définissait dans sa notion d'[Epistémè](https://www.youtube.com/watch?v=ZY7bzIZ7-Ys), que les **conditions qui définissent nos pensées et nos modes d'expressions changent en permanence** et que chaque époque doit en définir les termes.
 
 Mais qu'elle est la finalité de cette digression ? Est-ce qu'elle renforce le But ? En ce sens, est-ce que le labyrinthe est une forme ultime digression ? Est-ce volontaire - N'oublies pas l'histoire de sa représentation dans les mythes antiques et son usage dans les traditions symbolique chrétienne - et comment ne pas tourner en rond ?
 
-Là est l'enjeu de la singularisation au sein d'une bifurcation **car les systèmes actuelles digressifs amènent davantage vers un formatage**, c'est la critique de Bernard Stiegler dans le Pharmakon : si nos outils de création sont soumis à la normalisation, ils peuvent être amenés cette affirmation :
+Là est l'enjeu de la singularisation au sein d'une bifurcation **car les systèmes actuelles digressifs amènent davantage vers un formatage**, c'est la critique de Bernard Stiegler dans le Pharmakon{% cite stiegler_what_2013 %} : si nos outils de création sont soumis à la normalisation, ils peuvent être amenés cette affirmation :
 
 >L'art c'est l'exception, la culture c'est la règle.
 
