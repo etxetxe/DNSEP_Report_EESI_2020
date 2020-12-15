@@ -14,7 +14,7 @@ c'est ce qu'il fait que j'en suis venu à parler de bifurcation : **en digressan
 
 Et il est d'autant plus ennuyeux de constater que **la fugue** ne constitue en rien une fin puisqu'en ne se raccroche qu'à **son propre mouvement**, elle ne propose pas d'issues en soi et on ne fait que finalement continuer à se perdre.
 
-C'est au travers de la prise de conscience de ces voies sans issues que Heidegger nous parle, en évoquant l'image de ces **"chemins qui ne mènent nulle part"** , de la manière dont certains sentiers nous laissaient **entrevoir des sorties alors qu'ils n'étaient finalement que des impasses** dans lesquelles toute forme de poursuite nous amenait inéluctablement à rebrousser chemin
+C'est au travers de la prise de conscience de ces voies sans issues que Heidegger nous parle, en évoquant l'image de ces **"chemins qui ne mènent nulle part"**{% cite heidegger_chemins_2001 %} , de la manière dont certains sentiers nous laissaient **entrevoir des sorties alors qu'ils n'étaient finalement que des impasses** dans lesquelles toute forme de poursuite nous amenait inéluctablement à rebrousser chemin
 
 On voit dès lors le problème se pose lorsque l'on bifurque continuellement puisque l'on ne finit également par ne plus bifurquer du tout. Il ne faut cependant pas reconsidérer notre mouvement mais notre position, **prendre de la hauteur**.
 
