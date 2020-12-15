@@ -26,6 +26,14 @@ Chemin qui se construit et se reconstruit en fonction de l'interaction, le spect
 
 Le Hasard, l'aléatoire contrôlé de Lutowslaski, Andrée Boucourechliev, Archipel IV, définir un ensemble d'éléments musicaux que l'on peut interpréter  dans n'importe qu'elle ordre.
 
+La digression est un processus caractérisée par une **manifestation du temps** :
+
+>Un triangle, solide absolu, n'a pas de manifestation du temps et la forme est entière en soi ; en revanche le nautile ou le fossile est la manifestation des couches successives qui composent la forme totale elle ne cesse d'émerger en tant que présence sans cesse réactualisée
+
+Le geste de dessiner est une aussi une manifestation de ce présent réactualisée, **faire trace c'est inscrire du temps.**
+
+L'échantillonnage est caractéristique de toute forme de perception et d'interprétation du monde (cf. le domaine visible, la fréquence visuelle,...) donc le langage et les codes de représentation sont toujours approximatif pour présenter entièrement le monde, **mais elle peuvent emprunter des chemins de traverse pour décrire l'essentiel.**
+
 La théorie de l'énaction, conceptualisé par Fransisco Varela et Gregory Bateson à l'Université de Palo Alto, parle de l'expérience sous l'angle de l'interaction d'un individu avec son milieu de l'interaction d'un individu avec un milieu. En considérant le dispositif artistique comme une carte, on peut dès lors parler de cette expérience du point de vue du spectateur : comment peut-on le solliciter et peut-il échapper à ce qu'il lui est proposé ?*
 
 Platon racontait que Socrate critiquait le dispositif de l'écriture en un sens ou celui-ci ne répondait pas à la question de la perte de l'expérience pure : au travers d'un canal tel que celui de la littérature et de la fiction entre autre, la nature du message changait du fait de la nature de la relation entre l'émetteur du message et son destinataire.*
