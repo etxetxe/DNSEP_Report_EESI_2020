@@ -6,6 +6,12 @@ Le Paradigme est un terme d'épisthémologie qui défini des modèles de représ
 
 Samuel Kuhn considère l'histoire de la recherche scientifique comme la succession d'un ensemble de modèles réactualisant les éléments des objets d'études et devenant de fait un standard.
 
+Pour un programmeur, quels sont les modèles qui se rapproche le plus de la vie et de la pensée actuelle, notamment **les modèles bio-inspirés** (c'est notamment le sujet de recherche de Yves Dutain). On peut par exemple mimer le mécanisme d'une cellule cancéreuse en créant un programme qui va simuler son cycle de vie et modifier à volonté ses paramètre d'existence (les bifurcation sont autant de mutations possibles).
+
+La connaissance est un processus dont le dynamisme s'inscrit dans la nature double l'humain, **à la fois corps social et également capable d'individuation** à la manière de ce que définissaient [Gilbert Simondon et Carl Gustav Jung](https://www.cairn.info/revue-societes-2011-1-page-105.htm#) :
+
+>Ce qui différencie un autre de la même espèce et le fait exister individuellement.
+
 La création d'un **[site web personnel pour compiler mes travaux](https://monsite.etxetxe.fr)** m'a posé un certains nombre de problèmes : certains travaux pris individuellement pouvaient prendre sens tandis que d'autre étaient le fruit de suivi, de mission ou de collaboration à des projets collectifs.
 
 **Certaines branches restent ouverte** et continuent à se déployer tandis que d'autres sont des **survivances d'états passés à un instant T**, il arrive également que j'accrédite la personne qui a fait un tel projet sur lequel je n'ai été qu'assistant et il me semble important que **je raccorde nos deux milieux respectifs.**
