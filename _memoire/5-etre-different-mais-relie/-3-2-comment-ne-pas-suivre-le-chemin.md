@@ -17,3 +17,15 @@ Tomàs Saraceno, à l'origine du Manifeste de l'Aérocène, Ewen Chardronnet, fo
 La réappropriation des modalités des imaginaires peut devenir un paliatif à ce qui relève encore de l'inpensé, ce qui nourrit autant les résurgence théologique que les théories du complot, car l'idée même de la finitude constitue un vaste sujet.
 
 On peut par exemple commenter la question de la Mort qui connaît une résurgence des ses mythes par le biais du transhumanisme qui substituerait aux anciennes spiritualitées un culte du "Data-Dieu" et ou l'abolition des frontières de la vie et de la mort permettrait de donner naissance à des entitées éternelles et omniscientes.
+
+Selon les modèles de prédiction énergétique, la décroissance arrive mais les mécanismes de certification (extraction des matières, techniques, transport et distribution,...) pour l'accompagner n'existent pas encore, **les dernières disruption technologique restent encore liées à un modèle de société productiviste à énergie illimitée et à faible coût**. Cependant les pertes estimées au coût de cette non-gestion sont estimées à 10 000 Md de US$
+
+Les machines ont fournis un profit faramineux sans équivalent, diminuant la productivité global des humains, mais elles ont étés corrélés à une plus forte pollution et à un accroissement des inégalités voir l'exclusion de groupes entiers.
+
+Claude Shannon, père de la théorie de l'Information, était également jongleur monocycliste, il a théorisé le fait qu'**un message perdait de l'information en fonction des canaux d'émissions, de diffusions et de réception (chaîne de la transmission)**, à une certaine vitesse on atteint une certaine limite (limite de Shannon).
+
+Un groupe de scientifique breton dans les années 90 a découvert les règles de la limite de Shannon, créant de nouvelles innovations sur les **mécanisme d'encodage et de compression des données**. L'idée de base est de repérer les patterns et les redondances dans le message.
+
+L'algorithme agit en tant que processus, sa logique est mathématique et philosophique, **le calculable nous éloignerait-il de la contingence ?** Or l'imprévisibilité est une composante de la vie, abandonne-t-on pour autant la poésie ?
+
+Selon Bernard Stiegler, la machine numérique ne s'intéresse qu'au domaine du calculable jusqu'à potentiellement une infinité de limite, or, **l'intelligence humaine est infiniment plus intelligente car elle est capable de bifurquer.**
