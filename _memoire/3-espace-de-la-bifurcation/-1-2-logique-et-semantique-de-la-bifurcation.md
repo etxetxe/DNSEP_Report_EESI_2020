@@ -22,6 +22,16 @@ Comment établir une grille de lecture après mis à plat des concept ? Que choi
 
 En narratologie, la digression a d'abord une valeur descriptive puis rhétorique (cf. cinéma anarratif,...), revenir sur l'histoire de la Bifurcation par l'histoire des médium permet d'étendre le champ de réflexion autour de cette notion*
 
+Le signifiant (mot), le signifié (l'objet) et le signe (sa manifestation) définissent en linguistique l'analogisations du monde, de nombreux artistes dans l'art conceptuels et les avant-gardes ont essayé de travailler sur une **mise à plat des pratiques et de leurs définitions afin de se reconfigurer.**
+
+Les langage et les signes peuvent être séquencés et analysé par des balises sémantiques, devenant **une information au sein d'une base de donnée structurelle, chaque information extraite devient autant de port d'entrée-sortie (I/O) vers d'autres base de données**, donc de potentiels nouveaux signes et créant des relations génératrice d'interaction.
+
+Aujourd'hui, le Deep Learning a accéléré ce travail de séquençage en permettant à la machine **de développer des patterns pour éloigner les redondances et mieux cibler les singularités.**
+
+[Jean Christophe Bury](https://l3i.univ-larochelle.fr/Burie-Jean-Christophe-MCF-HDR), extraction de signes liés au monde de la BD, algorithme poussé sur un domaine visuel et sémantique très spécifique, comment en comprendre la logique ?
+
+Lev Manovich travaille également sur des système d'analyse d'image pour en extraire le maximum d'information afin avant de penser à des modalités d'interaction au sein de ses bases de données. **Au lieu de trouver des correspondances, comment ainsi voir des singularités ?** Et comment fabriquer des formes avec cette matière ?
+
 Dans un modèle théorique idéal, une information peut ne pas être associée à une valeur énergétique, mais il est intéressant de la considérer comme un état de l'énergie si on veut en étudier ses relations avec le medium et le destinataire : en effet, cette valeur change au cours du processus de concrétisation des outils puisque la transmission de signaux de fumées n'a pas la même dépense énergétique qu'un télétype.
 
 La conservation et la transmission de caractéristiques au cours du temps peut-être une manière de lutter contre l'entropie, mais cette dernière peut être prise de cours par des limites structurelles, comme les lois de la Thermodynamique, ainsi que dans l'énonciation même de base de ces caractéristiques.
