@@ -1,3 +1,7 @@
+*Détour sans détour ?*
+
+*En bifurquant, on continue à suivre un chemin, même en prenant des détours. S'il y a un chemin c'est que quelqu'un est passé avant, mais celui-ci peut devenir de plus en plius tortueux : est-ce que l'on décide de le prendre au mépris du risque ? Est-ce que l'on défriche ? Il n'est jamais facile de savoir s'il on retombera sur notre chemin.*
+
 *Détour sans retour*
 
 *S'égarer volontairement suppose de baliser son chemin pour mieux ce perdre, et ce dans le but de commettre une effraction, de briser la barrière pour arriver quelque part sans y avoir été attendu.*
