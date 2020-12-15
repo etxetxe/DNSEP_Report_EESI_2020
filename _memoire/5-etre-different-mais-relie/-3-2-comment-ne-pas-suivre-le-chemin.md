@@ -1,4 +1,4 @@
-![image](images/LAn-01-extrait-31.jpg)
+![image](https://bifurcation.etxetxe.fr/images/LAn-01-extrait-31.jpg)
 
 En analysant la bifurcation en art comme moyen de lutter contre des outils de propagande, propose-t-elle en contrepoint des outils de libération ?
 
