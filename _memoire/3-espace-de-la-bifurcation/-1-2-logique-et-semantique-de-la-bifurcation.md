@@ -16,9 +16,9 @@ Les pages du web sémantique ont des formats de représentation de données sous
 
 Et c'est toute la question de [l'Ontologie](https://bifurcation.etxetxe.fr/7-annexes/lexique/) que de définir un ensemble d'éléments par une série de représentation afin de s'accorder sur un sens commun : cet élément essentiel de la chaîne de transmission du savoir se concrétise dans les dictionnaires et l'ensemble des [lexiques](https://bifurcation.etxetxe.fr/7-annexes/lexique/) qui présentent des ontologies dans des index ou des bases de données.
 
-![image](![image](https://bifurcation.etxetxe.fr/images/morris.jpg)
+![image](https://bifurcation.etxetxe.fr/images/morris.jpg)
 
-![image](![image](https://bifurcation.etxetxe.fr/images/serra.jpg)
+![image](https://bifurcation.etxetxe.fr/images/serra.jpg)
 
 La base de donnée : Card File de Robert Morris 1971, **la finalité de l'œuvre est la description et la classification de sa procédure**, elle dit ce qu'elle est (tautologie). Lire aussi les écrits des artistes minimalistes conceptuels (dont Richard Serra et ses listes d'action).
 
@@ -30,13 +30,13 @@ Le signifiant (mot), le signifié (l'objet) et le signe (sa manifestation) défi
 
 Les langage et les signes peuvent être séquencés et analysé par des balises sémantiques, devenant **une information au sein d'une base de donnée structurelle, chaque information extraite devient autant de port d'entrée-sortie (I/O) vers d'autres base de données**, donc de potentiels nouveaux signes et créant des relations génératrice d'interaction.
 
-Aujourd'hui, le Deep Learning a accéléré ce travail de séquençage en permettant à la machine **de développer des patterns pour éloigner les redondances et mieux cibler les singularités.**
+Aujourd'hui, le Deep Learning{% cite goodfellow_generative_2014 %} a accéléré ce travail de séquençage en permettant à la machine **de développer des patterns pour éloigner les redondances et mieux cibler les singularités.**
 
-![image](![image](https://bifurcation.etxetxe.fr/images/bury.jpg)
+![image]((https://bifurcation.etxetxe.fr/images/bury.png)
 
 [Jean Christophe Bury](https://l3i.univ-larochelle.fr/Burie-Jean-Christophe-MCF-HDR), extraction de signes liés au monde de la BD, algorithme poussé sur un domaine visuel et sémantique très spécifique, comment en comprendre la logique ?
 
-![image](![image](https://bifurcation.etxetxe.fr/images/manovich.jpg)
+![image]((https://bifurcation.etxetxe.fr/images/manovich.jpg)
 
 Lev Manovich{% cite manovitch_langage_2015 %} travaille également sur des systèmes d'analyse d'image pour en extraire le maximum d'informations afin avant de penser à des modalités d'interactions au sein de ses bases de données. **Au lieu de trouver des correspondances, comment ainsi voir des singularités ?** Et comment fabriquer des formes avec cette matière ?
 
