@@ -10,7 +10,7 @@ Au travers du complexe se dessine entre autre une carte des manifestation du Pou
 
 L'Interface Utilisateur est le dispositif de communication entre l'utilisateur et ce complexe et conçoit les champs de réponses possible ainsi que les modalités de leurs interaction : un profil d'utilisateur n'est qu'une abstraction d'un tableau contenu dans une base de donnée et ne dit rien de ses modes de traitement.
 
-Les dispositifs de capture et de sollicitation de l'attention se retrouvent entre autre dans le champs du marketing et de la Surveillance opèrent notamment de deux manières, dont celle de la [Normalisation] et celle de la [Synchronisation].
+Les dispositifs de capture et de sollicitation de l'attention se retrouvent entre autre dans le champs du marketing et de la Surveillance opèrent notamment de deux manières, dont celle de la [Normalisation](https://bifurcation.etxetxe.fr/7-annexes/lexique/) et celle de la [Synchronisation](https://bifurcation.etxetxe.fr/7-annexes/lexique/).
 
 Normaliser revient à imposer un ordre associé à une logique disciplinaire sous la forme d'un contrôle et par la mise en place de formes de repressions en cas de dispersion, tout en veillant à permettre un souplesse en son sein nécessaire à sa conservation : elle ne cherche pas à empêcher la bifuraction mais à en contrôler le mouvement.
 
@@ -22,10 +22,10 @@ La crise sanitaire pourrait imposer aux sociétés que les citoyens fournissent 
 
 En dissidence, **l'esprit intime pouvait auparavant servir de bulle de confinement**, dispositif de capture de l'attention, colonisation des cerveaux, les espaces mentaux sont des territoires pouvant être envahi par des marques comme par notre entourage par le biais de **systèmes de capture de l'attention**, excluant toute possibilité de sortir du groupe, de s'émanciper (l'exclusion équivalait à la mort).
 
-Sortir du groupe pouvait aussi être considéré comme un rite d'initiation dans certaines sociétés tribales, les cloches des églises ont joué le rôle de synchronisateur de la vie civile et religieuse des villes pendant des siècles, **homéostasie des corps sociaux.**
+Sortir du groupe pouvait aussi être considéré comme un rite d'initiation dans certaines sociétés tribales, les cloches des églises ont joué le rôle de synchronisateur de la vie civile et religieuse des villes pendant des siècles, **[homéostasie](https://bifurcation.etxetxe.fr/7-annexes/lexique/) des corps sociaux.**
 
 Les intelligence artificielles sont amenés à comprendre ces éléments de rites et synchronisation en flux continu{% cite goodfellow_generative_2014 %} afin de tracker nos déplacement et d'anticiper comportement, ce qui amène à **établir des certifications voir des systèmes de promotion** en fonction des buts des programmes qui confirmerait le regard social en tant outil de contrôle (cf. panoptique, métaphore du pouvoir).
 
-Le travail collaboratif distribué implique **le partage et la synchronisation des données ou chacun serait son propre émetteur et diffuseur**, c'est ce que défend [Don Foresta](donforesta.net) dans sa thèse du multi casting afin d'échapper au problème de l'œil unique
+Le travail collaboratif distribué implique **le partage et la synchronisation des données ou chacun serait son propre émetteur et diffuseur**, c'est ce que défend [Don Foresta](https://www.youtube.com/watch?v=iRGWVtc_Jbc) dans sa thèse du multi casting afin d'échapper au problème de l'œil unique
 
 En complément des systèmes de certification et de promotion, les nouveaux agents numérique de communication (smartphone,...) orientent, corrigent et annotent nos données par le biais de méta tags, éléments de balisage utilisés par les moteurs de recherche et les agrégateurs, créant et définissant des profils à notre insu, créant une forme de conditionnement de notre regard et de nos appétences.

@@ -166,3 +166,13 @@ POL. Retour à une situation normale, au besoin par la force, après une périod
 
 #### Transgression
 Fait de ne pas se conformer à une attitude courante, naturelle.
+
+#### Synchronisation
+MÉCAN., PHYS. ,,Égalisation des vitesses et mise en concordance de phase de deux ou plusieurs machines synchrones identiques mécaniquement indépendantes (Siz. 1968). Synchronisation de machines, de moteurs.
+
+>*L'observateur considéré pourra régler toutes les horloges liées à son système de référence (...). De cette manière sera réalisée une « synchronisation » tout à fait univoque des horloges du système de référence*
+
+(L. de Broglie, *Théorie quanta*, 1959, p. 23).
+
+#### Homéostasie
+BIOL. Tendance de l'organisme à maintenir ou à ramener les différentes constantes physiologiques (température, débit sanguin, tension artérielle, etc.) à des degrés qui ne s'écartent pas de la normale.
