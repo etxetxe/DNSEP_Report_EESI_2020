@@ -8,7 +8,7 @@ Car en s'élevant pour mieux surplomber le monde, on pourait interpréter la fug
 
 En revanche, les récits d'apprentissage et de formation spirituels partent d'une fuite, et cette distinction avec la fugue est essentielle puisque qu'au lieu de chercher à échapper au monde, il s'agit de retrouver les chemins pour se perdre afin de revenir vers une expérience consentie du Réel.
 
-* Robert Smithson, Spiral Jetty, 1970
+![image](https://bifurcation.etxetxe.fr/images/jetty.jpg)
 
 On va considérer [l'Outil](https://bifurcation.etxetxe.fr/7-annexes/lexique/) selon l'angle retenu par Gilbert Simondon comme une extension des capacités humaines{% cite simondon_du_2012 %} : c'est à dire l'ensemble des **moyens technique manipulables** pour penser, communiquer ou agir sur son environnement et ses pairs ainsi que les types de **rapports entretenues avec ces dispositifs dans cette relation au monde.**
 
@@ -20,19 +20,19 @@ Le Télos est la cause finale, elle détermine le cap, pour Deleuze{% cite deleu
 
 ![image](https://bifurcation.etxetxe.fr/images/perspecteurs.jpg)
 
-![image](https://bifurcation.etxetxe.fr/images/archipel.jpg)
-
-![image](https://bifurcation.etxetxe.fr/images/cage.jpg)
-
-![image](https://bifurcation.etxetxe.fr/images/xenakis.jpg)
-
 Chez J.L. Boissier, la carte interactive dessine un chemin que l'on peut marquer et annoter. Dans **la relation comme forme**{% cite boissier_relation_2008 %}, il présente les [perspecteurs](http://www.ciren.org/ciren/productions/perspecteurs/index.html), outil de création liée au système de représentation de la perspective.
 
 >Les papyrus comportent des signes qui relèvent de leurs apparences mais qui renvoient plus fondamentalement à leurs architectures, à leurs croissances, à leurs comportements, à leurs échanges. Ces signes d’articulations relationnelles sont perçus spécifiquement par le cerveau où ils instaurent des systèmes d’intellection distincts des langues, tout en contribuant aux écritures.
 
 Chemin qui se construit et se reconstruit en fonction de l'interaction, le spectateur partage la possibilité de bifurquer et de choisir ou non le chemin, boucle avant-arrière,...
 
+![image](https://bifurcation.etxetxe.fr/images/archipel.jpg)
+
 Le Hasard, l'aléatoire contrôlé de Lutowslaski, Andrée Boucourechliev, Archipel IV, définir un ensemble d'éléments musicaux que l'on peut interpréter  dans n'importe qu'elle ordre.
+
+![image](https://bifurcation.etxetxe.fr/images/cage.jpg)
+
+![image](https://bifurcation.etxetxe.fr/images/xenakis.png)
 
 La digression est un processus caractérisée par une **manifestation du temps** :
 
