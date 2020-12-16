@@ -44,7 +44,7 @@ Le geste de dessiner est une aussi une manifestation de ce présent réactualis�
 
 L'échantillonnage est caractéristique de toute forme de perception et d'interprétation du monde (cf. le domaine visible, la fréquence visuelle,...) donc le langage et les codes de représentation sont toujours approximatif pour présenter entièrement le monde, **mais elle peuvent emprunter des chemins de traverse pour décrire l'essentiel.**
 
-La théorie de l'énaction, conceptualisé par Fransisco Varela et Gregory Bateson à l'Université de Palo Alto{% cite watzlawick_pragmatics_1967 %}, parle de l'expérience sous l'angle de l'interaction d'un individu avec son milieu. En considérant le dispositif artistique comme une carte, on peut dès lors parler de cette expérience du point de vue du spectateur : comment peut-on le solliciter et peut-il échapper à ce qu'il lui est proposé ?*
+La théorie de l'énaction, conceptualisé par Fransisco Varela et Gregory Bateson à l'Université de Palo Alto{% cite watzlawick_pragmatics_1967 %}, parle de l'expérience sous l'angle de l'interaction d'un individu avec son milieu. En considérant le dispositif artistique comme une carte, on peut dès lors parler de cette expérience du point de vue du spectateur : comment peut-on le solliciter et peut-il échapper à ce qu'il lui est proposé ?
 
 Platon racontait que Socrate critiquait le dispositif de l'écriture au sens où celui-ci ne répondait pas à la question de la perte de l'expérience pure : au travers d'un canal tel que celui de la littérature et de la fiction entre autre, la nature du message changait du fait de la nature de la relation entre l'émetteur du message et son destinataire.*
 
