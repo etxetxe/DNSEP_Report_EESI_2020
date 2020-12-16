@@ -6,9 +6,7 @@ Le Paradigme est un terme d'épisthémologie qui défini des modèles de représ
 
 Samuel Kuhn considère l'histoire de la recherche scientifique comme la succession d'un ensemble de modèles réactualisant les éléments des objets d'études et devenant de fait un standard.
 
-Pour un programmeur, quels sont les modèles qui se rapproche le plus de la vie et de la pensée actuelle, notamment **les modèles bio-inspirés** (c'est notamment le sujet de recherche de Yves Dutain). On peut par exemple mimer le mécanisme d'une cellule cancéreuse en créant un programme qui va simuler son cycle de vie et modifier à volonté ses paramètre d'existence (les bifurcation sont autant de mutations possibles).
-
-La connaissance est un processus dont le dynamisme s'inscrit dans la nature double l'humain, **à la fois corps social et également capable d'individuation** à la manière de ce que définissaient [Gilbert Simondon et Carl Gustav Jung](https://www.cairn.info/revue-societes-2011-1-page-105.htm#) :
+La connaissance est un processus dont le dynamisme s'inscrit dans la nature double l'humain, **à la fois corps social et également capable [d'individuation](https://bifurcation.etxetxe.fr/7-annexes/lexique/)** à la manière de ce que définissaient [Gilbert Simondon et Carl Gustav Jung](https://www.cairn.info/revue-societes-2011-1-page-105.htm#) :
 
 >Ce qui différencie un autre de la même espèce et le fait exister individuellement.
 
@@ -18,7 +16,7 @@ La création d'un **[site web personnel pour compiler mes travaux](https://monsi
 
 c'est ce qu'il fait que j'en suis venu à parler de bifurcation : **en digressant continuellement**, je n'avais fait que **m'éloigner de chemins** dans lesquels je ne cherchait pas à sortir.
 
-Et il est d'autant plus ennuyeux de constater que **la fugue** ne constitue en rien une fin puisqu'en ne se raccroche qu'à **son propre mouvement**, elle ne propose pas d'issues en soi et on ne fait que finalement continuer à se perdre.
+Et il est d'autant plus ennuyeux de constater que **[la fugue](https://bifurcation.etxetxe.fr/7-annexes/lexique/)** ne constitue en rien une fin puisqu'en ne se raccroche qu'à **son propre mouvement**, elle ne propose pas d'issues en soi et on ne fait que finalement continuer à se perdre.
 
 C'est au travers de la prise de conscience de ces voies sans issues que Heidegger nous parle, en évoquant l'image de ces **"chemins qui ne mènent nulle part"**{% cite heidegger_chemins_2001 %} , de la manière dont certains sentiers nous laissaient **entrevoir des sorties alors qu'ils n'étaient finalement que des impasses** dans lesquelles toute forme de poursuite nous amenait inéluctablement à rebrousser chemin
 
@@ -30,15 +28,15 @@ Dès lors, le choix de créer des modèles sous la forme de **cartes conceptuell
 
 Les Géants du Web, que l'on regroupe généralement sous l'acronyme de GAFAM+(en incluant le chinois Tencent), ont basé leur modèle entreprenarial sur **la maîtrise de l'ensemble de la chaîne des données au sens brute et large du terme**, peu importe ce qu'elles signifient. Cette précision est importante puisque la valeur intrinsèque d'une data ne rentre pas immédiatemment en ligne de mire, c'est les relations qu'elle va tisser avec les autres datas qui vont jouer la différence.
 
-En proposant des services, infrastructures, outils et des interfaces pour des usages aussi diverses que la fouille de données non-structurées, la visualisation de flux, le stockage dans des serveurs physique ou le monopole des canaux de communication, se dessine une carte où nos interactions sont **dépendants de systèmes experts** dont l'immanence s'impose d'une manière toujours plus violente : **cette situation sera ici défini comme un complexe.**
+En proposant des services, infrastructures, outils et des interfaces pour des usages aussi diverses que la fouille de données non-structurées, la visualisation de flux, le stockage dans des serveurs physique ou le monopole des canaux de communication, se dessine une carte où nos interactions sont **dépendants de systèmes experts** dont l'immanence s'impose d'une manière toujours plus violente : **cette situation sera ici défini comme un [complexe](https://bifurcation.etxetxe.fr/7-annexes/lexique/).**
 
-C'est justement pour décortiquer ces complexes qu'il me paraît judicieux sue les outils critique en art soient disponible et accessible pour casser ces relations en circuit fermé : on appelera ici **"patterns"** les stratégies utilisés pour rester dans ce circuit en vase clos et qu'il s'agit de reconnaître et d'en assimiler la stratégie et cela passe **la compréhension et l'apprentissage des technologies qui sont à l'oeuvre.**
+C'est justement pour décortiquer ces complexes qu'il me paraît judicieux sue les outils critique en art soient disponible et accessible pour casser ces relations en circuit fermé : on appelera ici **"[patterns](https://bifurcation.etxetxe.fr/7-annexes/lexique/)"** les stratégies utilisés pour rester dans ce circuit en vase clos et qu'il s'agit de reconnaître et d'en assimiler la stratégie et cela passe **la compréhension et l'apprentissage des technologies qui sont à l'oeuvre.**
 
-La rétroaction qui survient répond dès lors d'un processus d'adaptation à un nouvel environnement, **ce mécanisme de retour, ou "feedback"** selon le vocabulaire de Norbert Wiener, est unes des caractéristiques essentielles que l'on retrouve dans la théorie cybernétique.
+La rétroaction qui survient répond dès lors d'un processus d'adaptation à un nouvel environnement, **ce mécanisme de retour, ou "[feedback](https://bifurcation.etxetxe.fr/7-annexes/lexique/)"** selon le vocabulaire de Norbert Wiener, est unes des caractéristiques essentielles que l'on retrouve dans la théorie cybernétique.
 
 >la société ne peut être comprise que par une étude des messages et des dispositifs de communication qu’elle contient ; et que, dans le développement futur de ces messages et de ces dispositifs, les messages entre l’homme et les machines, entre les machines et l’homme, et entre la machine et la machine sont ap-pelés à jouer un rôle sans cesse croissant.{% cite wiener_cybernetique_2014 %}
 
-Selon Jean-Louis Boissier, l'algorithme pose des conditions dans la manipulation de variable afin d'aboutir à des résultats, probants ou non, attendus ou inattendus. L'ensemble de ces pistes est en soi une forme qui est celle de **la prospection**, mais ce qui est au coeur de la logique algorithmique est avant tout **la gestion de l'aléatoire.**
+Selon Jean-Louis Boissier, l'algorithme pose des conditions dans la manipulation de variable afin d'aboutir à des résultats, probants ou non, attendus ou inattendus. L'ensemble de ces pistes est en soi une forme qui est celle de **[la prospection](https://bifurcation.etxetxe.fr/7-annexes/lexique/)**, mais ce qui est au coeur de la logique algorithmique est avant tout **la gestion de l'aléatoire.**
 
 Ce qui va le différencier d'un modèle probabiliste, c'est le fait de* **réduire petit-à-petit le nombre de possibilités afin d'aboutir à un choix.** *On pourrait concevoir une infinité de chemins chaotiques que l'on baliserait en restreignant le champs d'action.
 

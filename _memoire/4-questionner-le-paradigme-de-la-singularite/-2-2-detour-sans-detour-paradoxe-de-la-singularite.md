@@ -8,7 +8,7 @@ S'égarer volontairement suppose de baliser son chemin pour mieux ce perdre, et 
 
 Et c'est précisément parce que les tendances de conceptions des intelligences artificielles à concevoir des modes de traitement des données sous l'angle des similarité en privilégiant les solutions établies les plus efficaces qu'elles ne parviennent pas, selon Lev Manovich{% cite manovich_esthetique_2017 %}, à véritablement se singulariser alors que La question de la spécificité des nouveaux média, que développait déjà Walter Benjamin dans "L'Oeuvre d'Art à l'époque de sa reproductibilité technique"{% cite benjamin_loeuvre_2018 %}, posaient justement comme postulat la remise en question du caractère singulier de l'objet d'art en tant que présupposée de sa valeur pour en privilégier les processus et les interactions.
 
-Penser via l'optique de la Technique peut constituer une voie possible pour véritablement se singulariser : définir des chemins non pas sous l'angle de la possibilité mais celles de la potentialité. les modèles virtuels proposés par le numérique, notamment la simulation, permettent d'échapper à la résistance qu'oppose la matière physique dans ses manipulations et ainsi étendre d'une certaine manière l'exploration de nouveaux territoires de l'imaginaire.
+Penser via l'optique de la Technique peut constituer une voie possible pour véritablement se [singulariser](https://bifurcation.etxetxe.fr/7-annexes/lexique/) : définir des chemins non pas sous l'angle de la possibilité mais celles de la potentialité. les modèles virtuels proposés par le numérique, notamment la simulation, permettent d'échapper à la résistance qu'oppose la matière physique dans ses manipulations et ainsi étendre d'une certaine manière l'exploration de nouveaux territoires de l'imaginaire.
 
 Le fait de filmer en extérieur, de sortir du studio grâce à la miniaturisation des dispositifs de captation ont **déplacé le regard** vers de nouveaux champs inexplorés, une caméra portable donne un degré de liberté que ne permet pas un rail.*
 
@@ -20,7 +20,7 @@ Il faut maintenant poser un certain nombre d'hypothèse, **se faire un schéma e
 
 Ce que l'on raconte par le médium découle de la démarche de travail, **ce que l'on choisi de montrer**, c'est pour ça qu'il faudrait développer un certain nombre de pièce où tu mettrais en exergue ces différents concept
 
-Je penses notamment dans certains films de Godard à ces rencontres au coin de la rue qui commencent et finissent sans crier gare, c'est parce que **l'imprévisibilité est une composante du monde réel, c'est ce qu'on appelle la contingence**. Sinon on serait dans l'eschatologie où on supposerait de la destiné du monde par les signes et les coïncidences.
+Je penses notamment dans certains films de Godard à ces rencontres au coin de la rue qui commencent et finissent sans crier gare, c'est parce que **l'imprévisibilité est une composante du monde réel, c'est ce qu'on appelle [la contingence](https://bifurcation.etxetxe.fr/7-annexes/lexique/)**. Sinon on serait dans l'eschatologie où on supposerait de la destiné du monde par les signes et les coïncidences.
 
 Les mythes font partis de l'histoire des Hommes et, par le biais du récit, les formatent en quelque sorte, d'une manière principalement linéaire. mais la téléologie, **l'idée de la fin des temps n'est pas séparé de celle du hasard** : c'est que ces mythes, qui racontent des récits de formations, en donnant une finalité à l'incertitude de la destiné humaine, permet à l'humanité de se saisir et d'investir le champs de l'information, infiniment extensible et continuellement définissable
 
@@ -36,11 +36,11 @@ On en revient à ce que Michel Foucault définissait dans sa notion d'[Epistém�
 
 Mais qu'elle est la finalité de cette digression ? Est-ce qu'elle renforce le But ? En ce sens, est-ce que le labyrinthe est une forme ultime digression ? Est-ce volontaire - N'oublies pas l'histoire de sa représentation dans les mythes antiques et son usage dans les traditions symbolique chrétienne - et comment ne pas tourner en rond ?
 
-Là est l'enjeu de la singularisation au sein d'une bifurcation **car les systèmes actuelles digressifs amènent davantage vers un formatage**, c'est la critique de Bernard Stiegler dans le Pharmakon{% cite stiegler_what_2013 %} : si nos outils de création sont soumis à la normalisation, ils peuvent être amenés cette affirmation :
+Là est l'enjeu de la singularisation au sein d'une bifurcation **car les systèmes actuelles digressifs amènent davantage vers un formatage**, c'est la critique de Bernard Stiegler dans le Pharmakon{% cite stiegler_what_2013 %} : si nos outils de création sont soumis à la [normalisation](https://bifurcation.etxetxe.fr/7-annexes/lexique/), ils peuvent être amenés cette affirmation :
 
 >L'art c'est l'exception, la culture c'est la règle.
 
-Cependant la transgression reste un concept relatif à un contexte particulier, **les artistes n'ayant pas toujours étés autorisés à ne pas suivre les règles**, d'où l'importance de ce sujet à l'époque contemporaine
+Cependant la [transgression](https://bifurcation.etxetxe.fr/7-annexes/lexique/) reste un concept relatif à un contexte particulier, **les artistes n'ayant pas toujours étés autorisés à ne pas suivre les règles**, d'où l'importance de ce sujet à l'époque contemporaine
 
 Cette tension permanente entre la continuité et la singularité est à l'oeuvre également, à certains égards et dans un large spectre d'appéciation, au sein des Ecoles d'Art, qui tentent de réinterroger en permanence les acquis successifs de l'Art tout en conservant un patrimoine afin de pouvoir anticiper les changements qui se produisent inéluctablement et d'en tracer les chemins.
 

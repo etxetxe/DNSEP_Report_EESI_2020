@@ -133,3 +133,36 @@ Branche de la physique qui traite des échanges entre les diverses formes d'éne
 >*« Lorsqu'une activité outillée dépasse un seuil défini par l'échelle ad hoc, elle se retourne d'abord contre sa fin, puis menace de destruction le corps social tout entier. »*
 
 Ivan Illich, La Convivialité, Paris, Éditions du Seuil, 1973, p. 11
+
+#### Individuation
+
+Distinction d'un individu des autres de la même espèce ou du groupe, de la société dont il fait partie; fait d'exister en tant qu'individu.
+
+#### Fugue
+PSYCHOPATHOL. Impulsion morbide qui pousse un individu (généralement un enfant ou un adolescent) à quitter son milieu social, familial, et à partir souvent sans but et à l'aventure.
+
+>*La fugue est toujours un signe morbide sérieux*
+
+(Mounier, *Traité caract.*,1946, p. 481).
+
+#### Complexe
+Composé d'éléments qui entretiennent des rapports nombreux, diversifiés, difficiles à saisir par l'esprit, et présentant souvent des aspects différents.
+
+#### Pattern
+Modèle simplifié d'une structure de comportement individuel ou collectif (d'ordre psychologique, sociologique, linguistique), établi à partir des réponses à une série homogène d'épreuves et se présentant sous forme schématique.
+
+#### Feedback
+Réglage des causes par les effets, dans un processus d'autorégulation.
+
+>*Le phénomène de feed-back qui décrit le comportement de l'être vivant ou de ses organes dans la quasi-totalité des circonstances, (...) est donc beaucoup plus riche et divers en ses manifestations que la contre-réaction de l'ingénieur automaticien.*
+
+Couffignal, *La Cybernétique*,Paris, P.U.F., 1972, no638, pp. 106-107.
+
+#### Contingence
+Événements imprévisibles tributaires de circonstances fortuites, faits d'importance mineure.
+
+#### Normalisation
+POL. Retour à une situation normale, au besoin par la force, après une période d'agitation, de troubles.
+
+#### Transgression
+Fait de ne pas se conformer à une attitude courante, naturelle.
