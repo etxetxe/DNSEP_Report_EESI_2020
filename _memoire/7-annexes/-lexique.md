@@ -43,3 +43,35 @@ Caractère de ce qui se passe entre les lignes et les sources
 
 #### Génération
 Quand la forme elle-même crée
+
+#### outil
+
+#### Echantillonnage
+
+#### Entropie/Néguentropie
+
+#### Connecteur
+
+#### Balise
+
+#### Objet
+
+#### Classe
+
+#### Base de données
+
+#### Ontologie
+
+#### Lexique
+
+#### Signifiant
+
+#### Signifié
+
+#### Signe
+
+#### I/O
+
+#### Thermodynamique
+
+#### Mnémozyne
