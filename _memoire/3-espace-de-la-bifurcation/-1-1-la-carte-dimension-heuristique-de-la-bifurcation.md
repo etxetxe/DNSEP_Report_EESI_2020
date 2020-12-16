@@ -8,9 +8,13 @@ Car en s'élevant pour mieux surplomber le monde, on pourait interpréter la fug
 
 ![image](https://bifurcation.etxetxe.fr/images/chartres.jpg)
 
+**Labyrinthe de la Cathédrale de Chartres**, _XIIIème siècle_, 12,88 m de diamètre
+
 En revanche, les récits d'apprentissage et de formation spirituels partent d'une fuite, et cette distinction avec la fugue est essentielle puisque qu'au lieu de chercher à échapper au monde, il s'agit de retrouver les chemins pour se perdre afin de revenir vers une expérience consentie du Réel.
 
 ![image](https://bifurcation.etxetxe.fr/images/jetty.jpg)
+
+**Spiral Jetty**, Robert Smithson, Salt Lake Utah, _1970_, 457 m de long et 4,5 m de large
 
 On va considérer [l'Outil](https://bifurcation.etxetxe.fr/7-annexes/lexique/) selon l'angle retenu par Gilbert Simondon comme une extension des capacités humaines{% cite simondon_du_2012 %} : c'est à dire l'ensemble des **moyens technique manipulables** pour penser, communiquer ou agir sur son environnement et ses pairs ainsi que les types de **rapports entretenues avec ces dispositifs dans cette relation au monde.**
 
@@ -30,11 +34,17 @@ Chemin qui se construit et se reconstruit en fonction de l'interaction, le spect
 
 ![image](https://bifurcation.etxetxe.fr/images/archipel.jpg)
 
-Le Hasard, l'aléatoire contrôlé de Lutowslaski, Andrée Boucourechliev, Archipel IV, définir un ensemble d'éléments musicaux que l'on peut interpréter  dans n'importe qu'elle ordre.
+[André Boucourechliev (1925-1997): **Archipel I, per 2 pianoforti e 2 percussionisti** (1966/1967)](https://www.youtube.com/watch?v=V1LJXr4CggE)
+
+Définir un ensemble d'éléments musicaux que l'on peut interpréter  dans n'importe qu'elle ordre.
 
 ![image](https://bifurcation.etxetxe.fr/images/cage.jpg)
 
+[Cornelius Cardew: **Treatise. Page 183**, _1963-1967_](https://www.youtube.com/watch?v=RwwSNCgrYrw)
+
 ![image](https://bifurcation.etxetxe.fr/images/xenakis.png)
+
+[Iannis Xenakis, **LA LÉGENDE D’EER ET JONCHAIES**,_1986_](https://www.youtube.com/watch?v=onTQERZOEZ4)
 
 La digression est un processus caractérisée par une **manifestation du temps** :
 

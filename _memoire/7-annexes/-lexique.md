@@ -69,36 +69,67 @@ Caractère de ce qui se passe entre les lignes et les sources et désignant cett
 (J. Kristeva, *Probl. de la structuration du texte ds La Nouv. critique*, 1958, nospéc., p. 61).
 
 #### Génération
-Quand la forme elle-même crée
+Quand la forme elle-même crée, produit et se transforme à artir de la matière même.
 
 #### outil
+Dans le sens de la pensée de Gilbert Simondon : ensemble des moyens technique manipulables pour penser, communiquer ou agir sur son environnement et ses pairs ainsi que les types de **rapports entretenues avec ces dispositifs dans cette relation au monde.
 
 #### Echantillonnage
+Ensemble des moyens de représentation d'un ou de plusieurs phénomènes en question sur un ordre de grandeur donné.
 
 #### Entropie/Néguentropie
+THÉORIE DE L'INFORM. Quantité moyenne d'information attribuable à un message constitué par un ensemble de signaux, représentant le degré d'incertitude où l'on est de l'apparition de chaque signal (d'apr. Piéron 1963, Ling. 1972).
+
+>*L'information, c'est l'entropie avec le signe contraire*
+
+(Ruyer, *Cybernétique*,1954, p. 46).
 
 #### Connecteur
+LING. En linguistique distributionnelle, le connecteur est un opérateur susceptible de faire de deux phrases de base une seule phrase transformée (Ling. 1972)
 
 #### Balise
+dispositif de signalisation, servant de point de repère ou indiquant les chemins à suivre, marque servant à une information contextuelle.
 
 #### Objet
+Substantif pour désigner ou ce sur quoi porte l'action, Caractère de ce qui est chose en soi, indépendante du sujet.
 
 #### Classe
+MATH. (alg., géom., trigonométrie). Ensemble de figures ou de fonctions présentant des propriétés communes. La classe des parallélogrammes, des polyèdres, des prismes, des rectangles.
 
 #### Base de données
+Une base de données permet de stocker la totalité des informations relatives à une activité.Leurs données peuvent être stockées sous une forme très structurées (base de données relationnelles par exemple), ou bien sous la forme de données brutes peu structurées voire déstructurées (base de données NoSQL Redis par exemple). Une base de données peut être localisée dans un même lieu et sur un même support informatisé, ou réparties sur plusieurs machines à plusieurs endroits.
 
 #### Ontologie
+[Au xviies. et p. réf. à la philos. aristotélicienne] Partie de la philosophie qui a pour objet l'étude des propriétés les plus générales de l'être, telles que l'existence, la possibilité, la durée, le devenir.
 
 #### Lexique
+LING. Ensemble des unités significatives d'une langue, excluant généralement les unités grammaticales et donc en inventaire ouvert, envisagé abstraitement comme un des systèmes constitutifs de cette langue.
+
+>*Le lexique est souvent opposé au vocabulaire, comme un inventaire d'unités virtuelles à l'ensemble d'unités réalisées dans un corpus (ou, ce qui revient au même, dans un texte)*
+
+(Greimas-Courtés1979).
 
 #### Signifiant
+LING. Qui est porteur de signification, qui a du sens, qui fonctionne en tant que signe. Structure, unité signifiante.
 
 #### Signifié
+Ce qui est manifesté, indiqué, ce qui veut dire quelque chose, qui a du sens.
 
 #### Signe
+LING. Signe (linguistique). Unité linguistique constituée d'une partie physique, matérielle, le signifiant, et d'une partie abstraite, conceptuelle, le signifié.
 
 #### I/O
+Entrée et Sortie au sein d'un système ou d'une architecture.
 
 #### Thermodynamique
+Branche de la physique qui traite des échanges entre les diverses formes d'énergie, des états et des propriétés de la matière, des transformations d'état et des phénomènes de transport.
+
+>*La thermodynamique comprend l'étude des corps en tenant compte de l'influence de la température sur leurs caractéristiques*
+
+(L. Borel, *Thermodyn. et énergétique*, 1984, p. 1).
 
 #### Mnémozyne
+
+>*« Lorsqu'une activité outillée dépasse un seuil défini par l'échelle ad hoc, elle se retourne d'abord contre sa fin, puis menace de destruction le corps social tout entier. »*
+
+Ivan Illich, La Convivialité, Paris, Éditions du Seuil, 1973, p. 11

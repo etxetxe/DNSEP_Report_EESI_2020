@@ -18,6 +18,11 @@ Et c'est toute la question de [l'Ontologie](https://bifurcation.etxetxe.fr/7-ann
 
 ![image](https://bifurcation.etxetxe.fr/images/morris.jpg)
 
+**Card File**, Robert Morris, _1962_, Tiroir de fichier métallique monté sur planche de bois fixée au mur et contenant 48 fiches cartonnées et indexée, Métal, bois, papier
+
+68,5 x 27 x 4 cm
+
+
 ![image](https://bifurcation.etxetxe.fr/images/serra.jpg)
 
 La base de donnée : Card File de Robert Morris 1971, **la finalité de l'œuvre est la description et la classification de sa procédure**, elle dit ce qu'elle est (tautologie). Lire aussi les écrits des artistes minimalistes conceptuels (dont Richard Serra et ses listes d'action).
@@ -35,6 +40,8 @@ Aujourd'hui, le Deep Learning{% cite goodfellow_generative_2014 %} a accéléré
 [Jean Christophe Bury](https://l3i.univ-larochelle.fr/Burie-Jean-Christophe-MCF-HDR), extraction de signes liés au monde de la BD, algorithme poussé sur un domaine visuel et sémantique très spécifique, comment en comprendre la logique ?
 
 ![image](https://bifurcation.etxetxe.fr/images/manovich.jpg)
+
+[softwarestudies.com, **Time-covers-all_montage-hor**, All covers of Time magazine (1923-2008) organized by publication date (left to right) - horizontal format (nor rotated), _23 Octobre 2009_](https://www.flickr.com/photos/culturevis/4038137889/in/album-72157622453554258/)
 
 Lev Manovich{% cite manovitch_langage_2015 %} travaille également sur des systèmes d'analyse d'image pour en extraire le maximum d'informations afin avant de penser à des modalités d'interactions au sein de ses bases de données. **Au lieu de trouver des correspondances, comment ainsi voir des singularités ?** Et comment fabriquer des formes avec cette matière ?
 
