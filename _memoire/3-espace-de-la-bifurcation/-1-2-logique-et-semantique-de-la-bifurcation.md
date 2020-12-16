@@ -32,11 +32,11 @@ Les langage et les signes peuvent être séquencés et analysé par des balises 
 
 Aujourd'hui, le Deep Learning{% cite goodfellow_generative_2014 %} a accéléré ce travail de séquençage en permettant à la machine **de développer des patterns pour éloigner les redondances et mieux cibler les singularités.**
 
-![image]((https://bifurcation.etxetxe.fr/images/bury.png)
+![image](https://bifurcation.etxetxe.fr/images/bury.png)
 
 [Jean Christophe Bury](https://l3i.univ-larochelle.fr/Burie-Jean-Christophe-MCF-HDR), extraction de signes liés au monde de la BD, algorithme poussé sur un domaine visuel et sémantique très spécifique, comment en comprendre la logique ?
 
-![image]((https://bifurcation.etxetxe.fr/images/manovich.jpg)
+![image](https://bifurcation.etxetxe.fr/images/manovich.jpg)
 
 Lev Manovich{% cite manovitch_langage_2015 %} travaille également sur des systèmes d'analyse d'image pour en extraire le maximum d'informations afin avant de penser à des modalités d'interactions au sein de ses bases de données. **Au lieu de trouver des correspondances, comment ainsi voir des singularités ?** Et comment fabriquer des formes avec cette matière ?
 
