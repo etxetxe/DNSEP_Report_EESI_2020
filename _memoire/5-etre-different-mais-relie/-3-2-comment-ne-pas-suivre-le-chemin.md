@@ -6,17 +6,27 @@ Ne pas suivre le chemin constitue un énoncé qui introduit sa propre contradict
 
 Comment échapper au dilemme selon lequel ne pas suivre l'Ordre serait se perdre tandis que suivre le chemin amènerait droit au mur, la bifurcation n'est plus introduite comme une possibilité mais une nécessité, voir une condition de survie.
 
+![image](https://bifurcation.etxetxe.fr/images/pill.jpg)
+
 Cette contradiction est porté dans la métaphore visuelle de la "pilule rouge" qui opposerait selon ses termes le choix de se singulariser ou bien de continuer à rester dans le déni : mais penser la déconstruction d'un complexe et de sa relation au pouvoir n'est pas forcément de la dissidence.
 
 Ce qui pose problème, ce n'est pas tant d' affirmer la négation "il ne faut pas suivre le chemin" que de confirmer l'affirmation "voilà comment ne pas suivre le chemin" : l'énoncé doit souligner son caractère de potentialité.
 
 Partir de ce biais permet d'amener la réflexion sur la crise systémique actuelle, celle du capitalisme et du basculement vers une transition écologique, non pas sur une téléologie, une vision de la fin des Temps, mais sur la question de la capacité d'autres régimes de déconstruction des imaginaires systémiques.
 
+![image](https://bifurcation.etxetxe.fr/images/abattoirs.jpg)
+
 à l'inverse des systèmes de bifurcation des GAFAM qui cherchent à nous formater, à la manière des abattoirs de Chicago, pas de déviation possible, **la bête devient l'élément d'une chaîne de tri à l'issu identique pour chaque éléments**. à l'inverse, l'idée est de permettre à nouveau de nous singulariser, de redonner des pouvoirs d'action et la maîtrise de nos gestes.
 
 Selon Stiegler, **la pensée à l'instar de la technique est une néguentropie**, la bifurcation doit permettre de s'échapper d'un système entropique, tout en veillant à tracer un chemin propre et identifiable.
 
 [CAPTCHA](https://www.google.com/recaptcha/about/) est un système de certification de base de computation humaine qui nourrissent les intelligences artificielles, elle reste ainsi critiqué pour le caractère aliénant d'un travail de validation à la chaîne, recréant de nouveaux prolétariats
+
+![image](https://bifurcation.etxetxe.fr/images/saraceno.jpg)
+
+![image](https://bifurcation.etxetxe.fr/images/ewen.jpg)
+
+![image](https://bifurcation.etxetxe.fr/images/luther.jpg)
 
 Tomàs Saraceno, à l'origine du Manifeste de l'Aérocène, Ewen Chardronnet, fondateur de l'Association des Astronautes, ainsi que d'une certaine manière le mouvement "Luther Blisset" explorent à la fois des voies poétiques, humoristiques et militantes de réappropriation de l'espace des imaginaires à travers l'installation, le détournement et également en explorant des pratiques liées à la mémétique.
 

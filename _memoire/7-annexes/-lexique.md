@@ -176,3 +176,7 @@ MÉCAN., PHYS. ,,Égalisation des vitesses et mise en concordance de phase de de
 
 #### Homéostasie
 BIOL. Tendance de l'organisme à maintenir ou à ramener les différentes constantes physiologiques (température, débit sanguin, tension artérielle, etc.) à des degrés qui ne s'écartent pas de la normale.
+
+>*Les équilibres dans l'organisme ne sont pas, en général, des équilibres statiques, mais des équilibres homéostatiques; ils se maintiennent malgré des conditions externes variables*
+
+(Ruyer, *Cybern.*,1954, p. 55)
