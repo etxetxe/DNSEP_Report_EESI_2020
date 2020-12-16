@@ -1,5 +1,7 @@
 ![image](https://bifurcation.etxetxe.fr/images/LAn-01-extrait-31.jpg)
 
+Gébé, **L'An 01**, édition du Square, _1972_
+
 En analysant la bifurcation en art comme moyen de lutter contre des outils de propagande, propose-t-elle en contrepoint des outils de libération ?
 
 Ne pas suivre le chemin constitue un énoncé qui introduit sa propre contradiction car ne pas cheminer peut dans ce cas être églament valable : pour bifurquer, il n'est pas possible de se dire de ne pas suivre le chemin.
@@ -7,6 +9,8 @@ Ne pas suivre le chemin constitue un énoncé qui introduit sa propre contradict
 Comment échapper au dilemme selon lequel ne pas suivre l'Ordre serait se perdre tandis que suivre le chemin amènerait droit au mur, la bifurcation n'est plus introduite comme une possibilité mais une nécessité, voir une condition de survie.
 
 ![image](https://bifurcation.etxetxe.fr/images/pill.jpg)
+
+[Soeurs Wachowski, **Matrix**, _1999_, 130 minutes](https://www.youtube.com/watch?v=TgfLNObfwLg)
 
 Cette contradiction est porté dans la métaphore visuelle de la "pilule rouge" qui opposerait selon ses termes le choix de se singulariser ou bien de continuer à rester dans le déni : mais penser la déconstruction d'un complexe et de sa relation au pouvoir n'est pas forcément de la dissidence.
 
@@ -16,6 +20,8 @@ Partir de ce biais permet d'amener la réflexion sur la crise systémique actuel
 
 ![image](https://bifurcation.etxetxe.fr/images/abattoirs.jpg)
 
+**Union Stock Yard**, _1947_
+
 à l'inverse des systèmes de bifurcation des GAFAM qui cherchent à nous formater, à la manière des abattoirs de Chicago, pas de déviation possible, **la bête devient l'élément d'une chaîne de tri à l'issu identique pour chaque éléments**. à l'inverse, l'idée est de permettre à nouveau de nous singulariser, de redonner des pouvoirs d'action et la maîtrise de nos gestes.
 
 Selon Stiegler, **la pensée à l'instar de la technique est une néguentropie**, la bifurcation doit permettre de s'échapper d'un système entropique, tout en veillant à tracer un chemin propre et identifiable.
@@ -24,11 +30,17 @@ Selon Stiegler, **la pensée à l'instar de la technique est une néguentropie**
 
 ![image](https://bifurcation.etxetxe.fr/images/saraceno.jpg)
 
+**In Orbit**, Tomàs Saraceno, Dusseldorf - Allemagne, _2013_
+
 ![image](https://bifurcation.etxetxe.fr/images/ewen.jpg)
+
+Ewen Chardonnet, **Mojave Epiphanie**, _2016_
 
 ![image](https://bifurcation.etxetxe.fr/images/luther.jpg)
 
-Tomàs Saraceno, à l'origine du Manifeste de l'Aérocène, Ewen Chardronnet, fondateur de l'Association des Astronautes, ainsi que d'une certaine manière le mouvement "Luther Blisset" explorent à la fois des voies poétiques, humoristiques et militantes de réappropriation de l'espace des imaginaires à travers l'installation, le détournement et également en explorant des pratiques liées à la mémétique.
+Portrait officiel de Luther Blisset
+
+Tomàs Saraceno, à l'origine du Manifeste de l'Aérocène, Ewen Chardronnet, fondateur de l'Association des Astronautes Autonomes{%  cite chardronnet_mojave_2016 %}, ainsi que d'une certaine manière le mouvement "Luther Blisset" explorent à la fois des voies poétiques, humoristiques et militantes de réappropriation de l'espace des imaginaires à travers l'installation, le détournement et également en explorant des pratiques liées à la mémétique.
 
 La réappropriation des modalités des imaginaires peut devenir un paliatif à ce qui relève encore de l'inpensé, ce qui nourrit autant les résurgence théologique que les théories du complot, car l'idée même de la finitude constitue un vaste sujet.
 
