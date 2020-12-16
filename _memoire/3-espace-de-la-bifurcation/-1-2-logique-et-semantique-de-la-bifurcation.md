@@ -24,8 +24,6 @@ La base de donnée : Card File de Robert Morris 1971, **la finalité de l'œuvre
 
 Comment établir une grille de lecture après mis à plat des concept ? Que choisir ? La digression comme moyen d'aller à une fin ou comme fin en soi ? Qu'est-ce que ça signifie comme processus. Choisir aussi le point de vue, l'artiste (créateur) ou le spectateur (public, critique, corps social) ?
 
-En narratologie, la digression a d'abord une valeur descriptive puis rhétorique (cf. cinéma anarratif,...), revenir sur l'histoire de la Bifurcation par l'histoire des médium permet d'étendre le champ de réflexion autour de cette notion*
-
 Le signifiant (mot), le signifié (l'objet) et le signe (sa manifestation) définissent en linguistique l'analogisations du monde, de nombreux artistes dans l'art conceptuel et les avant-gardes ont essayé de travailler sur une **mise à plat des pratiques et de leurs définitions afin de se reconfigurer.**
 
 Les langage et les signes peuvent être séquencés et analysé par des balises sémantiques, devenant **une information au sein d'une base de donnée structurelle, chaque information extraite devient autant de port d'entrée-sortie (I/O) vers d'autres base de données**, donc de potentiels nouveaux signes et créant des relations génératrice d'interaction.
