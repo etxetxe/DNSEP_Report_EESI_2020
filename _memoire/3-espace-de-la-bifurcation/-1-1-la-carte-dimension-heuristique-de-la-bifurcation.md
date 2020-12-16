@@ -6,6 +6,8 @@ On peut également envisager cette dimension heuristique au travers d'une dialec
 
 Car en s'élevant pour mieux surplomber le monde, on pourait interpréter la fugue d'Icare comme le souhait d'échapper à l'influence de son père Dédale, créateur du Labyrinthe, en sortant du Chemin. Mais il finira par courir à sa perte à force de s'approcher du Soleil et se brûlera les ailes avant de sombrer dans la Mer Egée. Lorsque l'on cherche à voir la structure dans son intégralité, on ne peut pas se perdre mais on est aveugle d'un certaine manière.
 
+![image](https://bifurcation.etxetxe.fr/images/chartres.jpg)
+
 En revanche, les récits d'apprentissage et de formation spirituels partent d'une fuite, et cette distinction avec la fugue est essentielle puisque qu'au lieu de chercher à échapper au monde, il s'agit de retrouver les chemins pour se perdre afin de revenir vers une expérience consentie du Réel.
 
 ![image](https://bifurcation.etxetxe.fr/images/jetty.jpg)
