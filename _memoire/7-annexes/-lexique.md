@@ -24,22 +24,49 @@ _Extensible Markup Language_, ou langage de balisage extensible en français, es
 YAML, pour _YAML Ain't Markup Language_, est un format de représentation de données.
 
 #### Digression
-S'écarter du chemin pour y revenir
+Développement qui s'écarte d'un thème principal ou d'un chemin pour mieux y revenir.
+>*Mais me voici m'égaillant en, je crois, des divagations qui sont proprement des digressions*
+
+(Verlaine, *Œuvres compl*.,t. 5, Quinze jours en Holl., 1893, p. 202).
+
+>*Mais laissons cette digression et revenons à notre sujet*
+
+(Maritain, *Human. intégr*.,1936, p. 111).
+
+>*Je multiplie les nuances, les digressions aussi, j'adapte enfin mon discours à l'auditeur*
+
+(Camus, *Chute*,1956, p. 1545)
 
 #### Improvisation
-Jouer, inventer sur le fait
+Art, action de composer et d'exécuter simultanément, jouer, inventer sur le fait.
+
+>*Il jouait les yeux clos et comme ignorant du public. Il ne semblait point tant présenter un morceau que le chercher, le découvrir, ou le composer à mesure, et non point dans une improvisation, mais dans une ardente vision intérieure, une progressive révélation dont lui-même éprouvât et ravissement et surprise.*
+
+Gide, *Si le grain*,1924, p. 465.
 
 #### Singularité
 Caractère de ce qui est singulier
 
+>*Une singularité baignée de banalité, telle est l'originalité créatrice: la singularité vibre dans la réussite de la forme, la banalité lui vient de cette lumière, la même pour tous, qui rend si simple le miracle d'une fleur et l'efface presque dans l'entourage, tout en l'allumant d'un éclat secret*
+
+(Mounier,*Traité caract.*, 1946, p. 586).
+
 #### Proxémie
-Ce qui définie les relations entre chaque ramifications
+Terme forgé par Edward T. Hall dans *La Dimension cachée* (1962), ce qui définie les relations entre chaque ramifications.
+
+>*Il est surprenant que les spécialistes de l'éthologie et de la proxémie (sciences qui traitent des problèmes du « territoire de chacun ») n'aient pas songé que le bruit, associé aux autres nuisances physiques et intellectuelles de la ville moderne, constitue un des facteurs déterminants de la propension des citadins à perpétuer une inutile agressivité*
+
+(A. Alexandre, J.-Ph. Barde, *Le Temps du bruit,*1973, p. 35).
 
 #### Rhizome
-Issu du vocabulaire botanique, tige souterraine à ramification structurante
+Tige souterraine vivace plus ou moins allongée, ramifiée ou non, pourvue de feuilles réduites à l'état de très petites écailles, émettant chaque année des racines adventives et un bourgeon apical qui donne naissance à une tige aérienne, légèrement enfouie dans le sol dans lequel elle pousse horizontalement ou affleurant la surface.
 
 #### Intertextualité
-Caractère de ce qui se passe entre les lignes et les sources
+Caractère de ce qui se passe entre les lignes et les sources et désignant cette chose, cette notion.
+
+>*Nous appellerons intertextualité cette inter-action textuelle qui se produit à l'intérieur d'un seul texte*
+
+(J. Kristeva, *Probl. de la structuration du texte ds La Nouv. critique*, 1958, nospéc., p. 61).
 
 #### Génération
 Quand la forme elle-même crée
