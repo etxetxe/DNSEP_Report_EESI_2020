@@ -42,7 +42,7 @@ La digression est un processus caractérisée par une **manifestation du temps**
 
 Le geste de dessiner est une aussi une manifestation de ce présent réactualisée, **faire trace c'est inscrire du temps.**
 
-L'échantillonnage est caractéristique de toute forme de perception et d'interprétation du monde (cf. le domaine visible, la fréquence visuelle,...) donc le langage et les codes de représentation sont toujours approximatif pour présenter entièrement le monde, **mais elle peuvent emprunter des chemins de traverse pour décrire l'essentiel.**
+[L'échantillonnage](https://bifurcation.etxetxe.fr/7-annexes/lexique/) est caractéristique de toute forme de perception et d'interprétation du monde (cf. le domaine visible, la fréquence visuelle,...) donc le langage et les codes de représentation sont toujours approximatif pour présenter entièrement le monde, **mais elle peuvent emprunter des chemins de traverse pour décrire l'essentiel.**
 
 La théorie de l'énaction, conceptualisé par Fransisco Varela et Gregory Bateson à l'Université de Palo Alto{% cite watzlawick_pragmatics_1967 %}, parle de l'expérience sous l'angle de l'interaction d'un individu avec son milieu. En considérant le dispositif artistique comme une carte, on peut dès lors parler de cette expérience du point de vue du spectateur : comment peut-on le solliciter et peut-il échapper à ce qu'il lui est proposé ?
 
