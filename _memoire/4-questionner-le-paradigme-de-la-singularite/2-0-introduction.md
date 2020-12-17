@@ -1,6 +1,6 @@
 ---
 title: "2.0 Introduction"
-category: 2. Questionner le paradigme de la singularité
+category: 2. Le paradigme de la singularité
 order: 1
 redirect_from:
   - /4-questionner-le-paradigme-de-la-singularite/
