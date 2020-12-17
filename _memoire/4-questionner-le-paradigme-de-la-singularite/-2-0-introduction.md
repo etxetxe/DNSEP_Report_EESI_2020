@@ -1,3 +1,3 @@
 Qu'est-ce que la singularité et en quoi constitue-t'il ici un paradigme ? Après avoir défini ces termes et leurs relations, il sera étudié une application de cette dynamique au travers d'un exemple afin de mettre en lumière la notion d'individuation de Gilbert Simondon et Carl Gustav Jung.
 
-Afin de montrer en quoi cela représente un enjeux, la question du mode de conception et de traitement des systèmes algorithmiques dans leur caractère digressif permettra de répondre à la problématique du conditionnement des formes de bifurcation et comment elles rentre en cantradiction avec cette notion d'individuation.
+Afin de montrer en quoi cela représente un enjeux, la question du mode de conception et de traitement des systèmes algorithmiques dans leur caractère digressif permettra de répondre à la problématique du conditionnement des formes de bifurcation et comment elles rentre en cOntradiction avec cette notion d'individuation.
