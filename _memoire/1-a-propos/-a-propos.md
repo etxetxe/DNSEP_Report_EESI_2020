@@ -2,7 +2,7 @@ Ce document, que vous lisiez la version web, la version PDF ou la version imprim
 Il s'agit d'un travail de recherche réalisé dans le cadre du Diplôme National Supérieure d'Expression Plastique à l'[EESI Angoulême-Poitiers](https://www.eesi.eu/site/index.php).
 
 ## Soutenance
-La soutenance de ce mémoire aura lieu en février 2021 à l'EESI Angoulême-Poitiers.
+La soutenance de ce mémoire aura lieu en les 10 et 11 mai à l'EESI Angoulême-Poitiers.
 
 ## Version
 Version {{ site.version }}, datée du {{ site.versiondate }}.
