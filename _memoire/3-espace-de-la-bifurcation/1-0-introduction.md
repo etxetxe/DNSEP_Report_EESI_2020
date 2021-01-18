@@ -1,6 +1,6 @@
 ---
 title: "1.0 Introduction"
-category: 1. Espace de La bifurcation
+category: 1. Espace de la bifurcation
 order: 1
 redirect_from:
   - /3-espace-de-la-bifurcation/
