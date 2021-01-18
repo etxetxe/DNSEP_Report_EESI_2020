@@ -9,10 +9,10 @@ google_analytics_key:
 show_full_navigation:   true
 
 
-resume: "Mémoire soutenu à l'EESI de Poitiers-Angoulême sur la question de la Bifurcation comme manière de singulariser des pratiques artistiques - Il sera question de faire un focus spécifiquement sur les pratiques numériques en art (développement, installation, création, ...)."
+resume: "Mémoire soutenu à l'EESI de Poitiers-Angoulême sur la question de la Bifurcation comme manière de singulariser des pratiques artistiques - Il sera question de faire un focus spécifiquement sur les pratiques numériques en art (développement, installation, création ...)."
 mots-cles: "art numérique, édition numérique, bifurcation, digression, contingence"
 
-abstract: "Mémoire soutenu à l'EESI de Poitiers-Angoulême sur la question de la Bifurcation comme manière de singulariser des pratiques artistiques - Il sera question de faire un focus spécifiquement sur les pratiques numériques en art (développement, installation, création, ...)."
+abstract: "Mémoire soutenu à l'EESI de Poitiers-Angoulême sur la question de la Bifurcation comme manière de singulariser des pratiques artistiques - Il sera question de faire un focus spécifiquement sur les pratiques numériques en art (développement, installation, création ...)."
 keywords: "digital art, digital publishing"
 locale:                 fr_FR
 
@@ -29,8 +29,8 @@ social:
   links:
     - https://github.com/etxetxe/DNSEP_Report_EESI_2020
 
-version: v0.9.5
-versiondate: mercredi 20 décembre 2021
+version: v1.0
+versiondate: mercredi 20 janvier 2021
 print:                  https://bifurcation.etxetxe.fr/impression/index.html
 
 # -----

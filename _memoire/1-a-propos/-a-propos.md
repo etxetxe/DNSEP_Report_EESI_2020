@@ -1,4 +1,4 @@
-Ce document, que vous lisiez la version web, la version PDF ou la version imprimée, est le mémoire d'Etienne Baron sous la direction de Frédéric Curien et de Désirée Laurenz.
+Ce document, que vous lisiez la version web, la version PDF ou la version imprimée, est le mémoire d'Etienne Baron sous la direction de Frédéric Curien et de Johanna Schipper.
 Il s'agit d'un travail de recherche réalisé dans le cadre du Diplôme National Supérieure d'Expression Plastique à l'[EESI Angoulême-Poitiers](https://www.eesi.eu/site/index.php).
 
 ## Soutenance
@@ -12,7 +12,7 @@ Version {{ site.version }}, datée du {{ site.versiondate }}.
 
 ## Licence
 Licence Creative Commons BY-NC-SA, Attribution-NonCommercial-ShareAlike 4.0 International.
-Ce mémoire, dans son système, est un fork du travail de thèse {% cite antoine_publi_num %} mené par [Antoine Fouchié](https://www.quaternum.net/) à l'[Enssib](http://www.enssib.fr/) sur les systèmes de publication et l'impact du numérique sur ses chaînes actuelles.
+Ce mémoire, dans son système, est un [fork](https://fr.wikipedia.org/wiki/Fork_(d%C3%A9veloppement_logiciel) du travail de thèse {% cite antoine_publi_num %} mené par [Antoine Fouchié](https://www.quaternum.net/) à l'[Enssib](http://www.enssib.fr/) sur les systèmes de publication et l'impact du numérique sur ses chaînes actuelles.
 [https://memoire.quaternum.net](https://memoire.quaternum.net).
 
 ## Fabrication
