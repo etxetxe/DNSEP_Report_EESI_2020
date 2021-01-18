@@ -22,7 +22,7 @@ date:                   2020-2021
 logo:                   /siteicon.png
 description:            "La Bifurcation en tant que processus de singularisation des pratiques artistiques : Carnet de recherche digressif et interactif en ligne. Mémoire d'Etienne Baron sur les pratiques numériques en art"
 author:
-  name:                 Etienne Baron
+  name:                 Étienne Baron
   email:                e.baron@eesi.eu
 social:
   name:                 La Bifurcation en tant que processus de singularisation des pratiques artistiques
@@ -30,7 +30,7 @@ social:
     - https://github.com/etxetxe/DNSEP_Report_EESI_2020
 
 version: v0.9.5
-versiondate: Vendredi 18 Décembre 2020
+versiondate: mercredi 20 décembre 2021
 print:                  https://bifurcation.etxetxe.fr/impression/index.html
 
 # -----
