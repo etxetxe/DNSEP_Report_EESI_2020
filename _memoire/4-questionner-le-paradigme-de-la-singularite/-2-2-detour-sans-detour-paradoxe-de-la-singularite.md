@@ -68,4 +68,4 @@ Cet exemple illustre le changement de paradigme qui s'est substitué à un régi
 
 La théorie de l'énaction, conceptualisée par Fransisco Varela et Gregory Bateson à l'Université de Palo Alto, parle de l'expérience sous l'angle de l'interaction d'un individu avec son milieu. En considérant le dispositif artistique comme une carte, on peut dès lors parler de cette expérience du point de vue du spectateur : comment peut-on le solliciter et comment peut-il échapper à ce qu'il lui est proposé ?
 
-En réalité, une bifurcation ne s'accomplie jamais sans qu'une résistance du milieu n'y applique une force coercitive, et c'est justement la façon dont ce milieu-même influence la manière de dessiner une carte afin de continuer à suivre le chemin qu'il sera question prochainement.
+En réalité, une bifurcation ne s'accomplie jamais sans qu'une résistance du milieu n'y applique une force coercitive, et c'est justement la façon dont ce milieu même influence la manière de dessiner une carte afin de continuer à suivre le chemin qu'il sera question prochainement.
