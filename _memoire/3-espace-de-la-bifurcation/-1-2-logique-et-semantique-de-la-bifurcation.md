@@ -34,7 +34,7 @@ Le [signifiant](https://bifurcation.etxetxe.fr/7-annexes/lexique/), le [signifi�
 
 Les langage et les signes peuvent être séquencés et analysé par des balises sémantiques, devenant **une information au sein d'une base de donnée structurelle où chaque _data_ extraite devient autant de port [I/O](https://bifurcation.etxetxe.fr/7-annexes/lexique/) vers d'autres base de données**, générant à leur tour de nouvelles interactions.
 
-L'état actuel de la recherche de l'apprentissage profond{% cite goodfellow_generative_2014 %} montre que la question du séquençage par la machine ne fait que s'accélérer, celle-ci devenant capable de développer des patterns pour extraire et trier ainsi que proposer une infinité de mode de représentation.
+L'état actuel de la recherche de l'apprentissage profond{% cite goodfellow_generative_2014 %} montre que la question du séquençage par la machine ne fait que s'accélérer, celle-ci devenant capable de développer des patterns pour extraire et trier ainsi que de proposer une infinité de mode de représentation.
 
 ![image](https://bifurcation.etxetxe.fr/images/bury.png)
 

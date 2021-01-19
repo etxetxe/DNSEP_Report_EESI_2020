@@ -14,23 +14,27 @@ Durant le confinement, les rendez-vous pédagogique entre les étudiants et ense
 
 Et c'est par le dialogue suivant que va se dessiner ici cette bifurcation d'idées qui cherche et qui tente de cerner une forme de singularité :
 
-_La création d'un **[site web personnel pour compiler mes travaux](https://monsite.etxetxe.fr)** m'a posé un certains nombre de problèmes : certains travaux pris individuellement pouvaient prendre sens tandis que d'autre étaient le fruit de suivi, de mission ou de collaboration à des projets collectifs._
+_La création d'un **[site web personnel pour compiler mes travaux](https://monsite.etxetxe.fr)** m'a posé un certains nombre de problèmes : comment parvenir à lier un ensemble hétérogène et le rendre lisible afin de à rendre compte d'un parcours chaotique ?._
 
-_**Certaines branches restent ouverte** et continuent à se déployer tandis que d'autres sont des **survivances d'états passés à un instant T**, il arrive également que j'accrédite la personne qui a fait un tel projet sur lequel je n'ai été qu'assistant et il me semble important que **je raccorde nos deux milieux respectifs.**_
+_J'ai donc tenté de penser mon travail sous la forme d'un rhizome, dont les branches croiseraient mes travaux passés et en cours avec mes recherches et mes collaborations._
 
-_c'est ce qu'il fait que j'en suis venu à parler de bifurcation : **en digressant continuellement**, je n'avais fait que **m'éloigner de chemins** dans lesquels je ne cherchait pas à sortir._
+_Certaines branches restaient ouvertes et continuaient à se déployer tandis que d'autres étaient des survivances d'états passés à un instant t_
 
-_Et il est d'autant plus ennuyeux de constater que **[la fugue](https://bifurcation.etxetxe.fr/7-annexes/lexique/)** ne constitue en rien une fin puisqu'en ne se raccroche qu'à **son propre mouvement**, elle ne propose pas d'issues en soi et on ne fait que finalement continuer à se perdre._
+_c'est ce qu'il fait que j'en suis venu à parler de bifurcation : **en digressant continuellement**, je n'avais fait que **m'éloigner de chemins**._
 
-_C'est au travers de la prise de conscience de ces voies sans issues que Heidegger nous parle, en évoquant l'image de ces **"chemins qui ne mènent nulle part"**{% cite heidegger_chemins_2001 %} , de la manière dont certains sentiers nous laissaient **entrevoir des sorties alors qu'ils n'étaient finalement que des impasses** dans lesquelles toute forme de poursuite nous amenait inéluctablement à rebrousser chemin_
+_Et il est d'autant plus ennuyeux de constater que **[la fugue](https://bifurcation.etxetxe.fr/7-annexes/lexique/)** ne constitue en rien une fin puisqu'en ne se raccroche qu'à **son propre mouvement**, elle ne propose pas d'issues en soi : on ne fait que continuer à se perdre ..._
 
-_On voit dès lors le problème se pose lorsque l'on bifurque continuellement puisque l'on ne finit également par ne plus bifurquer du tout. Il ne faut cependant pas reconsidérer notre mouvement mais notre position, **prendre de la hauteur**._
+_C'est ce dont Heidegger nous parle en évoquant l'image de ces **"chemins qui ne mènent nulle part"**{% cite heidegger_chemins_2001 %} : à prendre conscience de la manière dont certains sentiers nous laisseraient **entrevoir des sorties qui ne seraient que des impasses** et dans lesquelles les poursuivre nous amenerait inéluctablement à rebrousser chemin._
 
-_Il me fallait trouver une manière de mettre au clair ma **carte de mes activités diverses** en balisant d'une manière à traduire les **relations complexes** qu'elles pouvaient traduire entre elles_
+_Dès lors, on finit par ne plus bifurquer du tout. Il ne faut cependant pas reconsidérer notre mouvement mais notre position, il s'agit de **prendre de la hauteur**._
 
-_Dès lors, le choix de créer des modèles sous la forme de **cartes conceptuelles** s'est posé comme une évidence : mais si dessiner une carte permet de **survoler un territoire** dont on peut désormais définir les contours, il faut maintenant en **concevoir la topologie**, les éléments n'étant pas à la même échelle ni au même niveau de complexité._
+_Pour revenir sur l'histoire de mon site web, il fallait que je trouve une manière de tracer une **carte de l'ensemble de mes activités diverses** pour les survoler d'un seul coup d'œil._
 
-_Les Géants du Web, que l'on regroupe généralement sous l'acronyme de GAFAM+(en incluant le chinois Tencent), ont basé leur modèle entreprenarial sur **la maîtrise de l'ensemble de la chaîne des données au sens brute et large du terme**, peu importe ce qu'elles signifient. Cette précision est importante puisque la valeur intrinsèque d'une data ne rentre pas immédiatemment en ligne de mire, c'est les relations qu'elle va tisser avec les autres datas qui vont jouer la différence._
+_Pour en concevoir la topologie, il a également fallu que je définisse les particularités de chaque projet ainsi que cerner leurs relations proxémiques, aucun n'étant à la même échelle ni au même niveau de complexité._
+
+_Traverser à rebours ce chemin, c'est poser les bases d'une démarche de création et de conception qui m'est propre. Arpenter la chaîne d'un système en suivant son fil rouge permet de se confronter à la contingence._
+
+_Les Géants du Web, que l'on regroupe généralement sous l'acronyme de GAFAM ou BATX, ont basé leur modèle entreprenarial sur **la maîtrise de l'ensemble de la chaîne des données au sens brute et large du terme**, peu importe ce qu'elles signifient. Cette précision est importante puisque la valeur intrinsèque d'une data ne rentre pas immédiatemment en ligne de mire, c'est les relations qu'elle va tisser avec les autres datas qui vont jouer la différence._
 
 _En proposant des services, infrastructures, outils et des interfaces pour des usages aussi diverses que la fouille de données non-structurées, la visualisation de flux, le stockage dans des serveurs physique ou le monopole des canaux de communication, se dessine une carte où nos interactions sont **dépendants de systèmes experts** dont l'immanence s'impose d'une manière toujours plus violente : **cette situation sera ici défini comme un [complexe](https://bifurcation.etxetxe.fr/7-annexes/lexique/).**_
 
