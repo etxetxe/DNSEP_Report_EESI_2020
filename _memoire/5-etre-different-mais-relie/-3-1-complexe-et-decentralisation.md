@@ -12,7 +12,7 @@ L'interface utilisateur est le dispositif de communication entre l'utilisateur e
 
 Les dispositifs de capture et de sollicitation de l'attention se retrouvent entre autre dans les champs du marketing et de la surveillance. Ceux-ci sont amenés à opérer de deux manières : par la [Normalisation](https://bifurcation.etxetxe.fr/7-annexes/lexique/) et par la [Synchronisation](https://bifurcation.etxetxe.fr/7-annexes/lexique/).
 
-Normaliser revient à imposer un ordre associé à une logique disciplinaire sous la forme d'un contrôle et mettre en place de formes de répressions en cas de dispersion, tout en veillant à permettre une souplesse suffisante en son sein nécessaire à sa conservation : elle ne cherche pas à empêcher la bifuraction mais à en restreindre le mouvement.
+Normaliser revient à imposer un ordre associé à une logique disciplinaire sous la forme d'un contrôle et à mettre en place de formes de répressions en cas de dispersion, tout en veillant à permettre une souplesse suffisante en son sein nécessaire à sa conservation : elle ne cherche pas à empêcher la bifuraction mais à en restreindre le mouvement.
 
 Michel Foucault, au travers du panoptique{% cite foucault_surveiller_2008 %}, décrit le régime d'une normalisation sous la forme d'une auto-régulation qui viendrait conserver l'homéostasie en place.
 
@@ -22,7 +22,9 @@ Mais lorsqu'à un système décentralisé, composé d'un maillage souple et part
 
 La crise sanitaire pourrait imposer aux sociétés que les citoyens fournissent leurs données personnelles : l'exemple de la Chine, qui gère les citoyens comme des unités productive, montre bien la question du **contrôle des corps et des esprits par des moyens étatiques voir cognitif** est au cœur de l'ordre disciplinaire.
 
-En dissidence, **l'esprit intime pouvait auparavant servir de bulle de confinement**, dispositif de capture de l'attention, colonisation des cerveaux, les espaces mentaux sont des territoires pouvant être envahi par des marques comme par notre entourage par le biais de **systèmes de capture de l'attention**, excluant toute possibilité de sortir du groupe, de s'émanciper (l'exclusion équivalait à la mort).
+En effet, **si l'esprit intime pouvait auparavant servir de bulle de confinement**, les espaces mentaux sont désormais considérés comme des territoires pouvant être envahis par des **systèmes de capture de l'attention** qui par le biais d'agents numérique &ndash; smartphones, objets connectés, ... &ndash; introduisent des nouvelles formes de certification et de promotion.
+
+En dissidence, **si l'esprit intime pouvait auparavant servir de bulle de confinement**, les dispositif de capture de l'attention, colonisation des cerveaux, les espaces mentaux sont des territoires pouvant être envahi par des marques comme par notre entourage par le biais de **systèmes de capture de l'attention**, excluant toute possibilité de sortir du groupe, de s'émanciper (l'exclusion équivalait à la mort).
 
 Sortir du groupe pouvait aussi être considéré comme un rite d'initiation dans certaines sociétés tribales, les cloches des églises ont joué le rôle de synchronisateur de la vie civile et religieuse des villes pendant des siècles, **[homéostasie](https://bifurcation.etxetxe.fr/7-annexes/lexique/) des corps sociaux.**
 
