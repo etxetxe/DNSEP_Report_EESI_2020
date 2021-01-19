@@ -1,5 +1,5 @@
 Ce document, que vous lisiez la version web, la version PDF ou la version imprimée, est le mémoire d'Etienne Baron sous la direction de Frédéric Curien et de Johanna Schipper.
-Il s'agit d'un travail de recherche réalisé dans le cadre du Diplôme National Supérieure d'Expression Plastique à l'[ÉESI Angoulême-Poitiers](https://www.eesi.eu/site/index.php).
+Il s'agit d'un travail de recherche réalisé dans le cadre du Diplôme National Supérieur d'Expression Plastique à l'[ÉESI Angoulême-Poitiers](https://www.eesi.eu/site/index.php).
 
 ## Soutenance
 La soutenance de ce mémoire aura lieu en les 10 et 11 mai à l'ÉESI Angoulême-Poitiers.

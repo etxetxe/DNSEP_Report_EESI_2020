@@ -2,6 +2,6 @@ Un travail de recherche, qui comprend également de manière plus large les prat
 
 Tenter de saisir, au travers du témoignage de ses propres bifurcations, la nature même de cette notion permet d'engager une démarche de pensée portant, non pas sur la description de son travail, mais sur les choix opérés et les associations réalisées au sein d'un parcours singulier.
 
-En ce sens, les outils numériques que je me suis appropriés et ma manière de les utiliser révèlent un trait spécifique de ma trajectoire : parvenir à ce que la conscience aigue de la technique fasse corps avec une forme qui lui est propre afin que sa matérialité communique du sens.
+En ce sens, les outils numériques que je me suis appropriés et ma manière de les utiliser révèlent un trait spécifique de ma trajectoire : parvenir à ce que la conscience aiguë de la technique fasse corps avec une forme qui lui est propre afin que sa matérialité communique du sens.
 
 En quoi la bifurcation traduit-elle la singularité d'une pratique artistique autour du numérique ? Dans un premier temps, il sera question de la nature même de cette [espace où l'on bifurque](https://bifurcation.etxetxe.fr/3-espace-de-la-bifurcation/1-0-introduction/) afin de pouvoir définir ce qui en fait une [forme de singularité](https://bifurcation.etxetxe.fr/4-questionner-le-paradigme-de-la-singularite/2-0-introduction/) avant de finir sur [l'enjeu même de différenciation](https://bifurcation.etxetxe.fr/5-etre-different-mais-relie/3-0-introduction/).
