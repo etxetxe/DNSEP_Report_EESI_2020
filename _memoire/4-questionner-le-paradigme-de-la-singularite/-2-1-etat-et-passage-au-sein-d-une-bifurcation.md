@@ -1,43 +1,47 @@
-Pour interroger au sein de la bifurcation la question du paradigme de la singularité : il convient de se demander à quoi est-il fait référence dans cet enchainement ? Existe-il une tendance de pensée qui permette de se singulariser ? De quelle manière le détour en constitue-t-il le marqueur qui souligne la bifurcation ?
+Pour interroger au sein de la bifurcation la question du paradigme de la singularité, il convient de se demander s'il existe une manière de faire et penser les choses qui puisse permettre de se singulariser et pourrait-il en le marqueur qui permettrait de souligner la bifurcation ?
 
-Le Paradigme est un terme d'épisthémologie qui défini des modèles de représentation du monde décrit par Samuel Thomas Kuhn dans "La Structure des Révolutions Scientifiques"{% cite kuhn_structure_2018 %} publié en 1962 où il décrit celui-ci comme :
+Le paradigme est un terme d'épisthémologie qui définie des modèles de représentation du monde décrit par Samuel Thomas Kuhn dans « La Structure des révolutions scientifiques{% cite kuhn_structure_2018 %} » publié en 1962 où il décrit celui-ci comme :
 
->"(...) ensembles des croyances et techniques communes à un groupe donnée (...) ensemble de solutions données d'énigmes concrètes qui peuvent remplacer les regles explicites en tant que base de solution (...)"
+>« (...) ensemble des croyances et techniques communes à un groupe donnée (...) ensemble de solutions données d'énigmes concrètes qui peuvent remplacer les regles explicites en tant que base de solution (...) »
 
 Samuel Kuhn considère l'histoire de la recherche scientifique comme la succession d'un ensemble de modèles réactualisant les éléments des objets d'études et devenant de fait un standard.
 
-La connaissance est un processus dont le dynamisme s'inscrit dans la nature double l'humain, **à la fois corps social et également capable [d'individuation](https://bifurcation.etxetxe.fr/7-annexes/lexique/)** à la manière de ce que définissaient [Gilbert Simondon et Carl Gustav Jung](https://www.cairn.info/revue-societes-2011-1-page-105.htm#) :
+La connaissance est un processus dont le dynamisme s'inscrit dans la nature double de l'Homme, à la fois corps social et également, à la manière de ce que définissaient [Gilbert Simondon et Carl Gustav Jung](https://www.cairn.info/revue-societes-2011-1-page-105.htm#), capable [d'individuation](https://bifurcation.etxetxe.fr/7-annexes/lexique/) :
 
->Ce qui différencie un autre de la même espèce et le fait exister individuellement.
+>« Ce qui différencie l'autre dans la même espèce et le fait exister individuellement. »
 
-La création d'un **[site web personnel pour compiler mes travaux](https://monsite.etxetxe.fr)** m'a posé un certains nombre de problèmes : certains travaux pris individuellement pouvaient prendre sens tandis que d'autre étaient le fruit de suivi, de mission ou de collaboration à des projets collectifs.
+Durant le confinement, les rendez-vous pédagogique entre les étudiants et enseignants se sont poursuivi à distance, les échanges ont été réalisé grâce à des logiciels et plateformes de visioconférence. Penser la subjectivité de la parole permet de souligner la spécificité des interactions qui se donnaient le moyen de garder lien à n'importe quel prix, malgrès la distance.
 
-**Certaines branches restent ouverte** et continuent à se déployer tandis que d'autres sont des **survivances d'états passés à un instant T**, il arrive également que j'accrédite la personne qui a fait un tel projet sur lequel je n'ai été qu'assistant et il me semble important que **je raccorde nos deux milieux respectifs.**
+Et c'est par le dialogue suivant que va se dessiner ici cette bifurcation d'idées qui cherche et qui tente de cerner une forme de singularité :
 
-c'est ce qu'il fait que j'en suis venu à parler de bifurcation : **en digressant continuellement**, je n'avais fait que **m'éloigner de chemins** dans lesquels je ne cherchait pas à sortir.
+_La création d'un **[site web personnel pour compiler mes travaux](https://monsite.etxetxe.fr)** m'a posé un certains nombre de problèmes : certains travaux pris individuellement pouvaient prendre sens tandis que d'autre étaient le fruit de suivi, de mission ou de collaboration à des projets collectifs._
 
-Et il est d'autant plus ennuyeux de constater que **[la fugue](https://bifurcation.etxetxe.fr/7-annexes/lexique/)** ne constitue en rien une fin puisqu'en ne se raccroche qu'à **son propre mouvement**, elle ne propose pas d'issues en soi et on ne fait que finalement continuer à se perdre.
+_**Certaines branches restent ouverte** et continuent à se déployer tandis que d'autres sont des **survivances d'états passés à un instant T**, il arrive également que j'accrédite la personne qui a fait un tel projet sur lequel je n'ai été qu'assistant et il me semble important que **je raccorde nos deux milieux respectifs.**_
 
-C'est au travers de la prise de conscience de ces voies sans issues que Heidegger nous parle, en évoquant l'image de ces **"chemins qui ne mènent nulle part"**{% cite heidegger_chemins_2001 %} , de la manière dont certains sentiers nous laissaient **entrevoir des sorties alors qu'ils n'étaient finalement que des impasses** dans lesquelles toute forme de poursuite nous amenait inéluctablement à rebrousser chemin
+_c'est ce qu'il fait que j'en suis venu à parler de bifurcation : **en digressant continuellement**, je n'avais fait que **m'éloigner de chemins** dans lesquels je ne cherchait pas à sortir._
 
-On voit dès lors le problème se pose lorsque l'on bifurque continuellement puisque l'on ne finit également par ne plus bifurquer du tout. Il ne faut cependant pas reconsidérer notre mouvement mais notre position, **prendre de la hauteur**.
+_Et il est d'autant plus ennuyeux de constater que **[la fugue](https://bifurcation.etxetxe.fr/7-annexes/lexique/)** ne constitue en rien une fin puisqu'en ne se raccroche qu'à **son propre mouvement**, elle ne propose pas d'issues en soi et on ne fait que finalement continuer à se perdre._
 
-Il me fallait trouver une manière de mettre au clair ma **carte de mes activités diverses** en balisant d'une manière à traduire les **relations complexes** qu'elles pouvaient traduire entre elles
+_C'est au travers de la prise de conscience de ces voies sans issues que Heidegger nous parle, en évoquant l'image de ces **"chemins qui ne mènent nulle part"**{% cite heidegger_chemins_2001 %} , de la manière dont certains sentiers nous laissaient **entrevoir des sorties alors qu'ils n'étaient finalement que des impasses** dans lesquelles toute forme de poursuite nous amenait inéluctablement à rebrousser chemin_
 
-Dès lors, le choix de créer des modèles sous la forme de **cartes conceptuelles** s'est posé comme une évidence : mais si dessiner une carte permet de **survoler un territoire** dont on peut désormais définir les contours, il faut maintenant en **concevoir la topologie**, les éléments n'étant pas à la même échelle ni au même niveau de complexité.
+_On voit dès lors le problème se pose lorsque l'on bifurque continuellement puisque l'on ne finit également par ne plus bifurquer du tout. Il ne faut cependant pas reconsidérer notre mouvement mais notre position, **prendre de la hauteur**._
 
-Les Géants du Web, que l'on regroupe généralement sous l'acronyme de GAFAM+(en incluant le chinois Tencent), ont basé leur modèle entreprenarial sur **la maîtrise de l'ensemble de la chaîne des données au sens brute et large du terme**, peu importe ce qu'elles signifient. Cette précision est importante puisque la valeur intrinsèque d'une data ne rentre pas immédiatemment en ligne de mire, c'est les relations qu'elle va tisser avec les autres datas qui vont jouer la différence.
+_Il me fallait trouver une manière de mettre au clair ma **carte de mes activités diverses** en balisant d'une manière à traduire les **relations complexes** qu'elles pouvaient traduire entre elles_
 
-En proposant des services, infrastructures, outils et des interfaces pour des usages aussi diverses que la fouille de données non-structurées, la visualisation de flux, le stockage dans des serveurs physique ou le monopole des canaux de communication, se dessine une carte où nos interactions sont **dépendants de systèmes experts** dont l'immanence s'impose d'une manière toujours plus violente : **cette situation sera ici défini comme un [complexe](https://bifurcation.etxetxe.fr/7-annexes/lexique/).**
+_Dès lors, le choix de créer des modèles sous la forme de **cartes conceptuelles** s'est posé comme une évidence : mais si dessiner une carte permet de **survoler un territoire** dont on peut désormais définir les contours, il faut maintenant en **concevoir la topologie**, les éléments n'étant pas à la même échelle ni au même niveau de complexité._
 
-C'est justement pour décortiquer ces complexes qu'il me paraît judicieux sue les outils critique en art soient disponible et accessible pour casser ces relations en circuit fermé : on appelera ici **"[patterns](https://bifurcation.etxetxe.fr/7-annexes/lexique/)"** les stratégies utilisés pour rester dans ce circuit en vase clos et qu'il s'agit de reconnaître et d'en assimiler la stratégie et cela passe **la compréhension et l'apprentissage des technologies qui sont à l'oeuvre.**
+_Les Géants du Web, que l'on regroupe généralement sous l'acronyme de GAFAM+(en incluant le chinois Tencent), ont basé leur modèle entreprenarial sur **la maîtrise de l'ensemble de la chaîne des données au sens brute et large du terme**, peu importe ce qu'elles signifient. Cette précision est importante puisque la valeur intrinsèque d'une data ne rentre pas immédiatemment en ligne de mire, c'est les relations qu'elle va tisser avec les autres datas qui vont jouer la différence._
 
-La rétroaction qui survient répond dès lors d'un processus d'adaptation à un nouvel environnement, **ce mécanisme de retour, ou "[feedback](https://bifurcation.etxetxe.fr/7-annexes/lexique/)"** selon le vocabulaire de Norbert Wiener, est unes des caractéristiques essentielles que l'on retrouve dans la théorie cybernétique.
+_En proposant des services, infrastructures, outils et des interfaces pour des usages aussi diverses que la fouille de données non-structurées, la visualisation de flux, le stockage dans des serveurs physique ou le monopole des canaux de communication, se dessine une carte où nos interactions sont **dépendants de systèmes experts** dont l'immanence s'impose d'une manière toujours plus violente : **cette situation sera ici défini comme un [complexe](https://bifurcation.etxetxe.fr/7-annexes/lexique/).**_
+
+_C'est justement pour décortiquer ces complexes qu'il me paraît judicieux sue les outils critique en art soient disponible et accessible pour casser ces relations en circuit fermé : on appelera ici **"[patterns](https://bifurcation.etxetxe.fr/7-annexes/lexique/)"** les stratégies utilisés pour rester dans ce circuit en vase clos et qu'il s'agit de reconnaître et d'en assimiler la stratégie et cela passe **la compréhension et l'apprentissage des technologies qui sont à l'oeuvre.**_
+
+_La rétroaction qui survient répond dès lors d'un processus d'adaptation à un nouvel environnement, **ce mécanisme de retour, ou "[feedback](https://bifurcation.etxetxe.fr/7-annexes/lexique/)"** selon le vocabulaire de Norbert Wiener, est unes des caractéristiques essentielles que l'on retrouve dans la théorie cybernétique._
 
 >la société ne peut être comprise que par une étude des messages et des dispositifs de communication qu’elle contient ; et que, dans le développement futur de ces messages et de ces dispositifs, les messages entre l’homme et les machines, entre les machines et l’homme, et entre la machine et la machine sont ap-pelés à jouer un rôle sans cesse croissant.{% cite wiener_cybernetique_2014 %}
 
-Selon Jean-Louis Boissier, l'algorithme pose des conditions dans la manipulation de variable afin d'aboutir à des résultats, probants ou non, attendus ou inattendus. L'ensemble de ces pistes est en soi une forme qui est celle de **[la prospection](https://bifurcation.etxetxe.fr/7-annexes/lexique/)**, mais ce qui est au coeur de la logique algorithmique est avant tout **la gestion de l'aléatoire.**
+_Selon Jean-Louis Boissier, l'algorithme pose des conditions dans la manipulation de variable afin d'aboutir à des résultats, probants ou non, attendus ou inattendus. L'ensemble de ces pistes est en soi une forme qui est celle de **[la prospection](https://bifurcation.etxetxe.fr/7-annexes/lexique/)**, mais ce qui est au coeur de la logique algorithmique est avant tout **la gestion de l'aléatoire.**_
 
-Ce qui va le différencier d'un modèle probabiliste, c'est le fait de* **réduire petit-à-petit le nombre de possibilités afin d'aboutir à un choix.** *On pourrait concevoir une infinité de chemins chaotiques que l'on baliserait en restreignant le champs d'action.
+_Ce qui va le différencier d'un modèle probabiliste, c'est le fait de* **réduire petit-à-petit le nombre de possibilités afin d'aboutir à un choix.** *On pourrait concevoir une infinité de chemins chaotiques que l'on baliserait en restreignant le champs d'action._
 
-[Erreur 404](https://bifurcation.etxetxe.fr/404.html)
+_[Erreur 404](https://bifurcation.etxetxe.fr/404.html)_
