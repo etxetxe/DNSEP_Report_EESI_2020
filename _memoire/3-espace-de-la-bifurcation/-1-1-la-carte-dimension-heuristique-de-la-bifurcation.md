@@ -1,6 +1,6 @@
 En étudiant la carte dans sa dimension heuristique, on va supposer que l'approche visuelle en constitue la première base d'appréciation : quelles formes ? Quelles figures de représentation sont mises en oeuvre pour introduire le regard dans le dispositif de la carte ?
 
->"Ce livre est l'histoire d'un voyage et d'un regard qui prend la carte géographique du monde comme motif et comme modèle artistique d'une esthétique ouverte sur l'infini. Ainsi en parcourt-il les différentes figures pour dessiner de nouvelles formes de vision. L'outil cartographique de l'art, œil-monde, puise sa naissance au XVIeme siècle de Léonard de Vinci et de Brueggel jusqu'à sa traversé plus contemporaine de Duchamp à Jasper Johns ou Robert Smithson. Tour à tour descriptif, allégorique, enthropique, ce regard icarien et terrestre nourrit toute les histoires du trajet, déplacement des dérives en art à travers l'hétérogénéité de ses procédures et de ses médias. La reconstitution de l'oeil cartographique ouvre sur un autre monde, celui du virtuel : redéfinir l'esthétique de l'immanence dans un monde habité de toute les violences, tel pourrait être les enjeux de l'œil éphémère propre à notre présent"{% cite buci-glucksmann_loeil_1996 %}
+>« Ce livre est l'histoire d'un voyage et d'un regard qui prend la carte géographique du monde comme motif et comme modèle artistique d'une esthétique ouverte sur l'infini. Ainsi en parcourt-il les différentes figures pour dessiner de nouvelles formes de vision. L'outil cartographique de l'art, œil-monde, puise sa naissance au XVIeme siècle de Léonard de Vinci et de Brueggel jusqu'à sa traversé plus contemporaine de Duchamp à Jasper Johns ou Robert Smithson. Tour à tour descriptif, allégorique, entropique, ce regard icarien et terrestre nourrit toute les histoires du trajet, déplacement des dérives en art à travers l'hétérogénéité de ses procédures et de ses médias. La reconstitution de l'oeil cartographique ouvre sur un autre monde, celui du virtuel : redéfinir l'esthétique de l'immanence dans un monde habité de toutes les violences, tel pourrait être les enjeux de l'œil éphémère propre à notre présent{% cite buci-glucksmann_loeil_1996 %}. »
 
 On peut également envisager cette dimension heuristique au travers d'une dialectique : celle du regard global, étendu à l'extrême et qui procède d'une mise à plat de l'environnement, et celle du regard local, lorsque l'on chemine sans connaître notre environnement dans sa totalité. C'est cette dernière qui procède de la représentation d'un réel en acte.
 
@@ -12,7 +12,7 @@ Toute tentative de circonvenir le monde dans son intégralité est vouée à l'�
 
 **Labyrinthe de la Cathédrale de Chartres**, _XIIIème siècle_, 12,88 m de diamètre
 
-En revanche, les récits d'apprentissage et de formations spirituelles partent d'une fuite, et cette distinction avec la fugue est essentielle puisque'au lieu de chercher à échapper au monde, il s'agit de retrouver les chemins pour se perdre afin de revenir vers une expérience consentie du réel.
+En revanche, les récits d'apprentissage et de formations spirituelles partent d'une fuite, et cette distinction avec la fugue est essentielle puisque'au lieu de chercher à échapper au monde, il s'agit de se perdre pour mieux retrouver les chemins afin de revenir vers une expérience consentie du réel.
 
 ![image](https://bifurcation.etxetxe.fr/images/jetty.jpg)
 
@@ -30,9 +30,9 @@ Si pour Deleuze{% cite deleuze_mille_1980 %}, le télos détermine un cap comme 
 
 ![image](https://bifurcation.etxetxe.fr/images/perspecteurs.jpg)
 
-Chez J.L. Boissier, la carte interactive dessine un chemin que l'on peut marquer et annoter. Dans **la relation comme forme**{% cite boissier_relation_2008 %}, il présente les [perspecteurs](http://www.ciren.org/ciren/productions/perspecteurs/index.html)qui sont des outils de création liés au système de représentation de la perspective.
+Chez J.L. Boissier, la carte interactive dessine un chemin que l'on peut marquer et annoter. Dans **la relation comme forme**{% cite boissier_relation_2008 %}, il présente les [perspecteurs](http://www.ciren.org/ciren/productions/perspecteurs/index.html) qui sont des outils de création liés au système de représentation de la perspective.
 
->Les papyrus comportent des signes qui relèvent de leur apparence mais qui renvoient plus fondamentalement à leur architecture, à leur croissance, à leurs comportements, à leurs échanges. Ces signes d’articulations relationnelles sont perçues spécifiquement par le cerveau où ils instaurent des systèmes d’intellection distincts des langues, tout en contribuant aux écritures.
+>Les papyrus comportent des signes qui relèvent de leur apparence mais qui renvoient plus fondamentalement à leur architecture, à leur croissance, à leurs comportements, à leurs échanges. Ces signes d’articulation relationnelle sont perçus spécifiquement par le cerveau où ils instaurent des systèmes d’intellection distincts des langues, tout en contribuant à leurs écritures.
 
 Le spectateur partage la possibilité de bifurquer et de choisir ou non le chemin. Celui-ci se construit et se reconstruit au travers de boucles en fonction des interactions.
 
@@ -54,14 +54,14 @@ Cette digression peut aussi se révéler au travers d'un dispositif permettant d
 
 >Un triangle, solide absolu, n'a pas de manifestation du temps et la forme est entière en soi ; en revanche, le nautile ou le fossile est la manifestation des couches successives qui composent la forme totale et qui ne cesse d'émerger en tant que présence sans cesse réactualisée
 
-Le geste de dessiner est aussi une manifestation de ce présent réactualisé, **faire trace c'est inscrire du temps.**
+Le geste de dessiner devient un moyen de rendre compte de ce présent sans cesse réactualisé, **faire trace c'est inscrire du temps.**
 
-[L'échantillonnage](https://bifurcation.etxetxe.fr/7-annexes/lexique/) est caractéristique de toute forme de perception et d'interprétation du monde (cf. le domaine visible, la fréquence visuelle,...) et si l'intelligence humaine ne permet que d'en saisir un aspect, c'est sa capacité à construire une réalité à partir de données parcellaire qui va jouer sur son expérience : la sensibilité transcende la pensée analytique dans dans son incomplétude même.
+[L'échantillonnage](https://bifurcation.etxetxe.fr/7-annexes/lexique/) est caractéristique de toute forme de perception et d'interprétation du monde (cf. le domaine visible, la fréquence visuelle,...) et si l'intelligence humaine ne permet que d'en saisir un aspect, c'est sa capacité à construire une réalité à partir de données parcellaires qui va jouer sur son expérience : la sensibilité transcende la pensée analytique dans son incomplétude même.
 
 La théorie de l'énaction, conceptualisé par Fransisco Varela et Gregory Bateson à l'Université de Palo Alto{% cite watzlawick_pragmatics_1967 %}, parle de l'expérience sous l'angle de l'interaction d'un individu avec son milieu. En considérant le dispositif artistique comme une carte, on peut dès lors parler de cette expérience du point de vue du spectateur : comment le solliciter et comment celui-ci peut échapper à ce qu'il lui est proposé ?
 
-Platon racontait que Socrate critiquait le dispositif de l'écriture qui ne répondait pas, selon lui, à la question de la perte de l'expérience pure : seul l'apprentissage oral par cœur permettrait la condition de la stricte conservation du savoir car c'est au travers d'un canal de communication intermédiaire que s'opère une perte d'information.
+Platon racontait que Socrate critiquait le dispositif de l'écriture qui ne répondait pas, selon lui, à la question de la perte de l'expérience pure : seul l'apprentissage oral par cœur permettrait la condition de la stricte conservation du savoir car c'est au travers d'un canal de communication intermédiaire que s'opérerait une perte d'information.
 
-C'est au travers du dispositif que Socrate pose le problème du langage et de ses manifestations ce que Marshall McLuhan résumera au travers d'une phrase ayant dépassé la notoriété de son auteur-même :
+C'est en questionnant le dispositif que Socrate pose le problème du langage et de ses manifestations, ce que Marshall McLuhan résumera au travers d'une phrase ayant dépassée la notoriété de son auteur-même :
 
 >The medium is the message{% cite mcluhan_pour_2015  %}
