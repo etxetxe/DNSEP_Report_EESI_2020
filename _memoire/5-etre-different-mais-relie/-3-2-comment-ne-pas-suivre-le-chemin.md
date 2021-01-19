@@ -2,21 +2,21 @@
 
 Gébé, **L'An 01**, édition du Square, _1972_
 
-En analysant la bifurcation en art comme moyen de lutter contre des outils de propagande, propose-t-elle en contrepoint des outils de libération ?
+En analysant la bifurcation en art comme moyen de lutter contre des outils de propagande, comment peut-elle proposer en contrepoint des outils de libération ?
 
-Ne pas suivre le chemin constitue un énoncé qui introduit sa propre contradiction car ne pas cheminer peut dans ce cas être églament valable : pour bifurquer, il n'est pas possible de se dire de ne pas suivre le chemin.
+Ne pas suivre le chemin constitue un énoncé qui introduit sa propre contradiction : pour bifurquer, il n'est pas possible de se dire de ne pas suivre le chemin, la solution à syllogisme serait de ne tout simplement pas cheminer.
 
-Comment échapper au dilemme selon lequel ne pas suivre l'Ordre serait se perdre tandis que suivre le chemin amènerait droit au mur, la bifurcation n'est plus introduite comme une possibilité mais une nécessité, voir une condition de survie.
+Comment échapper au dilemme selon lequel ne pas suivre l'ordre reviendrait à se perdre et que suivre le chemin mènerait droit vers le mur ? La bifurcation n'est plus introduite ici comme une possibilité mais comme une nécessité, voire une condition de survie.
 
 ![image](https://bifurcation.etxetxe.fr/images/pill.jpg)
 
 [Soeurs Wachowski, **Matrix**, _1999_, 130 minutes](https://www.youtube.com/watch?v=TgfLNObfwLg)
 
-Cette contradiction est porté dans la métaphore visuelle de la "pilule rouge" qui opposerait selon ses termes le choix de se singulariser ou bien de continuer à rester dans le déni : mais penser la déconstruction d'un complexe et de sa relation au pouvoir n'est pas forcément de la dissidence.
+Cette contradiction est portée dans la métaphore visuelle de la "pilule rouge" qui opposerait, selon ses termes de ce dilemme, le choix de se singulariser ou de rester dans le déni : cette opposition un brin caricatural ne doit cependant occulter le fait que la déconstruction d'un complexe et de sa relation au pouvoir ne signifie pas forcément de rejoindre un mouvement de dissidence.
 
-Ce qui pose problème, ce n'est pas tant d' affirmer la négation "il ne faut pas suivre le chemin" que de confirmer l'affirmation "voilà comment ne pas suivre le chemin" : l'énoncé doit souligner son caractère de potentialité.
+Ce qui pose problème, ce n'est pas tant d' affirmer la négation "il ne faut pas suivre le chemin" que de confirmer l'affirmation "voilà comment ne pas suivre le chemin" : l'énoncé doit souligner son caractère de [potentialité](https://bifurcation.etxetxe.fr/7-annexes/lexique/).
 
-Partir de ce biais permet d'amener la réflexion sur la crise systémique actuelle, celle du capitalisme et du basculement vers une transition écologique, non pas sur une téléologie, une vision de la fin des Temps, mais sur la question de la capacité d'autres régimes de déconstruction des imaginaires systémiques.
+Partir de ce biais permet d'amener une réflexion sur la crise systémique actuelle, celle du capitalisme et du basculement sur une transition écologique, porté non pas par une pensée de la fin des Temps, mais sur la question de la capacité à faire émerger d'autres régimes pour penser les imaginaires systémiques.
 
 ![image](https://bifurcation.etxetxe.fr/images/abattoirs.jpg)
 
