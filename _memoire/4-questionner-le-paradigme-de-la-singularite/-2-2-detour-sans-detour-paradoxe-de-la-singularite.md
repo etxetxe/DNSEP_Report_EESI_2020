@@ -24,31 +24,37 @@ _Le fait de filmer en extérieur, de sortir du studio grâce à la miniaturisati
 
 _Lorsqu'on explore l'histoire des médias depuis leurs création, on voit qu'ils ouvrent tous de multiples possibilités ; **c'est la standardisation des procédés et usages qui réduit le champs des possibles** en limitant le nombre de dispositif._
 
-_Il y a quelque chose de la digression qui relève d'un langage, d'une écriture et non plus d'une figure rhétorique au sein d'un discours - tu te souviens de la parenthèse ? - et je trouve que c'est intéressant d'en parler ! Qu'est-ce que supposerait **l'expérience de la digression dans une œuvre interactive** ? Est-ce qu'elle en renouvelle sa représentation ?_
-
-_Il faut maintenant poser un certain nombre d'hypothèse, **se faire un schéma expérimental** : s'agit-il de faire perdre le spectateur, de capter son attention voir carrément de l'empêcher de digresser : tu vois bien dans la scène de torture d'Alex dans Orange Mécanique avec quelle violence on peut aller dans l'impossibilité de perdre son attention !_
-
-_Ce que l'on raconte par le médium découle de la démarche de travail, **ce que l'on choisi de montrer**, c'est pour ça qu'il faudrait développer un certain nombre de pièce où tu mettrais en exergue ces différents concept._
-
-_Je penses notamment dans certains films de Godard à ces rencontres au coin de la rue qui commencent et finissent sans crier gare, c'est parce que **l'imprévisibilité est une composante du monde réel, c'est ce qu'on appelle [la contingence](https://bifurcation.etxetxe.fr/7-annexes/lexique/)**. Sinon on serait dans l'eschatologie où on supposerait de la destiné du monde par les signes et les coïncidences._
-
-_Les mythes font partis de l'histoire des Hommes et, par le biais du récit, les formatent en quelque sorte, d'une manière principalement linéaire. mais la téléologie, **l'idée de la fin des temps n'est pas séparé de celle du hasard** : c'est que ces mythes, qui racontent des récits de formations, en donnant une finalité à l'incertitude de la destiné humaine, permet à l'humanité de se saisir et d'investir le champs de l'information, infiniment extensible et continuellement définissable_
-
-_Et c'est aussi pour ça qu'Internet et l'hypertexte font peur car, de par sa nature délinéarisé, on sous-entend **la digression en tant que médium**, c'est de la perte d'attention et de l'affaiblissement de la mémoire en tant que structure nous préservant de toute perte de sens que les psychologue nous mettent en garde_
-
-_D'une certaine manière, le Nouveau Roman{% cite robbe-grillet_les_2010 %} s'est attelé à casser la structure du récit romanesque et de ce fait la certitude de son inéluctable linéarité à la même époque où l'on cherchait à remplacer l'écriture musicale par de nouveaux systèmes, atonales ou dodécaphoniques, car ils étaient en quelque sorte dans une **impasse formelle** qu'il était nécessaire de briser ou dépasser._
-
-_Mais c'est justement là où la digression est salutaire, quand elle redonne la possibilité d'explorer, lorsque elle devient un moyen d'étendre les limites de l'art, donc de faire de l'art._
-
-_Il y a des artistes qui explorent tout le potentiel d'un médium quand d'autre démontent des systèmes mais, que l'on casse, que l'on développe des formes hyperspécialisées ou plus brutes, l'Art fait société et communique sur ses moyens et ses acteurs, **elle s'actualise par rapport à ces transformations** car ce sont ces mêmes forces qui permettent de développer de nouveaux média, de nouvelles formes et de nouveaux langages._
-
-_On en revient à ce que Michel Foucault définissait dans sa notion d'[Epistémè](https://www.youtube.com/watch?v=ZY7bzIZ7-Ys), que les **conditions qui définissent nos pensées et nos modes d'expressions changent en permanence** et que chaque époque doit en définir les termes._
-
-_Mais qu'elle est la finalité de cette digression ? Est-ce qu'elle renforce le But ? En ce sens, est-ce que le labyrinthe est une forme ultime digression ? Est-ce volontaire - N'oublies pas l'histoire de sa représentation dans les mythes antiques et son usage dans les traditions symbolique chrétienne - et comment ne pas tourner en rond ?_
-
-_Là est l'enjeu de la singularisation au sein d'une bifurcation **car les systèmes actuelles digressifs amènent davantage vers un formatage**, c'est la critique de Bernard Stiegler dans le Pharmakon{% cite stiegler_what_2013 %} : si nos outils de création sont soumis à la [normalisation](https://bifurcation.etxetxe.fr/7-annexes/lexique/), ils peuvent être amenés cette affirmation :_
+_Si nos outils de création sont soumis à la [normalisation](https://bifurcation.etxetxe.fr/7-annexes/lexique/), ils peuvent être amenés cette affirmation :_
 
 >L'art c'est l'exception, la culture c'est la règle.
+
+_Il y a quelque chose dans la digression qui relève d'un langage, d'une écriture et non plus d'une figure rhétorique au sein d'un discours &ndash; te souviens-tu de la parenthèse ? &ndash; peut-être serait t-il intéressant de le développer ?_
+
+_Qu'est-ce que supposerait **l'expérience de la digression dans une œuvre interactive** ? Est-ce qu'elle en renouvellerait sa représentation ?_
+
+_Il faut maintenant poser un certain nombre d'hypothèse, **se faire un schéma expérimental** : s'agit-il de faire perdre le spectateur, de capter son attention ou carrément de l'empêcher de digresser ?_
+
+_La scène de torture d'Alex dans Orange Mécanique montre bien avec quelle violence on peut aller dans l'impossibilité de faire perdre son attention !_
+
+_Car ce que l'on raconte par le médium et **ce que l'on choisi de montrer** découle de cette intention de départ, peut-être qu'il te faudrait développer un certain nombre de pièce où tu mettrais en exergue ces différents concepts._
+
+_Je penses notamment dans certains films de Godard à ces rencontres au coin de la rue qui commencent et finissent sans crier gare. l'imprévisibilité est une composante du monde réel, c'est ce qu'on appelle [la contingence](https://bifurcation.etxetxe.fr/7-annexes/lexique/)._
+
+_Et c'est aussi pour cela qu'Internet et l'hypertexte font peur car, de par sa nature délinéarisé, elle sous-tend **la digression en tant que médium**, elle nous ramène à l'angoisse de la perte d'attention et de l'affaiblissement de la mémoire dont les psychologues nous mettent en garde._
+
+_Cette peur va de pair avec l'idée que cette perte nous éloignerait de notre histoire, de nos cadres structurants, et nous emmenerait vers notre fin, le hasard contiendrait à la fois une valeur créative et une valeur chaotique._
+
+_D'une certaine manière, le Nouveau Roman{% cite robbe-grillet_les_2010 %} s'est attelé à casser la structure du récit romanesque et la certitude de son inéluctable linéarité, lui permettant de dépasser les impasses formelle auquel le roman même était confronté._
+
+_Et c'est justement là où la digression est salutaire, lorsque elle redonne la possibilité d'explorer,qu'elle devient un moyen d'étendre les limites de l'art, donc de faire de l'art._
+
+_Il y a des artistes qui explorent tout le potentiel d'un médium quand d'autre démontent des systèmes mais, que l'on décide de casser ou de développer des formes hyperspécialisées, l'Art s'actualise par rapport à ces transformations puisque ce sont ces mêmes forces qui permettent de développer de nouveaux médias, de nouvelles formes et de nouveaux langages._
+
+_On en revient à ce que Michel Foucault définissait dans sa notion d'[Epistémè](https://www.youtube.com/watch?v=ZY7bzIZ7-Ys), où les **conditions qui définissent nos pensées et nos modes d'expressions changent en permanence** et que chaque époque doit en définir à nouveau les termes._
+
+_Mais quel est la finalité de cette digression ? Est-ce qu'elle renforce le But ? En ce sens, est-ce que le labyrinthe est une forme ultime de digression ?_
+
+_Là est l'enjeu de la singularisation au sein d'une bifurcation **car les systèmes actuelles digressifs amènent davantage vers un formatage**, c'est ce que critique Bernard Stiegler dans le Pharmakon{% cite stiegler_what_2013 %}_
 
 Cependant la [transgression](https://bifurcation.etxetxe.fr/7-annexes/lexique/) reste un concept relatif à un contexte particulier, **les artistes n'ayant pas toujours étés autorisés à ne pas suivre les règles**, d'où l'importance de ce sujet à l'époque contemporaine
 
