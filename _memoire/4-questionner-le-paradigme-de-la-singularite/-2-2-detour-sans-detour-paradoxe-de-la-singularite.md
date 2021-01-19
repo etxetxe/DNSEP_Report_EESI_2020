@@ -56,12 +56,14 @@ _Mais quel est la finalité de cette digression ? Est-ce qu'elle renforce le But
 
 _Là est l'enjeu de la singularisation au sein d'une bifurcation **car les systèmes actuelles digressifs amènent davantage vers un formatage**, c'est ce que critique Bernard Stiegler dans le Pharmakon{% cite stiegler_what_2013 %}_
 
-Cependant la [transgression](https://bifurcation.etxetxe.fr/7-annexes/lexique/) reste un concept relatif à un contexte particulier, **les artistes n'ayant pas toujours étés autorisés à ne pas suivre les règles**, d'où l'importance de ce sujet à l'époque contemporaine
+La [transgression](https://bifurcation.etxetxe.fr/7-annexes/lexique/) reste cependant un concept relatif à un contexte particulier, d'où l'importance de bien situer ce sujet à l'époque contemporaine ; **les artistes n'ayant pas toujours étés autorisés à ne pas suivre les règles**.
 
-Cette tension permanente entre la continuité et la singularité est à l'oeuvre également, à certains égards et dans un large spectre d'appéciation, au sein des Ecoles d'Art, qui tentent de réinterroger en permanence les acquis successifs de l'Art tout en conservant un patrimoine afin de pouvoir anticiper les changements qui se produisent inéluctablement et d'en tracer les chemins.
+Cette tension permanente entre la continuité et la singularité est à l'œuvre également, à certains égards et dans un large spectre d'appéciation, au sein des Ecoles d'Art.
 
-Cet exemple illustre le changement de paradigme qui s'est substitué à un régime auquel, à un instant donnée, l'Académie mettait en oeuvre un ordre de représentation qui avait pour valeur de canon : et c'est précisément parce que la norme elle-même a fini par échapper à la réalité du monde qu'elle n'a pas pu gérer le désordre provoqué par les Avants-Gardes.
+Ces dernières tentent de réinterroger en permanence les acquis successifs de l'Art tout en conservant un patrimoine afin de pouvoir anticiper les changements qui se produisent inéluctablement et d'en tracer les chemins.
 
-La théorie de l'énaction, conceptualisé par Fransisco Varela et Gregory Bateson à l'Université de Palo Alto, parle de l'expérience sous l'angle de l'interaction d'un individu avec son milieu de l'interaction d'un individu avec un milieu. En considérant le dispositif artistique comme une carte, on peut dès lors parler de cette expérience du point de vue du spectateur : comment peut-on le solliciter et peut-il échapper à ce qu'il lui est proposé ?
+Cet exemple illustre le changement de paradigme qui s'est substitué à un régime où l'Académie mettait en oeuvre un ordre de représentation qui avait valeur de canon : et c'est précisément parce que la norme elle-même a fini par échapper à la réalité du monde qu'elle n'a pas pu gérer le désordre provoqué par les Avants-Gardes.
 
-En réalité, une bifurcation ne s'accomplie jamais sans qu'une résistance du milieu n'y applique une force coercitive, et c'est justement la façon celui-ci influence la manière de dessiner une carte afin de continuer à suivre le chemin dont il sera prochaînement question.
+La théorie de l'énaction, conceptualisée par Fransisco Varela et Gregory Bateson à l'Université de Palo Alto, parle de l'expérience sous l'angle de l'interaction d'un individu avec son milieu. En considérant le dispositif artistique comme une carte, on peut dès lors parler de cette expérience du point de vue du spectateur : comment peut-on le solliciter et comment peut-il échapper à ce qu'il lui est proposé ?
+
+En réalité, une bifurcation ne s'accomplie jamais sans qu'une résistance du milieu n'y applique une force coercitive, et c'est justement la façon dont ce milieu-même influence la manière de dessiner une carte afin de continuer à suivre le chemin qu'il sera question prochainement.
