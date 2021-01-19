@@ -56,6 +56,8 @@ _Mais quel est la finalité de cette digression ? Est-ce qu'elle renforce le But
 
 _Là est l'enjeu de la singularisation au sein d'une bifurcation **car les systèmes actuelles digressifs amènent davantage vers un formatage**, c'est ce que critique Bernard Stiegler dans le Pharmakon{% cite stiegler_what_2013 %}_
 
+Fin de la parenthèse [ ... ]
+
 La [transgression](https://bifurcation.etxetxe.fr/7-annexes/lexique/) reste cependant un concept relatif à un contexte particulier, d'où l'importance de bien situer ce sujet à l'époque contemporaine ; **les artistes n'ayant pas toujours étés autorisés à ne pas suivre les règles**.
 
 Cette tension permanente entre la continuité et la singularité est à l'œuvre également, à certains égards et dans un large spectre d'appéciation, au sein des Ecoles d'Art.
