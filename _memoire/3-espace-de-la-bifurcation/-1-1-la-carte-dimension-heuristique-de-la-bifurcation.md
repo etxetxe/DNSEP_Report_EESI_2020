@@ -12,7 +12,7 @@ Toute tentative de circonvenir le monde dans son intégralité est vouée à l'�
 
 **Labyrinthe de la Cathédrale de Chartres**, _XIIIème siècle_, 12,88 m de diamètre
 
-En revanche, les récits d'apprentissage et de formations spirituelles partent d'une fuite, et cette distinction avec la fugue est essentielle puisque'au lieu de chercher à échapper au monde, il s'agit de se perdre pour mieux retrouver les chemins afin de revenir vers une expérience consentie du réel.
+En revanche, les récits d'apprentissage et de formations spirituelles partent d'une fuite, et cette distinction avec la fugue est essentielle puisqu'au lieu de chercher à échapper au monde, il s'agit de se perdre pour mieux retrouver les chemins afin de revenir vers une expérience consentie du réel.
 
 ![image](https://bifurcation.etxetxe.fr/images/jetty.jpg)
 
