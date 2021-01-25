@@ -1,4 +1,4 @@
-Pour interroger au sein de la bifurcation la question du paradigme de la singularité, il convient de se demander s'il existe une manière de faire et penser les choses qui puisse permettre de se singulariser et pourrait-il en le marqueur qui permettrait de souligner la bifurcation ?
+Pour interroger au sein de la bifurcation la question du paradigme de la singularité, il convient de se demander s'il existe une manière de faire et de penser les choses qui puisse permettre de se singulariser et que pourrait-être le marqueur qui permettrait de souligner la bifurcation ?
 
 Le paradigme est un terme d'épistémologie qui définie des modèles de représentation du monde décrit par Samuel Thomas Kuhn dans « La Structure des révolutions scientifiques{% cite kuhn_structure_2018 %} » publié en 1962 où il décrit celui-ci comme :
 
