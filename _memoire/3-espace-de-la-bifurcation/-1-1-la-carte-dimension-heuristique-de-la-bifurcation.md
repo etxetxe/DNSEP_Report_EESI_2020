@@ -18,15 +18,15 @@ En revanche, les récits d'apprentissage et de formations spirituelles partent d
 
 **Spiral Jetty**, Robert Smithson, Salt Lake Utah, _1970_, 457 m de long et 4,5 m de large
 
-On va considérer [l'outil](https://bifurcation.etxetxe.fr/7-annexes/lexique/) selon l'angle retenu par Gilbert Simondon comme une extension des capacités humaines{% cite simondon_du_2012 %} c'est à dire l'ensemble des **moyens technique manipulables** pour penser, communiquer ou agir sur son environnement et ses pairs ainsi que les types de **rapports entretenus avec ces dispositifs dans cette relation au monde.**
+On va considérer [l'outil](https://bifurcation.etxetxe.fr/7-annexes/lexique/) selon l'angle retenu par Gilbert Simondon comme une extension des capacités humaines{% cite simondon_du_2012 %} c'est à dire l'ensemble des moyens technique manipulables pour penser, communiquer ou agir sur son environnement et ses pairs ainsi que les types de rapports entretenus avec ces dispositifs dans cette relation au monde.
 
-La notation est un outil en ce sens qu'elle permet **d'inscrire un signe sur un support** et par extension de **transformer ce signe en objet physique**, celui-ci **devenant un symbole** pouvant se transmettre, se dupliquer, mais surtout **communiquer un sens** entre deux récepteurs, bien qu'il ne s'agisse pas de procéder dans cet exemple à une étude de la communication.
+La notation est un outil en ce sens qu'elle permet d'inscrire un signe sur un support et par extension de transformer ce signe en objet physique, celui-ci devenant un symbole pouvant se transmettre, se dupliquer, mais surtout communiquer un sens entre deux récepteurs, bien qu'il ne s'agisse pas de procéder dans cet exemple à une étude de la communication.
 
-La bifurcation au sein de la digression ou l'inverse ? Les figures de la bifurcation rentrent dans les domaines de l'interactivité. **L'œuvre processuelle entretient la question du chemin comme fin en soi** et fait écho à la poétique de l'œuvre ouverte d'Umberto Eco, ou l'activité du spectateur est la condition de l'entrée dans celle-ci.
+La bifurcation au sein de la digression ou l'inverse ? Les figures de la bifurcation rentrent dans les domaines de l'interactivité. L'œuvre processuelle entretient la question du chemin comme fin en soi et fait écho à la poétique de l'œuvre ouverte d'Umberto Eco, ou l'activité du spectateur est la condition de l'entrée dans celle-ci.
 
 Si pour Deleuze{% cite deleuze_mille_1980 %}, le télos détermine un cap comme finalité, le rhizome, quant à lui, trouve sa fin dans les relations qu'elle tisse entre les choses.
 
-**les processus de transformation qu'elle opère et le devenir de ces choses** créent du sens à la bifurcation en introduisant la délinéarisation au sein des perspectives multiples.
+Les processus de transformation qu'elle opère et le devenir de ces choses créent du sens à la bifurcation en introduisant la délinéarisation au sein des perspectives multiples.
 
 ![image](https://bifurcation.etxetxe.fr/images/perspecteurs.jpg)
 
@@ -50,11 +50,11 @@ Cette possibilité se retrouve également dans les partitions de Boucourechliev 
 
 [Iannis Xenakis, **LA LÉGENDE D’EER ET JONCHAIES**,_1986_](https://www.youtube.com/watch?v=onTQERZOEZ4)
 
-Cette digression peut aussi se révéler au travers d'un dispositif permettant de traduire une **manifestation du temps** :
+Cette digression peut aussi se révéler au travers d'un dispositif permettant de traduire une manifestation du temps :
 
 >Un triangle, solide absolu, n'a pas de manifestation du temps et la forme est entière en soi ; en revanche, le nautile ou le fossile est la manifestation des couches successives qui composent la forme totale et qui ne cesse d'émerger en tant que présence sans cesse réactualisée
 
-Le geste de dessiner devient un moyen de rendre compte de ce présent sans cesse réactualisé, **faire trace c'est inscrire du temps.**
+Le geste de dessiner devient un moyen de rendre compte de ce présent sans cesse réactualisé, faire trace c'est inscrire du temps.
 
 [L'échantillonnage](https://bifurcation.etxetxe.fr/7-annexes/lexique/) est caractéristique de toute forme de perception et d'interprétation du monde &ndash; le domaine visible, la fréquence visuelle, ... &ndash; et si l'intelligence humaine ne permet que d'en saisir un aspect, c'est sa capacité à construire une réalité à partir de données parcellaires qui va jouer sur son expérience : la sensibilité transcende la pensée analytique dans son incomplétude même.
 

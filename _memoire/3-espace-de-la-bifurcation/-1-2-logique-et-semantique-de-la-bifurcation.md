@@ -1,6 +1,6 @@
 Pour creuser en profondeur la logique et la sémantique qui découlent de la bifurcation, nous allons voir en quoi l'approche analytique de la cybernétique de Wiener, et à laquelle se rattachent les théories de l'information de Claude Shannon{% cite shannon_mathematical_1975 %} ainsi que celles issues des recherches en science sociale de l'Université de Palo Alto{% cite watzlawick_pragmatics_1967 %} dans les années 1960, permet de penser les relations et interactions au sein d'un système.
 
-Norbert Wiener était un spécialiste de l'énergie ayant travaillé sur la notion de **cybernétique**, celle-ci part du constat que la machine permet aux humains de sortir de leurs limites physiques &ndash; un camion équivalant à 10 000 jambes &ndash; mais que les sociétés, en créant ces machines, dévorent de l'énergie de manière exponentielle parallèlement à leurs complexifications.
+Norbert Wiener était un spécialiste de l'énergie ayant travaillé sur la notion de cybernétique, celle-ci part du constat que la machine permet aux humains de sortir de leurs limites physiques &ndash; un camion équivalant à 10 000 jambes &ndash; mais que les sociétés, en créant ces machines, dévorent de l'énergie de manière exponentielle parallèlement à leurs complexifications.
 
 Ce paradoxe selon lequel la plus grande dépense énergétique du monde contemporain proviendrait de la conception et de l'entretien des machines et systèmes complexes destinés à simplifier le travail et faciliter les échanges motive Bernard Stiegler à ce que l'on relise d'un œil neuf les théories de Wiener pour penser une nouvelle dialectique, celle de l'[entropie](https://bifurcation.etxetxe.fr/7-annexes/lexique/) et de la [néguentropie](https://bifurcation.etxetxe.fr/7-annexes/lexique/).
 
@@ -28,11 +28,11 @@ En présentant des [ontologies](https://bifurcation.etxetxe.fr/7-annexes/lexique
 
 25,4 x 21,6 cm
 
-La base de donnée de Robert Morris et les listes de Richard Serra proposent des pièces dont **la finalité se trouve dans la description et la classification de leurs procédés**. En procédant à une mise à plat des concepts, les artistes conceptuels ont cherchés à établir une grille de lecture pour poser la condition d'une œuvre non plus en tant qu'objet en soi mais comme le résultat de décisions, opérant une **mise à plat de leurs pratiques et de leurs définitions afin de les reconfigurer.**
+La base de donnée de Robert Morris et les listes de Richard Serra proposent des pièces dont la finalité se trouve dans la description et la classification de leurs procédés. En procédant à une mise à plat des concepts, les artistes conceptuels ont cherchés à établir une grille de lecture pour poser la condition d'une œuvre non plus en tant qu'objet en soi mais comme le résultat de décisions, opérant une mise à plat de leurs pratiques et de leurs définitions afin de les reconfigurer.
 
 Le [signifiant](https://bifurcation.etxetxe.fr/7-annexes/lexique/), le [signifié](https://bifurcation.etxetxe.fr/7-annexes/lexique/) et le [signe](https://bifurcation.etxetxe.fr/7-annexes/lexique/) permettent de définir dans le champs linguistique une perception analogique du monde.
 
-Les langage et les signes peuvent être séquencés et analysé par des balises sémantiques, devenant **une information au sein d'une base de donnée structurelle où chaque _data_ extraite devient autant de port [I/O](https://bifurcation.etxetxe.fr/7-annexes/lexique/) vers d'autres base de données**, générant à leur tour de nouvelles interactions.
+Les langage et les signes peuvent être séquencés et analysé par des balises sémantiques, devenant une information au sein d'une base de donnée structurelle où chaque _data_ extraite devient autant de port [I/O](https://bifurcation.etxetxe.fr/7-annexes/lexique/) vers d'autres base de données, générant à leur tour de nouvelles interactions.
 
 L'état actuel de la recherche de l'apprentissage profond{% cite goodfellow_generative_2014 %} montre que la question du séquençage par la machine ne fait que s'accélérer, celle-ci devenant capable de développer des patterns pour extraire et trier ainsi que de proposer une infinité de mode de représentation.
 
@@ -52,7 +52,7 @@ Si la crise du capitalisme actuel est directement corrélée à la question de l
 
 La pensée eugéniste, qui découle de l'application des méthodes d'organisation sociales dérivées des travaux de Robert Malthus au XIXème{% cite malthus_essai_2010 %} est une impasse puisque la sélection et la transmission de caractéristiques d'un système n'est pas une fin en soi : elle ne doit pas prétendre à l'ordre ni à l'efficacité.
 
-Pour Ivan Illich{% cite illich_convivialite_2014 %}, plus un système va chercher à s'ordonner, plus il créera du désordre, autrement dit à une force concentrique va s'opposer une force de dispersion qui réduira son mouvement : c'est ce qu'il théorise sous le nom de **[mnémozyne](https://bifurcation.etxetxe.fr/7-annexes/lexique/)**, en référence à la divinité grecque du chaos.
+Pour Ivan Illich{% cite illich_convivialite_2014 %}, plus un système va chercher à s'ordonner, plus il créera du désordre, autrement dit à une force concentrique va s'opposer une force de dispersion qui réduira son mouvement : c'est ce qu'il théorise sous le nom de [mnémozyne](https://bifurcation.etxetxe.fr/7-annexes/lexique/), en référence à la divinité grecque du chaos.
 
 Et c'est par un verbe du vocabulaire de Jacques Derrida, _Panser_{% cite stiegler_quappelle-t-panser_2018 %}, que Bernard Stiegler invite à prendre en compte, au sein de ces relations qui existent entre les systèmes et leurs structures, ces tensions afin de préserver notre capacité de création et de changement.
 
