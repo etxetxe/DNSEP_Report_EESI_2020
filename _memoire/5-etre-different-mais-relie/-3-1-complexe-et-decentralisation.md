@@ -10,7 +10,7 @@ Au travers du complexe se dessine une carte des manifestations du pouvoir propos
 
 L'interface utilisateur est le dispositif de communication entre l'utilisateur et ce complexe. Celui-ci conçoit les champs des modalités des interactions possibles : un profil d'utilisateur n'est que l'abstraction d'un tableau contenu dans une base de données et ne dit rien de comment la data en elle-même est traitée.
 
-Les dispositifs de capture et de sollicitation de l'attention se retrouvent entre autres dans les champs du marketing et de la surveillance. Ceux-ci sont amenés à opérer de deux manières : par la [Normalisation](https://bifurcation.etxetxe.fr/7-annexes/lexique/) et par la [Synchronisation](https://bifurcation.etxetxe.fr/7-annexes/lexique/).
+Les dispositifs de capture et de sollicitation de l'attention se retrouvent entre autres dans les champs du marketing et de la surveillance. Ceux-ci sont amenés à opérer de deux manières : par la [normalisation](https://bifurcation.etxetxe.fr/7-annexes/lexique/) et par la [ynchronisation](https://bifurcation.etxetxe.fr/7-annexes/lexique/).
 
 Normaliser revient à imposer un ordre associé à une logique disciplinaire sous la forme d'un contrôle et à mettre en place des formes de répressions en cas de dispersion, tout en veillant à permettre une souplesse suffisante en son sein nécessaire à sa conservation : elle ne cherche pas à empêcher la bifurcation mais à en restreindre le mouvement.
 
