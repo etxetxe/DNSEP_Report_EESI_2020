@@ -10,9 +10,9 @@ Comment échapper au dilemme selon lequel ne pas suivre l'ordre reviendrait à s
 
 ![image](https://bifurcation.etxetxe.fr/images/pill.jpg)
 
-[Soeurs Wachowski, **Matrix**, _1999_, 130 minutes](https://www.youtube.com/watch?v=TgfLNObfwLg)
+[Lana Wachowski (as The Wachowski Brothers) et Lilly Wachowski (as The Wachowski Brothers), **Matrix**, _1999_, 130 minutes](https://www.youtube.com/watch?v=TgfLNObfwLg)
 
-Cette contradiction est portée dans la métaphore visuelle de la "pilule rouge" qui opposerait, selon les termes de ce dilemme, le choix de se singulariser à celui de rester dans le déni : cette opposition un brin caricatural ne doit cependant occulter le fait que la déconstruction d'un complexe et de sa relation au pouvoir ne signifie pas forcément de rejoindre un mouvement de dissidence.
+Cette contradiction est portée dans la métaphore visuelle de la "pilule rouge" qui opposerait, selon les termes de ce dilemme, le choix de se singulariser à celui de rester dans le déni. Cette opposition un brin caricaturale ne doit cependant pas occulter le fait que la déconstruction d'un complexe et de sa relation au pouvoir ne signifie pas forcément de rejoindre un mouvement de dissidence.
 
 Ce qui pose problème, ce n'est pas tant d' affirmer la négation "il ne faut pas suivre le chemin" que de confirmer l'affirmation "voilà comment ne pas suivre le chemin" : l'énoncé doit souligner son caractère de [potentialité](https://bifurcation.etxetxe.fr/7-annexes/lexique/).
 
