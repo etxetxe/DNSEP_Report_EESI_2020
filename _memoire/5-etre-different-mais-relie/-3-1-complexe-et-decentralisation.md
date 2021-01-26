@@ -2,9 +2,9 @@ Il a été vu précédemment qu'une résistance s'opérait dans un milieu afin d
 
 Un [complexe](https://bifurcation.etxetxe.fr/7-annexes/lexique/) peut se définir comme un ensemble d'éléments composés entretenant des rapports nombreux d'aspects différents dont le sens est à première vue difficile à saisir par l'esprit :
 
->« Il convient d'attacher au mot complexe un sens d'hétérogénéité qualitative, se superposant à la multiplicité quantitative. Celle-ci intervient seule au contraire dans la signification du mot composé. Pour rentrer dans le vocabulaire philosophique courant, on peut dire que le complexe est de l'ordre de la compréhension, le composé de l'ordre de l'extension{% cite andree_lamouche_1962 %} »
+>« Il convient d'attacher au mot complexe un sens d'hétérogénéité qualitative, se superposant à la multiplicité quantitative. Celle-ci intervient seule au contraire dans la signification du mot composé. Pour rentrer dans le vocabulaire philosophique courant, on peut dire que le complexe est de l'ordre de la compréhension, le composé de l'ordre de l'extension{% cite andree_lamouche_1962 %}. »
 
-L'expérience utilisateur ou UX conçoit les formes d'une exploration ou le spectateur est confronté à des choix simples qui l'amènent à suivre un circuit de plus en plus familier, dont la complexité des relations lui est caché, tout en lui donnant l'impression de bifurquer par l'exploration.
+L'expérience utilisateur ou UX conçoit les formes d'une exploration ou le spectateur est confronté à des choix simples qui l'amènent à suivre un circuit de plus en plus familier, dont la complexitée des relations lui est caché, tout en lui donnant l'impression de bifurquer par l'exploration.
 
 Au travers du complexe se dessine une carte des manifestations du pouvoir proposant une multiplicité de chemins tout en fermant d'éventuelles sorties : le paradoxe des réseaux globalisés et de fournir une multitude d'embranchement tout en balisant ces choix par de multiples intermédiaires.
 
