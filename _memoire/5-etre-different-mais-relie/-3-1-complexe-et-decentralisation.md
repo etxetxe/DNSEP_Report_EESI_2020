@@ -20,7 +20,7 @@ Mais dès lors qu’un système décentralisé, composé d'un maillage souple et
 
 [Synchroniser](https://bifurcation.etxetxe.fr/7-annexes/lexique/), c'est encourager la dispersion en favorisant des occurrences de plus en plus similaires afin de les amener finalement à pointer dans la même direction : le mouvement de la bifurcation devient lui-même un outil de contrôle.
 
-La crise sanitaire pourrait imposer aux sociétés que les citoyens fournissent leurs données personnelles : l'exemple de la Chine, qui gère les citoyens comme des unités productives, montre bien que la question du contrôle des corps et des esprits par des moyens étatiques voir cognitifs est au cœur de l'ordre disciplinaire.
+La crise sanitaire pourrait imposer aux sociétés que les citoyens fournissent leurs données personnelles. L'exemple de la Chine, qui gère les citoyens comme des unités productives, montre bien que la question du contrôle des corps et des esprits par des moyens étatiques voir cognitifs est au cœur de l'ordre disciplinaire.
 
 En effet, si l'esprit intime pouvait auparavant servir de bulle de confinement, les espaces mentaux sont désormais considérés comme des territoires pouvant être envahis par des systèmes de capture de l'attention qui par le biais d'agents numériques &ndash; smartphones, objets connectés, ... &ndash; introduisent des nouvelles formes de certification et de promotion.
 
