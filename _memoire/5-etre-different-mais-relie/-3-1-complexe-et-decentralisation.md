@@ -24,7 +24,7 @@ La crise sanitaire pourrait imposer aux sociétés que les citoyens fournissent 
 
 En effet, si l'esprit intime pouvait auparavant servir de bulle de confinement, les espaces mentaux sont désormais considérés comme des territoires pouvant être envahis par des systèmes de capture de l'attention, qui par le biais d'agentss numériques &ndash; smartphones, objets connectés... &ndash; introduisent des nouvelles formes de certification et de promotion.
 
-Les intelligences artificielles sont amenées à comprendre ces éléments de rites et synchronisation en flux continu{% cite goodfellow_generative_2014 %} afin de tracker et d'anticiper nos déplacements et nos comportements. Le dispositif de contrôle cherche à fusionner avec le premier régulateur humain qui est celui du regard social.
+Les intelligences artificielles sont amenées à comprendre ces éléments de rites et synchronisation en flux continu{% cite goodfellow_generative_2014 %} afin de tracer et d'anticiper nos déplacements et nos comportements. Le dispositif de contrôle cherche à fusionner avec le premier régulateur humain qui est celui du regard social.
 
 Il s'agit pour celui-ci de dissuader toute sortie du groupe, alors que celle-ci pouvait être considéré comme un rite d'initiation dans certaines sociétés, et également de se substituer à des marqueurs sociaux précédemment établis : de nouvelles formes de mise au ban sont définies pour conserver l'homéostasie de ce nouveau système, excluant toute possibilité de s'en émanciper, puisque cela équivaudrait à la mort ou au blâme.
 
