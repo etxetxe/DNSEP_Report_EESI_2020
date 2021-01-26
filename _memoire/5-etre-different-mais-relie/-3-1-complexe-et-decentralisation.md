@@ -14,7 +14,7 @@ Les dispositifs de capture et de sollicitation de l'attention se retrouvent entr
 
 Normaliser, revient à imposer un ordre associé à une logique disciplinaire sous la forme d'un contrôle et à mettre en place des formes de répressions en cas de dispersion. Et ce, tout en veillant à permettre une souplesse suffisante en son sein nécessaire à sa conservation : elle ne cherche pas à empêcher la bifurcation, mais à en restreindre le mouvement.
 
-Michel Foucault, au travers du panoptique{% cite foucault_surveiller_2008 %}, décrit le régime d'une normalisation sous la forme d'une auto-régulation qui viendrait conserver l'homéostasie du système mis en place.
+Michel Foucault, au travers du panoptique{% cite foucault_surveiller_2008 %}, décrit le régime d'une normalisation sous la forme d'une autorégulation qui viendrait conserver l'homéostasie du système mis en place.
 
 Mais dès lors qu’un système décentralisé, composé d'un maillage souple et partant de la périphérie, remplace un pouvoir centralisé, Paul Virilio{% cite virilio_vitesse_1977 %} conçoit que s'opère également une externalisation du régime de contrôle.
 
