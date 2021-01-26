@@ -1,4 +1,4 @@
-Il a été vu précédemment qu'une résistance s'opérait dans un milieu afin d'échapper à un processus d’individuation, et ce malgré la possibilité de se différencier : comment ce mouvement inverse nous donne t-elle l'impression d'être dans une supposée expérience de la bifurcation et de quelle manière échapper à cette attraction ?
+Il a été vu précédemment qu'une résistance s'opérait dans un milieu afin d'échapper à un processus d’individuation, et ce malgré la possibilité de se différencier : comment ce mouvement inverse nous donne-t-elle l'impression d'être dans une supposée expérience de la bifurcation et de quelle manière échapper à cette attraction ?
 
 Un [complexe](https://bifurcation.etxetxe.fr/7-annexes/lexique/) peut se définir comme un ensemble d'éléments composés entretenant des rapports nombreux d'aspects différents dont le sens est à première vue difficile à saisir par l'esprit :
 
