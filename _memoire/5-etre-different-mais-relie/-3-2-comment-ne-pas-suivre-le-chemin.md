@@ -2,7 +2,7 @@
 
 Gébé, **L'An 01**, édition du Square, _1972_
 
-En analysant la bifurcation en art comme moyen de lutter contre des outils de propagande, comment peut-elle proposer en contrepoint des outils de libération ?
+En analysant la bifurcation en art comme moyen de lutter contre des outils de propagande, comment celle-ci peut-elle proposer en contrepoint des outils de libération ?
 
 Ne pas suivre le chemin constitue un énoncé qui introduit sa propre contradiction : pour bifurquer, il n'est pas possible de se dire de ne pas suivre le chemin, la solution au syllogisme serait de ne tout simplement pas cheminer.
 
