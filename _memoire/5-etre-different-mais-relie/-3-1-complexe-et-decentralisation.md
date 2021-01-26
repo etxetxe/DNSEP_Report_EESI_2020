@@ -6,7 +6,7 @@ Un [complexe](https://bifurcation.etxetxe.fr/7-annexes/lexique/) peut se défini
 
 L'expérience utilisateur ou UX conçoit les formes d'une exploration ou le spectateur est confronté à des choix simples qui l'amènent à suivre un circuit de plus en plus familier, dont la complexitée des relations lui est caché, tout en lui donnant l'impression de bifurquer par l'exploration.
 
-Au travers du complexe se dessine une carte des manifestations du pouvoir proposant une multiplicité de chemins tout en fermant d'éventuelles sorties : le paradoxe des réseaux globalisés et de fournir une multitude d'embranchement tout en balisant ces choix par de multiples intermédiaires.
+Au travers du complexe se dessine une carte des manifestations du pouvoir proposant une multiplicité de chemins tout en fermant d'éventuelles sorties. Le paradoxe des réseaux globalisés est de fournir une multitude d'embranchement tout en balisant ces choix par de multiples intermédiaires.
 
 L'interface utilisateur est le dispositif de communication entre l'utilisateur et ce complexe. Celui-ci conçoit les champs des modalités des interactions possibles : un profil d'utilisateur n'est que l'abstraction d'un tableau contenu dans une base de données et ne dit rien de comment la data en elle-même est traitée.
 
