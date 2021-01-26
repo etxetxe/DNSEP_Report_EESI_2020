@@ -12,7 +12,7 @@ L'interface utilisateur est le dispositif de communication entre l'utilisateur e
 
 Les dispositifs de capture et de sollicitation de l'attention se retrouvent entre autres dans les champs du marketing et de la surveillance. Ceux-ci sont amenés à opérer de deux manières : par la [normalisation](https://bifurcation.etxetxe.fr/7-annexes/lexique/) et par la [synchronisation](https://bifurcation.etxetxe.fr/7-annexes/lexique/).
 
-Normaliser, revient à imposer un ordre associé à une logique disciplinaire sous la forme d'un contrôle et à mettre en place des formes de répressions en cas de dispersion. Et ce, tout en veillant à permettre une souplesse suffisante en son sein nécessaire à sa conservation : elle ne cherche pas à empêcher la bifurcation mais à en restreindre le mouvement.
+Normaliser, revient à imposer un ordre associé à une logique disciplinaire sous la forme d'un contrôle et à mettre en place des formes de répressions en cas de dispersion. Et ce, tout en veillant à permettre une souplesse suffisante en son sein nécessaire à sa conservation : elle ne cherche pas à empêcher la bifurcation, mais à en restreindre le mouvement.
 
 Michel Foucault, au travers du panoptique{% cite foucault_surveiller_2008 %}, décrit le régime d'une normalisation sous la forme d'une auto-régulation qui viendrait conserver l'homéostasie du système mis en place.
 
