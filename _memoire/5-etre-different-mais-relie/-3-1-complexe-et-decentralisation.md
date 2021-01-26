@@ -22,7 +22,7 @@ Mais dès lors qu’un système décentralisé, composé d'un maillage souple et
 
 La crise sanitaire pourrait imposer aux sociétés que les citoyens fournissent leurs données personnelles. L'exemple de la Chine, qui gère les citoyens comme des unités productives, montre bien que la question du contrôle des corps et des esprits par des moyens étatiques, voir cognitifs, est au cœur de l'ordre disciplinaire.
 
-En effet, si l'esprit intime pouvait auparavant servir de bulle de confinement, les espaces mentaux sont désormais considérés comme des territoires pouvant être envahis par des systèmes de capture de l'attention qui par le biais d'agents numériques &ndash; smartphones, objets connectés, ... &ndash; introduisent des nouvelles formes de certification et de promotion.
+En effet, si l'esprit intime pouvait auparavant servir de bulle de confinement, les espaces mentaux sont désormais considérés comme des territoires pouvant être envahis par des systèmes de capture de l'attention, qui par le biais d'agentss numériques &ndash; smartphones, objets connectés... &ndash; introduisent des nouvelles formes de certification et de promotion.
 
 Les intelligences artificielles sont amenées à comprendre ces éléments de rites et synchronisation en flux continu{% cite goodfellow_generative_2014 %} afin de tracker et d'anticiper nos déplacements et nos comportements. Le dispositif de contrôle cherche à fusionner avec le premier régulateur humain qui est celui du regard social.
 
