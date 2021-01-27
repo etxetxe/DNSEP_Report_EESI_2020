@@ -40,7 +40,7 @@ _La scène de torture d'Alex, lorsqu’il est sur le fauteuil, les yeux écarqui
 
 _Car ce que l'on raconte par le médium que l'on choisi de montrer découle de cette intention de départ, proposer des chemins multiples pour échapper à cette captation d’attention. Peut-être qu'il te faudrait développer un certain nombre de pièce où tu mettrais en exergue ces différents concepts._
 
-_Je pense notamment &ndash; comme dans{% cite cleo_5_7 %} ou dans le cinéma de la modernité &ndash; à ces rencontres au coin de la rue qui commencent et finissent sans crier gare. L'imprévisibilité est une composante du monde réel, c'est ce qu'on appelle [la contingence](https://bifurcation.etxetxe.fr/7-annexes/lexique/)._
+_Je pense notamment &ndash; comme dans le film d'{% cite cleo_5_7 %} ou dans le cinéma de la modernité &ndash; à ces rencontres au coin de la rue qui commencent et finissent sans crier gare. L'imprévisibilité est une composante du monde réel, c'est ce qu'on appelle [la contingence](https://bifurcation.etxetxe.fr/7-annexes/lexique/)._
 
 _Et c'est aussi pour cela qu'Internet et l'hypertexte font peur. De par leurs nature délinéarisée, ils sous-tendent la digression en tant que médium, elle nous ramène à l'angoisse de la perte d'attention et de l'affaiblissement de la mémoire, phénomène dont les psychologues nous mettent en garde._
 
