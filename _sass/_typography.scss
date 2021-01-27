@@ -28,33 +28,62 @@
   font-weight: 500;
   font-style: normal;
 }
+/*
 @font-face {
     font-family: 'Fira Sans';
     src: url('/fonts/FiraSans-Regular.woff2') format('woff2'),
          url('/fonts/FiraSans-Regular.woff') format('woff');
     font-weight: 400;
     font-style: normal; }
-
+*/
+@font-face {
+  font-family: 'cmu_serifroman';
+  src: url('/fonts/cmunrm-webfont.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+/*
 @font-face {
     font-family: 'Fira Sans';
     src: url('/fonts/FiraSans-Italic.woff2') format('woff2'),
          url('/fonts/FiraSans-Italic.woff') format('woff');
     font-weight: 400;
     font-style: italic; }
-
+*/
+@font-face {
+  font-family: 'cmu_serif_extraromanslanted';
+  src: url('/fonts/cmunsl-webfont.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+}
+/*
 @font-face {
     font-family: 'Fira Sans';
     src: url('/fonts/FiraSans-SemiBold.woff2') format('woff2'),
          url('/fonts/FiraSans-SemiBold.woff') format('woff');
     font-weight: 500;
     font-style: normal; }
-
+*/
+@font-face {
+  font-family: 'cmu_serifbold';
+  src: url('/fonts/cmunbx-webfont.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+/*
 @font-face {
     font-family: 'Fira Sans';
     src: url('/fonts/FiraSans-SemiBoldItalic.woff2') format('woff2'),
          url('/fonts/FiraSans-SemiBoldItalic.woff') format('woff');
     font-weight: 500;
     font-style: italic; }
+*/
+@font-face {
+  font-family: 'cmu_serif_extraboldslanted';
+  src: url('/fonts/cmunbl-webfont.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+}
 
 html {
 	height: 100%;
@@ -66,7 +95,7 @@ html {
 body {
 	height: 100%;
 	max-height: 100%;
-	font-family: "Fira Sans", sans-serif;
+	font-family: "cmu_serifroman", serif;
 	letter-spacing: 0.01rem;
 	font-size: 1.9em;
 	line-height: 1.75em;
