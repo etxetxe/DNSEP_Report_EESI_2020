@@ -10,7 +10,7 @@ _Détour sans retour_
 
 _S'égarer volontairement suppose de baliser son chemin pour mieux se perdre, et ce dans le but de commettre une effraction, de briser la barrière pour arriver quelque part sans y avoir été attendu._
 
-_Walter Benjamin dans "L'œuvre d'Art à l'époque de sa reproductibilité technique"{% cite benjamin_loeuvre_2018 %} posait comme postulat la remise en question du caractère singulier de l'objet d'art en tant que présupposé de sa valeur pour en privilégier les processus et les interactions._
+_{% cite benjamin_loeuvre_2018 %}  &ndash; posait comme postulat la remise en question du caractère singulier de l'objet d'art en tant que présupposé de sa valeur pour en privilégier les processus et les interactions._
 
 _Et c'est précisément parce que les tendances des intelligences artificielles, en concevant des modes de traitement des données sous l'angle des similarités et en privilégiant les solutions établies les plus efficaces, ne parviennent pas, selon Lev Manovich{% cite manovich_esthetique_2017 %}, à véritablement se [singulariser](https://bifurcation.etxetxe.fr/7-annexes/lexique/)._
 
