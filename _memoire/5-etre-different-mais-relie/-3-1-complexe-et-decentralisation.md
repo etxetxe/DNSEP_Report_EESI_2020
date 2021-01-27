@@ -2,7 +2,7 @@ Il a été vu précédemment qu'une résistance s'opérait dans un milieu afin d
 
 Un [complexe](https://bifurcation.etxetxe.fr/7-annexes/lexique/) peut se définir comme un ensemble d'éléments composés entretenant des rapports nombreux d'aspects différents dont le sens est à première vue difficile à saisir par l'esprit :
 
->« Il convient d'attacher au mot complexe un sens d'hétérogénéité qualitative, se superposant à la multiplicité quantitative. Celle-ci intervient seule au contraire dans la signification du mot composé. Pour rentrer dans le vocabulaire philosophique courant, on peut dire que le complexe est de l'ordre de la compréhension, le composé de l'ordre de l'extension{% cite andree_lamouche_1962 %}. »
+>« Il convient d'attacher au mot complexe un sens d'hétérogénéité qualitative, se superposant à la multiplicité quantitative. Celle-ci intervient seule au contraire dans la signification du mot composé. Pour rentrer dans le vocabulaire philosophique courant, on peut dire que le complexe est de l'ordre de la compréhension, le composé de l'ordre de l'extension &ndash; {% cite andree_lamouche_1962 %} »
 
 L'expérience utilisateur ou UX conçoit les formes d'une exploration ou le spectateur est confronté à des choix simples qui l'amènent à suivre un circuit de plus en plus familier, dont la complexitée des relations lui est caché, tout en lui donnant l'impression de bifurquer par l'exploration.
 
@@ -14,9 +14,9 @@ Les dispositifs de capture et de sollicitation de l'attention se retrouvent entr
 
 Normaliser, revient à imposer un ordre associé à une logique disciplinaire sous la forme d'un contrôle et à mettre en place des formes de répressions en cas de dispersion. Et ce, tout en veillant à permettre une souplesse suffisante en son sein nécessaire à sa conservation : elle ne cherche pas à empêcher la bifurcation, mais à en restreindre le mouvement.
 
-Michel Foucault, au travers du panoptique{% cite foucault_surveiller_2008 %}, décrit le régime d'une normalisation sous la forme d'une autorégulation qui viendrait conserver [l'homéostasie](https://bifurcation.etxetxe.fr/7-annexes/lexique/) du système mis en place.
+C'est ce qui est décrit dans l'ouvrage de {% cite foucault_surveiller_2008 %} &ndash; dans lequel le régime d'une normalisation prendrait la forme d'une autorégulation qui viendrait conserver [l'homéostasie](https://bifurcation.etxetxe.fr/7-annexes/lexique/) du système mis en place, et ce au travers du panoptique.
 
-Mais dès lors qu’un système décentralisé, composé d'un maillage souple et partant de la périphérie, remplace un pouvoir centralisé, Paul Virilio{% cite virilio_vitesse_1977 %} conçoit que s'opère également une externalisation du régime de contrôle.
+Mais dès lors qu’un système décentralisé, composé d'un maillage souple et partant de la périphérie, remplace un pouvoir centralisé, s'opère également une externalisation du régime de contrôle. Cette transformation est notamment décrite dans l'essai de {% cite virilio_vitesse_1977 %}
 
 [Synchroniser](https://bifurcation.etxetxe.fr/7-annexes/lexique/), c'est encourager la dispersion en favorisant des occurrences de plus en plus similaires afin de les amener finalement à pointer dans la même direction : le mouvement de la bifurcation devient lui-même un outil de contrôle.
 
@@ -24,7 +24,7 @@ La crise sanitaire pourrait imposer aux sociétés que les citoyens fournissent 
 
 En effet, si l'esprit intime pouvait auparavant servir de bulle de confinement, les espaces mentaux sont désormais considérés comme des territoires pouvant être envahis par des systèmes de capture de l'attention, qui par le biais d'agentss numériques &ndash; smartphones, objets connectés... &ndash; introduisent des nouvelles formes de certification et de promotion.
 
-Les intelligences artificielles sont amenées à comprendre ces éléments de rites et synchronisation en flux continu{% cite goodfellow_generative_2014 %} afin de tracer et d'anticiper nos déplacements et nos comportements. Le dispositif de contrôle cherche à fusionner avec le premier régulateur humain qui est celui du regard social.
+Les intelligences artificielles sont amenées à comprendre ces éléments de rites et synchronisation en flux continu afin de tracer et d'anticiper nos déplacements et nos comportements. Le dispositif de contrôle cherche à fusionner avec le premier régulateur humain qui est celui du regard social.
 
 Il s'agit pour ce régime de contrôle de dissuader toute sortie du groupe, et également de se substituer à des marqueurs sociaux précédemment établis &ndash; bien que cette sortie du groupe puisse t-être considérée comme un rite d'initiation dans certaines sociétés &ndash; : de nouvelles formes de mise au ban sont définies pour conserver l'homéostasie de ce nouveau système, excluant toute possibilité de s'en émanciper, puisque cela équivaudrait à la mort ou au blâme.
 
