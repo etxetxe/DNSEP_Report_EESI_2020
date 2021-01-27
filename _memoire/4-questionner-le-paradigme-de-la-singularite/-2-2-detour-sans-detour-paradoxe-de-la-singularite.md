@@ -46,7 +46,7 @@ _Et c'est aussi pour cela qu'Internet et l'hypertexte font peur. De par leurs na
 
 _Cette peur va de pair avec l'idée que cette perte nous éloignerait de notre histoire, de nos cadres structurants, et nous emmènerait vers notre fin. Le hasard contiendrait à la fois une valeur créative et une valeur chaotique._
 
-_D'une certaine manière, le Nouveau Roman{% cite robbe-grillet_les_2010 %} s'est attelé à casser la structure du récit romanesque et la certitude de son inéluctable linéarité, lui permettant de dépasser les impasses formelles auxquelles le roman même était confronté._
+_D'une certaine manière, le Nouveau Roman &ndash; dont l'ouvrage d'{% cite robbe-grillet_les_2010 %} en est le plus caractéristique &ndash; s'est attelé à casser la structure du récit romanesque et la certitude de son inéluctable linéarité, lui permettant de dépasser les impasses formelles auxquelles le roman même était confronté._
 
 _Et c'est justement là où la digression est salutaire, lorsqu'elle redonne la possibilité d'explorer, qu'elle devient un moyen d'étendre les limites de l'art, donc de faire de l'art._
 
