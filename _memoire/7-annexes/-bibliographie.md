@@ -15,7 +15,7 @@ Cette bibliographie est également disponible sur Zotero sous forme d'un groupe,
 
 {% bibliography --query @phdthesis %}
 
-## Sites Internet
+## Multimédia
 
 {% bibliography --query @misc %}
 
