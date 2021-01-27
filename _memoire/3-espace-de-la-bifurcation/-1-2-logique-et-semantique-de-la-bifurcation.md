@@ -46,7 +46,7 @@ Une information devient état lorsque celle-ci est associée à une valeur qui c
 
 Si la crise du capitalisme actuel est directement corrélée à la question de l'urgence climatique, c'est qu'il s'agit d'une part de l'incapacité de résoudre les contradictions entre entre les désirs infinis de l'humanité et les limites physiques du terrestre et d'autre part dans la résurgence du pathogène comme un risque pour l'homéostasie d'un corps donné, justifiant des dérives sécuritaires et liberticides.
 
-La pensée eugéniste, qui découle de l'application des méthodes d'organisation sociales dérivées des travaux de Robert Malthus au XIXème{% cite malthus_essai_2010 %} est une impasse puisque la sélection et la transmission de caractéristiques d'un système n'est pas une fin en soi : elle ne doit pas prétendre à l'ordre ni à l'efficacité.
+La pensée eugéniste &ndash; qui découle de l'application des méthodes d'organisation sociales dérivées des travaux de {% cite malthus_essai_2010 %} &ndash; est une impasse puisque la sélection et la transmission de caractéristiques d'un système n'est pas une fin en soi : elle ne doit pas prétendre à l'ordre ni à l'efficacité.
 
 Pour &ndash; {% cite illich_convivialite_2014 %} &ndash; plus un système va chercher à s'ordonner, plus il créera du désordre, autrement dit à une force concentrique va s'opposer une force de dispersion qui réduira son mouvement : c'est ce qu'il théorise sous le nom de [mnémozyne](https://bifurcation.etxetxe.fr/7-annexes/lexique/), en référence à la divinité grecque du chaos.
 
