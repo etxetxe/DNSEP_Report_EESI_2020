@@ -56,7 +56,7 @@ _On en revient à ce que Michel Foucault définissait dans sa notion d'[Épisté
 
 _Mais quelle est la finalité de cette digression ? Est-ce qu'elle renforce le but ? En ce sens, est-ce que le labyrinthe est la forme ultime de digression ?_
 
-_Là est l'enjeu de la singularisation au sein d'une bifurcation, car les systèmes actuels digressifs amènent davantage vers un formatage : c'est ce que critique Bernard Stiegler dans le pharmakon{% cite stiegler_what_2013 %}._
+_Là est l'enjeu de la singularisation au sein d'une bifurcation, car les systèmes actuels digressifs amènent davantage vers un formatage : c'est l'objet de la critique de l'ouvrage de {% cite stiegler_what_2013 %}_
 
 Fin de la parenthèse [ ... ]
 
