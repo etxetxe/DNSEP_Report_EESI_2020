@@ -12,7 +12,7 @@ Mémoire d'[Étienne Baron](https://urltr.ee/etxetxe) dans le cadre du Diplôme 
 #### Mots-clés
 {{ site.mots-cles }}
 
-### Imprimer ce site web
+### Imprimer le mémoire
 
 [Générer le PDF imprimable]({{ site.print }})
 
