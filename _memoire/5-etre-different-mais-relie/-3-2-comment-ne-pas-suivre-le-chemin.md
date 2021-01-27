@@ -48,7 +48,7 @@ Claude Shannon, père de la théorie de l'information, était de ce fait égalem
 
 ![image](https://bifurcation.etxetxe.fr/images/saraceno.jpg)
 
-**In Orbit**, Tomàs Saraceno, Dusseldorf - Allemagne, _2013_
+{% cite tomas_saraceno_orbit %}
 
 ![image](https://bifurcation.etxetxe.fr/images/ewen.jpg)
 
