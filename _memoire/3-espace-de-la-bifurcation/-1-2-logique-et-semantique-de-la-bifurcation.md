@@ -38,9 +38,11 @@ L'état actuel de la recherche de l'apprentissage profond &ndash; voir {% cite g
 
 ![image](https://bifurcation.etxetxe.fr/images/manovich.jpg)
 
+{% cite lev_man_soft %}
+
 [softwarestudies.com, **Time-covers-all_montage-hor**, All covers of Time magazine (1923-2008) organized by publication date (left to right) - horizontal format (nor rotated), _23 Octobre 2009_](https://www.flickr.com/photos/culturevis/4038137889/in/album-72157622453554258/)
 
-Lev Manovich{% cite manovitch_langage_2015 %} travaille également sur des systèmes d'analyse d'image pour en extraire le maximum d'informations afin de penser à des modalités d'interactions au sein de ses propres bases de données. La recherche des singularités plutôt que des correspondances devient la condition de la mise en forme de données ayant désormais une valeur plastique.
+Lev Manovich, qui a écrit « Le langage des nouveaux médias », travaille également sur des systèmes d'analyse d'image pour en extraire le maximum d'informations afin de penser à des modalités d'interactions au sein de ses propres bases de données. La recherche des singularités plutôt que des correspondances devient la condition de la mise en forme de données ayant désormais une valeur plastique.
 
 Une information devient état lorsque celle-ci est associée à une valeur qui change au cours d'un processus. La transmission de ses caractères permet de lutter contre une entropie jusqu'à une certaine limite structurelle, telle que les lois de la [thermodynamique](https://bifurcation.etxetxe.fr/7-annexes/lexique/) dans un système énergétique.
 
