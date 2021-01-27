@@ -2,8 +2,6 @@
 
 {% cite gebe_lan_square %}
 
-Gébé, **L'An 01**, édition du Square, _1972_
-
 En analysant la bifurcation en art comme moyen de lutter contre des outils de propagande, comment celle-ci peut-elle proposer en contrepoint des outils de libération ?
 
 Ne pas suivre le chemin constitue un énoncé qui introduit sa propre contradiction : pour bifurquer, il n'est pas possible de se dire de ne pas suivre le chemin, la solution au syllogisme serait de ne tout simplement pas cheminer.
@@ -12,7 +10,7 @@ Comment échapper au dilemme selon lequel ne pas suivre l'ordre reviendrait à s
 
 ![image](https://bifurcation.etxetxe.fr/images/pill.jpg)
 
-[Lana Wachowski (en tant que Frères Wachowski) et Lilly Wachowski (en tant que Frères Wachowski), **Matrix**, _1999_, 130 minutes](https://www.youtube.com/watch?v=TgfLNObfwLg)
+{% cite matrix_lana_lilly %}
 
 Cette contradiction est portée dans la métaphore visuelle de la "pilule rouge" qui opposerait, selon les termes de ce dilemme, le choix de se singulariser à celui de rester dans le déni. Cette opposition un brin caricaturale ne doit cependant occulter le fait que la déconstruction d'un complexe et de sa relation au pouvoir ne signifie pas forcément de rejoindre un mouvement de dissidence.
 
@@ -30,7 +28,7 @@ Cette exclusion, au-delà de la logique du régime disciplinaire, se retrouve é
 
 ![image](https://bifurcation.etxetxe.fr/images/abattoirs.jpg)
 
-**Union Stock Yard**, _1947_
+{% cite union_stock_yard %}
 
 L’exemple des abattoirs de Chicago illustre ces systèmes où la déviation n’est pas possible : la bête devient le produit d'une chaîne de tri à l'issue identique pour chaque tête, sans aucun pouvoir d'action ni maîtrise des gestes. Elle est condamné à suivre le chemin jusqu’à leur mort.
 
