@@ -1,5 +1,7 @@
 ![image](https://bifurcation.etxetxe.fr/images/LAn-01-extrait-31.jpg)
 
+{% cite gebe_lan_square %}
+
 Gébé, **L'An 01**, édition du Square, _1972_
 
 En analysant la bifurcation en art comme moyen de lutter contre des outils de propagande, comment celle-ci peut-elle proposer en contrepoint des outils de libération ?
