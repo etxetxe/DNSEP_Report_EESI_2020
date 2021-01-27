@@ -52,7 +52,7 @@ Claude Shannon, père de la théorie de l'information, était de ce fait égalem
 
 ![image](https://bifurcation.etxetxe.fr/images/ewen.jpg)
 
-Ewen Chardonnet, **Mojave Epiphanie**, _2016_
+{% cite chardronnet_mojave_2016 %}
 
 ![image](https://bifurcation.etxetxe.fr/images/luther.jpg)
 
