@@ -12,7 +12,7 @@ _S'égarer volontairement suppose de baliser son chemin pour mieux se perdre, et
 
 _{% cite benjamin_loeuvre_2018 %}  &ndash; posait comme postulat la remise en question du caractère singulier de l'objet d'art en tant que présupposé de sa valeur pour en privilégier les processus et les interactions._
 
-_Et c'est précisément parce que les tendances des intelligences artificielles, en concevant des modes de traitement des données sous l'angle des similarités et en privilégiant les solutions établies les plus efficaces, ne parviennent pas, selon Lev Manovich{% cite manovich_esthetique_2017 %}, à véritablement se [singulariser](https://bifurcation.etxetxe.fr/7-annexes/lexique/)._
+_Et c'est précisément parce que les tendances des intelligences artificielles, en concevant des modes de traitement des données sous l'angle des similarités et en privilégiant les solutions établies les plus efficaces, ne parviennent pas &ndash; selon l'article de {% cite manovich_esthetique_2017 %} &ndash; à véritablement se [singulariser](https://bifurcation.etxetxe.fr/7-annexes/lexique/)._
 
 _Il s'agit de définir des chemins, non pas sous l'angle de la possibilité mais sous celui de la potentialité._
 
