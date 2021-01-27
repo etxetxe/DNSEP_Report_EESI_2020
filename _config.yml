@@ -95,7 +95,7 @@ types:
 # --------------
 # Jekyll Scholar
 scholar:
-  style: afnor
+  style: apa
   locale: fr
   source: _bibliographie
   bibliography: bibliographie.bib

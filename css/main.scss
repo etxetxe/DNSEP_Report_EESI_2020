@@ -7,18 +7,18 @@ $baseurl: "{{ site.baseurl }}";
 $body-background-color: #ffeaa4;
 
 $content-max-width: 850px;
-$content-color: # #342e66;
-$content-background-color: #ffeaa4;
+$content-color: #342e66;
+$content-background-color: #d6ddff;
 
-$brand-colour:  #ffeaa4;
+$brand-colour:  #4f2e3c;
 $brand-colour-light: mix($brand-colour, $content-background-color, 10%);
 
 $nav-header-background-color: $brand-colour;
-$nav-header-height: 80px;
-$nav-background-color: #ffeaa4;
+$nav-header-height: 50px;
+$nav-background-color: #ffe3ba;
 $nav-width: 335px;
 
-$space: 20px;
+$space: 15px;
 
 $mobile-break: 700px;
 $full-width-break: $nav-width + ($space * 4) + $content-max-width;
