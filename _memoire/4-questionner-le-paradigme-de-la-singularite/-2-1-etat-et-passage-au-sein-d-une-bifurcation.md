@@ -29,7 +29,7 @@ _C'est ainsi que j'en suis venu à parler de bifurcation : en digressant continu
 
 _Et il est d'autant plus ennuyeux de constater que [la fugue](https://bifurcation.etxetxe.fr/7-annexes/lexique/) ne constitue en rien une fin en soi, puisqu'en ne se raccrochant qu'à son propre mouvement, elle ne propose pas d'issue en soi : on ne fait que continuer à se perdre..._
 
-_C'est ce dont Heidegger nous parle en évoquant l'image de ces "chemins qui ne mènent nulle part"{% cite heidegger_chemins_2001 %} : à prendre conscience de la manière dont certains sentiers nous laisseraient entrevoir des sorties qui ne seraient que des impasses ; les poursuivre nous amènerait inéluctablement à rebrousser chemin._
+_C'est ce dont Heidegger nous parle en évoquant l'image de ces "chemins qui ne mènent nulle part" : à prendre conscience de la manière dont certains sentiers nous laisseraient entrevoir des sorties qui ne seraient que des impasses ; les poursuivre nous amènerait inéluctablement à rebrousser chemin._
 
 _Peut-être que [l'erreur 404](https://bifurcation.etxetxe.fr/404.html) pourrait nous emmener vers un raccourci mais elle ne déboucherait finalement que sur un terrier de lapin._
 
@@ -41,7 +41,7 @@ _Pour en concevoir la topologie, il a également fallu que je définisse les par
 
 _Traverser à rebours ce chemin, c'est poser les bases d'une démarche de création et de conception qui m'est propre. Arpenter la chaîne d'un système en suivant son fil rouge permet de se confronter à la contingence._
 
-_Selon Jean-Louis Boissier, dans son ouvrage **La relation comme forme**{% cite boissier_relation_2008  %}, l'algorithme pose des conditions dans la manipulation de variable afin d'aboutir à des résultats, probants ou non, attendus ou inattendus. L'ensemble de ces pistes est une forme en soi, celle de [la prospection](https://bifurcation.etxetxe.fr/7-annexes/lexique/). Mais ce qui est au cœur de la logique algorithmique est avant tout la gestion de l'aléatoire._
+_Selon Jean-Louis Boissier, dans son ouvrage La relation comme forme, l'algorithme pose des conditions dans la manipulation de variable afin d'aboutir à des résultats, probants ou non, attendus ou inattendus. L'ensemble de ces pistes est une forme en soi, celle de [la prospection](https://bifurcation.etxetxe.fr/7-annexes/lexique/). Mais ce qui est au cœur de la logique algorithmique est avant tout la gestion de l'aléatoire._
 
 _Ce qui va le différencier d'un modèle probabiliste, c'est le fait de réduire petit à petit le nombre de possibilités afin d'aboutir à un choix. On pourrait concevoir une infinité de chemins chaotiques que l'on baliserait en restreignant le champ d'action._
 
@@ -55,4 +55,4 @@ _Et c'est justement pour décortiquer ces complexes qu'il me paraîtrait judicie
 
 _La rétroaction qui survient répond dès lors d'un processus d'adaptation à un nouvel environnement, ce mécanisme de retour, ou "[feedback](https://bifurcation.etxetxe.fr/7-annexes/lexique/)" selon le vocabulaire de Norbert Wiener, est une des caractéristiques essentielles de la théorie cybernétique que l'on retrouve sous le nom [d'IHM](https://bifurcation.etxetxe.fr/7-annexes/lexique/) ou Interfaces Hommes-Machines._
 
->« [ ... ] la société ne peut être comprise que par une étude des messages et des dispositifs de communication qu’elle contient ; et que, dans le développement futur de ces messages et de ces dispositifs, les messages entre l’homme et les machines, entre les machines et l’homme, et entre la machine et la machine sont appelés à jouer un rôle sans cesse croissant.{% cite wiener_cybernetique_2014 %} »
+>« [ ... ] la société ne peut être comprise que par une étude des messages et des dispositifs de communication qu’elle contient ; et que, dans le développement futur de ces messages et de ces dispositifs, les messages entre l’homme et les machines, entre les machines et l’homme, et entre la machine et la machine sont appelés à jouer un rôle sans cesse croissant &ndash; {% cite wiener_cybernetique_2014 %} »
