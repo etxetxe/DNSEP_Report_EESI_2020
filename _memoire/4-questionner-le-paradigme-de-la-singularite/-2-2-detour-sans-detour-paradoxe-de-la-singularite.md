@@ -34,7 +34,7 @@ _Qu'est-ce que supposerait l'expérience de la digression dans une œuvre intera
 
 _Il faut maintenant poser un certain nombre d'hypothèses, se faire un schéma expérimental : s'agit-il de faire perdre le spectateur, de capter son attention ou carrément de l'empêcher de digresser ?_
 
-_La scène de torture d'Alex, lorsqu’il est sur le fauteuil, les yeux écarquillés, dans "Orange Mécanique", réalisé par Stanley Kubrick, montre bien avec quelle violence on peut aller pour capter l’attention de quelqu’un sans son consentement !_
+_La scène de torture d'Alex, lorsqu’il est sur le fauteuil, les yeux écarquillés &ndash; dans {% cite clock_oran_kubrick %} &ndash; montre bien avec quelle violence on peut aller pour capter l’attention de quelqu’un sans son consentement !_
 
 ![image](https://bifurcation.etxetxe.fr/images/alex.png)
 
