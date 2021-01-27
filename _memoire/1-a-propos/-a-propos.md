@@ -12,7 +12,8 @@ Version {{ site.version }}, datée du {{ site.versiondate }}.
 
 ## Licence
 Licence Creative Commons BY-NC-SA, Attribution-NonCommercial-ShareAlike 4.0 International.
-Ce mémoire, dans son système, est un [fork](https://fr.wikipedia.org/wiki/Fork_(d%C3%A9veloppement_logiciel)) du travail de thèse {% cite antoine_publi_num %} mené par [Antoine Fouchié](https://www.quaternum.net/) à l'[Enssib](http://www.enssib.fr/) sur les systèmes de publication et l'impact du numérique sur ses chaînes actuelles.
+
+Ce mémoire, dans son système, est un [fork](https://fr.wikipedia.org/wiki/Fork_(d%C3%A9veloppement_logiciel)) du travail de thèse mené par {% cite antoine_publi_num %} à l'[Enssib](http://www.enssib.fr/) sur les systèmes de publication et l'impact du numérique sur ses chaînes actuelles.
 [https://memoire.quaternum.net](https://memoire.quaternum.net).
 
 ## Fabrication
@@ -28,3 +29,5 @@ Ce mémoire est fabriqué avec les langages, composants, programmes et logiciels
 * éditeur de texte et IDE : [Atom](https://atom.io/) ;
 * navigateur web : [Mozilla Firefox](https://www.mozilla.org/fr/firefox/) ;
 * logiciel de gestion de références bibliographiques : [Zotero](https://www.zotero.org/).
+
+Ce mémoire est écrit en _Computer Modern WebFont_ sous le contrat [Open Font License](/SIL Open Font License.txt)

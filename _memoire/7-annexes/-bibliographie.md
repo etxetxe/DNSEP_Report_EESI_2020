@@ -15,6 +15,18 @@ Cette bibliographie est également disponible sur Zotero sous forme d'un groupe,
 
 {% bibliography --query @phdthesis %}
 
-## Billets de blog, conférences, vidéos, émissions de radio, divers
+## Sites Internet
 
 {% bibliography --query @misc %}
+
+## Musique
+
+{% bibliography --query @sound %}
+
+## Cinéma
+
+{% bibliography --query @movies %}
+
+## Table des images
+
+{% bibliography --query @images %}

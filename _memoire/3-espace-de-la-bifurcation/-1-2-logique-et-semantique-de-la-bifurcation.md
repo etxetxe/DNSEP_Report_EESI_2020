@@ -1,4 +1,4 @@
-Pour creuser en profondeur la logique et la sémantique qui découlent de la bifurcation, nous allons voir en quoi l'approche analytique de la cybernétique de Wiener, et à laquelle se rattachent les théories de l'information de Claude Shannon{% cite shannon_mathematical_1975 %} ainsi que celles issues des recherches en science sociale de l'Université de Palo Alto{% cite watzlawick_pragmatics_1967 %} dans les années 1960, permet de penser les relations et interactions au sein d'un système.
+Pour creuser en profondeur la logique et la sémantique qui découlent de la bifurcation, nous allons voir en quoi l'approche analytique de la cybernétique de &ndash; {% cite wiener_cybernetique_2014 %} &ndash;, et à laquelle se rattachent les théories de l'information de &ndash; {% cite shannon_mathematical_1975 %} &ndash; ainsi que celles issues des recherches en science sociale de l'Université de Palo Alto dans les années 1960, permet de penser les relations et interactions au sein d'un système.
 
 Norbert Wiener était un spécialiste de l'énergie ayant travaillé sur la notion de cybernétique, celle-ci part du constat que la machine permet aux humains de sortir de leurs limites physiques &ndash; un camion équivalant à 10 000 jambes &ndash; mais que les sociétés, en créant ces machines, dévorent de l'énergie de manière exponentielle parallèlement à leurs complexifications.
 
@@ -18,15 +18,11 @@ En présentant des [ontologies](https://bifurcation.etxetxe.fr/7-annexes/lexique
 
 ![image](https://bifurcation.etxetxe.fr/images/morris.jpg)
 
-**Card File**, Robert Morris, _1962_, Tiroir de fichier métallique monté sur planche de bois fixée au mur et contenant 48 fiches cartonnées et indexée, Métal, bois, papier
-
-68,5 x 27 x 4 cm
+{% cite card_robert_morris %}
 
 ![image](https://bifurcation.etxetxe.fr/images/serra.jpg)
 
-**Verblist**, Richard Serra, _1967-68_, crayon sur deux feuilles de papier
-
-25,4 x 21,6 cm
+{% cite verb_richard_serra %}
 
 La base de donnée de Robert Morris et les listes de Richard Serra proposent des pièces dont la finalité se trouve dans la description et la classification de leurs procédés. En procédant à une mise à plat des concepts, les artistes conceptuels ont cherchés à établir une grille de lecture pour poser la condition d'une œuvre non plus en tant qu'objet en soi mais comme le résultat de décisions, opérant une mise à plat de leurs pratiques et de leurs définitions afin de les reconfigurer.
 
@@ -34,7 +30,7 @@ Le [signifiant](https://bifurcation.etxetxe.fr/7-annexes/lexique/), le [signifi�
 
 Les langage et les signes peuvent être séquencés et analysé par des balises sémantiques, devenant une information au sein d'une base de donnée structurelle où chaque _data_ extraite devient autant de port [I/O](https://bifurcation.etxetxe.fr/7-annexes/lexique/) vers d'autres base de données, générant à leur tour de nouvelles interactions.
 
-L'état actuel de la recherche de l'apprentissage profond{% cite goodfellow_generative_2014 %} montre que la question du séquençage par la machine ne fait que s'accélérer, celle-ci devenant capable de développer des patterns pour extraire et trier ainsi que de proposer une infinité de mode de représentation.
+L'état actuel de la recherche de l'apprentissage profond &ndash; voir {% cite goodfellow_generative_2014 %} &ndash; montre que la question du séquençage par la machine ne fait que s'accélérer, celle-ci devenant capable de développer des patterns pour extraire et trier ainsi que de proposer une infinité de mode de représentation.
 
 ![image](https://bifurcation.etxetxe.fr/images/bury.png)
 
