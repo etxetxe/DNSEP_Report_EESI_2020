@@ -18,5 +18,9 @@ Mémoire d'[Étienne Baron](https://urltr.ee/etxetxe) dans le cadre du Diplôme 
 
 [Version PDF imprimable](/telechargement/baron-etienne-bifurcation-carnet-de-recherche-cc-by-nc-sa.pdf).
 
+[Fichier 3D pour la reliure](/telechargement/pegbar_reliure.stl)
+
+[Patron pour la reliure](/telechargement/pegbar_reliure_patron.pdf)
+
 ### Contexte
 Ce travail de recherche est réalisé dans le cadre du Diplôme National Supérieur d'Expression Plastique à l'[ÉESI Angoulême-Poitiers](https://www.eesi.eu/site/index.php).
