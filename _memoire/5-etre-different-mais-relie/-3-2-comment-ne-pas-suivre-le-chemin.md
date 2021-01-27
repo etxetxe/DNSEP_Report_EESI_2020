@@ -58,4 +58,4 @@ Claude Shannon, père de la théorie de l'information, était de ce fait égalem
 
 **Portrait officiel de Luther Blissett, personnalité fictive adoptée par de nombreux collectifs et mouvements activistes au cours des années 90**
 
-Tomàs Saraceno, à l'origine du « Manifeste de l'Aérocène », Ewen Chardronnet, fondateur de « l'Association des Astronautes Autonomes{%  cite chardronnet_mojave_2016 %} », ainsi que d'une certaine manière le mouvement « Luther Blissett », explorent à la fois des voies poétiques, humoristiques et militantes de réappropriation de l'espace des imaginaires à travers l'installation, le détournement et également en explorant des pratiques liées à la mémétique.
+Tomàs Saraceno, à l'origine du « Manifeste de l'Aérocène », Ewen Chardronnet, fondateur de « l'Association des Astronautes Autonomes », ainsi que d'une certaine manière le mouvement « Luther Blissett », explorent à la fois des voies poétiques, humoristiques et militantes de réappropriation de l'espace des imaginaires à travers l'installation, le détournement et également en explorant des pratiques liées à la mémétique.
