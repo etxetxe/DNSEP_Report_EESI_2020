@@ -50,6 +50,6 @@ La pensée eugéniste &ndash; qui découle de l'application des méthodes d'orga
 
 Pour &ndash; {% cite illich_convivialite_2014 %} &ndash; plus un système va chercher à s'ordonner, plus il créera du désordre, autrement dit à une force concentrique va s'opposer une force de dispersion qui réduira son mouvement : c'est ce qu'il théorise sous le nom de [mnémozyne](https://bifurcation.etxetxe.fr/7-annexes/lexique/), en référence à la divinité grecque du chaos.
 
-Et c'est dans l'ouvrage de_{% cite stiegler_quappelle-t-panser_2018 %}, que celui-ci invite, en récupérant un verbe du vocabulaire de Jacques Derrida, _panser_,à prendre en compte, au sein de ces relations qui existent entre les systèmes et leurs structures, ces tensions afin de préserver notre capacité de création et de changement.
+Et c'est dans l'ouvrage de_{% cite stiegler_quappelle-t-panser_2018 %}, que celui-ci invite, en récupérant un verbe du vocabulaire de Jacques Derrida, _panser_, à prendre en compte, au sein de ces relations qui existent entre les systèmes et leurs structures, ces tensions afin de préserver notre capacité de création et de changement.
 
 Mais si on a pu constater qu'observer les systèmes, comprendre leurs relations afin de proposer des manières de dépasser les tensions inhérentes à ces structures permettait de proposer des formes de bifurcation, il sera fait état de la difficulté de souligner la singularité d'une proposition de ce type.
