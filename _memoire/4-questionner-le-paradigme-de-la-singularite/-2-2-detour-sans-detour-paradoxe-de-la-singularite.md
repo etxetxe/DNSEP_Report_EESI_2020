@@ -12,7 +12,7 @@ _S'égarer volontairement suppose de baliser son chemin pour mieux se perdre, et
 
 _{% cite benjamin_loeuvre_2018 %}  &ndash; posait comme postulat la remise en question du caractère singulier de l'objet d'art en tant que présupposé de sa valeur pour en privilégier les processus et les interactions._
 
-_Et c'est précisément parce que les tendances des intelligences artificielles, en concevant des modes de traitement des données sous l'angle des similarités et en privilégiant les solutions établies les plus efficaces, ne parviennent pas &ndash; selon l'article de {% cite manovich_esthetique_2017 %} &ndash; à véritablement se [singulariser](https://bifurcation.etxetxe.fr/7-annexes/lexique/)._
+_Et c'est précisément parce que les intelligences artificielles conçoivent des modes de traitement des données sous l'angle des similarités et privilégient les solutions établies les plus efficaces qu'elles ne parviennent pas &ndash; selon la thèse de l'article de {% cite manovich_esthetique_2017 %} &ndash; à véritablement se [singulariser](https://bifurcation.etxetxe.fr/7-annexes/lexique/)._
 
 _Il s'agit de définir des chemins, non pas sous l'angle de la possibilité mais sous celui de la potentialité._
 
@@ -38,11 +38,11 @@ _La scène de torture d'Alex, lorsqu’il est sur le fauteuil, les yeux écarqui
 
 ![image](https://bifurcation.etxetxe.fr/images/alex.png)
 
-_Car ce que l'on raconte par le médium que l'on choisi de montrer découle de cette intention de départ, proposer des chemins multiples pour échapper à cette captation d’attention. Peut-être qu'il te faudrait développer un certain nombre de pièce où tu mettrais en exergue ces différents concepts._
+_Car ce que l'on raconte par le médium et ce que l'on choisi de montrer découlent de cette intention de départ, proposer des chemins multiples pour échapper à cette captation d’attention. Peut-être qu'il te faudrait développer un certain nombre de pièce où tu mettrais en exergue ces différents concepts._
 
 _Je pense notamment &ndash; comme dans le film d'{% cite cleo_5_7 %} ou dans le cinéma de la modernité &ndash; à ces rencontres au coin de la rue qui commencent et finissent sans crier gare. L'imprévisibilité est une composante du monde réel, c'est ce qu'on appelle [la contingence](https://bifurcation.etxetxe.fr/7-annexes/lexique/)._
 
-_Et c'est aussi pour cela qu'Internet et l'hypertexte font peur. De par leurs nature délinéarisée, ils sous-tendent la digression en tant que médium, elle nous ramène à l'angoisse de la perte d'attention et de l'affaiblissement de la mémoire, phénomène dont les psychologues nous mettent en garde._
+_Et c'est aussi pour cela qu'Internet et l'hypertexte font peur. De par leurs nature délinéarisée, ils sous-tendent la digression en tant que médium et nous ramènent à l'angoisse de la perte d'attention et de l'affaiblissement de la mémoire, phénomène dont les psychologues nous mettent en garde._
 
 _Cette peur va de pair avec l'idée que cette perte nous éloignerait de notre histoire, de nos cadres structurants, et nous emmènerait vers notre fin. Le hasard contiendrait à la fois une valeur créative et une valeur chaotique._
 
@@ -68,6 +68,6 @@ Ces dernières tentent de réinterroger en permanence les acquis successifs de l
 
 Cet exemple illustre le changement de paradigme qui s'est substitué à un régime où l'Académie mettait en oeuvre un ordre de représentation qui avait valeur de canon : et c'est précisément parce que la norme elle-même a fini par échapper à la réalité du monde qu'elle n'a pas pu gérer le désordre provoqué par les Avants-Gardes.
 
-La théorie de _l'enaction_,  conceptualisée par Francisco Varela et Gregory Bateson à l'Université de Palo Alto, parle de l'expérience sous l'angle de l'interaction d'un individu avec son milieu. En considérant le dispositif artistique comme une carte, on peut dès lors parler de cette expérience du point de vue du spectateur : comment peut-on le solliciter et comment peut-il échapper à ce qui lui est proposé ?
+La théorie de _l'enaction_,  conceptualisée par Francisco Varela et Gregory Bateson à l'université de Palo Alto, parle de l'expérience sous l'angle de l'interaction d'un individu avec son milieu. En considérant le dispositif artistique comme une carte, on peut dès lors parler de cette expérience du point de vue du spectateur : comment peut-on le solliciter et comment peut-il échapper à ce qui lui est proposé ?
 
 En réalité, une bifurcation ne s'accomplit jamais sans qu'une résistance du milieu n'y applique une force coercitive. Il sera question prochainement de la façon dont ce milieu influence la manière de suivre un chemin.

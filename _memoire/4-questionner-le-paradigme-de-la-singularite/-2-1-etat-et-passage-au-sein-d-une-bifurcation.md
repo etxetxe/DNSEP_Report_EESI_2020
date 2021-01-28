@@ -33,25 +33,25 @@ _C'est ce dont Heidegger nous parle en évoquant l'image de ces "chemins qui ne 
 
 _Peut-être que [l'erreur 404](https://bifurcation.etxetxe.fr/404.html) pourrait nous emmener vers un raccourci mais elle ne déboucherait finalement que sur un terrier de lapin._
 
-_Dès lors, on finit par ne plus bifurquer du tout. Il ne faut cependant pas reconsidérer notre mouvement, mais notre position Il s'agit de prendre de la hauteur._
+_Dès lors, on finit par ne plus bifurquer du tout. Il ne faut cependant pas reconsidérer notre mouvement, mais notre position. Il s'agit de prendre de la hauteur._
 
 _Pour revenir sur l'histoire de mon site web, il fallait que je trouve une manière de tracer une carte de l'ensemble de mes activités diverses pour les survoler d'un seul coup d'œil._
 
-_Pour en concevoir la topologie, il a également fallu que je définisse les particularités de chaque projet et cerner leurs relations proxémiques ; aucuns projets n'étant à la même échelle ni au même niveau de complexité._
+_Pour en concevoir la topologie, il a également fallu que je définisse les particularités de chaque projet et que je cerne leurs relations proxémiques ; aucuns projets n'étant à la même échelle ni au même niveau de complexité._
 
-_Traverser à rebours ce chemin, c'est poser les bases d'une démarche de création et de conception qui m'est propre. Arpenter la chaîne d'un système en suivant son fil rouge permet de se confronter à la contingence._
+_Traverser à rebours ce chemin, c'est poser les bases d'une démarche de création et de conception qui m'est propre. Arpenter la chaîne d'un système en suivant son fil rouge permet de se confronter à la [contingence](https://bifurcation.etxetxe.fr/7-annexes/lexique/)._
 
-_Selon Jean-Louis Boissier, dans son ouvrage La relation comme forme, l'algorithme pose des conditions dans la manipulation de variable afin d'aboutir à des résultats, probants ou non, attendus ou inattendus. L'ensemble de ces pistes est une forme en soi, celle de [la prospection](https://bifurcation.etxetxe.fr/7-annexes/lexique/). Mais ce qui est au cœur de la logique algorithmique est avant tout la gestion de l'aléatoire._
+_Selon Jean-Louis Boissier, dans son ouvrage La relation comme forme, l'algorithme pose des conditions dans la manipulation de variables afin d'aboutir à des résultats, probants ou non, attendus ou inattendus. L'ensemble de ces pistes est une forme en soi, celle de [la prospection](https://bifurcation.etxetxe.fr/7-annexes/lexique/). Mais ce qui est au cœur de la logique algorithmique est avant tout la gestion de l'aléatoire._
 
 _Ce qui va le différencier d'un modèle probabiliste, c'est le fait de réduire petit à petit le nombre de possibilités afin d'aboutir à un choix. On pourrait concevoir une infinité de chemins chaotiques que l'on baliserait en restreignant le champ d'action._
 
-_Les géants du Web, que l'on regroupe généralement sous l'acronyme de GAFAM ou BATX pour la Chine, ont basé leur modèle d'entreprise sur la maîtrise de l'ensemble de la chaîne d'un système, en l'occurrence les datas_
+_Les géants du Web, que l'on regroupe généralement sous l'acronyme de GAFAM ou BATX pour la Chine, ont basé leur modèle d'entreprise sur la maîtrise de l'ensemble de la chaîne d'un système, en l'occurrence les datas._
 
-_Cette précision est importante : une donnée n'a de valeur uniquement par les relations qu'elle peut tisser avec son environnement._
+_Cette précision est importante : une donnée n'a de valeur que par les relations qu'elle peut tisser avec son environnement._
 
-_La mise en place d’un système expert, en proposant des services et des infrastructures pour des usages aussi divers que la fouille de données ou la visualisation de flux, impose le fait de devoir montrer qu'un [complexe](https://bifurcation.etxetxe.fr/7-annexes/lexique/) existe, dont la nature sera précisée dans le prochain chapitre.._
+_La mise en place d’un système expert, en proposant des services et des infrastructures pour des usages aussi divers que la fouille de données ou la visualisation de flux, impose de montrer qu'un [complexe](https://bifurcation.etxetxe.fr/7-annexes/lexique/) existe, dont la nature sera précisée dans le prochain chapitre._
 
-_Et c'est justement pour décortiquer ces complexes qu'il me paraîtrait judicieux que des outils critiques en art soient disponibles et accessibles pour casser ces relations en circuit fermé, notamment en détournant et en comprenant ces technologies. Il en est ainsi des stratégies mises en place, que je nommerais ici "[patterns](https://bifurcation.etxetxe.fr/7-annexes/lexique/)", dont l’objectif est de nous faire rester dans un circuit en vase clos_
+_Et c'est justement pour décortiquer ces complexes qu'il me paraîtrait judicieux que des outils critiques en art soient disponibles et accessibles pour casser ces relations en circuit fermé, notamment en détournant et en comprenant ces technologies. Il en est ainsi des stratégies mises en place, que je nommerai ici « [patterns](https://bifurcation.etxetxe.fr/7-annexes/lexique/) », dont l’objectif est de nous faire rester dans un circuit en vase clos._
 
 _La rétroaction qui survient répond dès lors d'un processus d'adaptation à un nouvel environnement, ce mécanisme de retour, ou "[feedback](https://bifurcation.etxetxe.fr/7-annexes/lexique/)" selon le vocabulaire de Norbert Wiener, est une des caractéristiques essentielles de la théorie cybernétique que l'on retrouve sous le nom [d'IHM](https://bifurcation.etxetxe.fr/7-annexes/lexique/) ou Interfaces Hommes-Machines._
 

@@ -1,4 +1,4 @@
-Un travail de recherche, qui comprend également de manière plus large les pratiques artistiques, se caractérise par un ensemble de processus dans lesquels ce que l'on fait, ce que l'on pense et ce que l'on crée sont amenés à se transformer. De celle-ci, la plus notable et en même temps la plus insaisissable est sans nul doute celle de la bifurcation.
+Un travail de recherche, qui comprend également de manière plus large les pratiques artistiques, se caractérise par un ensemble de processus dans lesquels ce que l'on fait, ce que l'on pense et ce que l'on crée sont amenés à se transformer. Parmi ces processus, le plus notable et en même temps le plus insaisissable est sans nul doute celle de la bifurcation.
 
 Tenter de saisir, au travers du témoignage de ses propres bifurcations, la nature même de cette notion permet d'engager une démarche de pensée portant, non pas sur la description de son travail, mais sur les choix opérés et les associations réalisées au sein d'un parcours singulier.
 
