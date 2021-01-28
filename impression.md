@@ -47,11 +47,6 @@ layout: print
 
 {% include_relative _memoire/6-conclusion/-conclusion.md %}
 
-<h1 class="chapter" id="n-n">Notes</h1>
-<p>Les notes sont placées à la fin de ce document, à défaut de pouvoir être intégrées en pied de page ou dans les différentes parties concernées.</p>
-* footnotes will be placed here. This line is necessary
-{:footnotes}
-
 <h1 class="chapter" id="n-a">Annexes</h1>
 
 <h1 class="biblio" id="n-a-1">Lexique</h1>
